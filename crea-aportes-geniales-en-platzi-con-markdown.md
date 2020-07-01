@@ -1,22 +1,22 @@
 ✍️💡 Crea-aportes-geniales-en-Platzi-con-Markdown  👨‍🎨👩‍🎨
 
 
-Las ideas recién nacidas son frágiles, y expuestas de la forma incorrecta en el entorno incorrecto, irremediablemente están destinadas a morir. **En Platzi estas en el entorno correcto y en esta publicación encontrarás los mejores atuendos para adornar tus ideas y exponerlas correctamente y dandoles la mejor apariencia con Markdown**, una forma rápida y efectiva de darle estilo a tus ideas para que resplandezcan y resalten en público, y si hay suerte, vuelvan a ti, diferentes, enriquecidas, renovadas. 
+Las ideas recién nacidas son frágiles y, expuestas de la forma incorrecta en el entorno incorrecto, irremediablemente están destinadas a morir. **En Platzi estas en el entorno correcto y en esta publicación encontrarás los mejores atuendos para adornar tus ideas y exponerlas correctamente con Markdown**, una forma rápida y efectiva de darle estilo a tus ideas para que resplandezcan y resalten en público y, si hay suerte regresen a ti, diferentes, enriquecidas, renovadas. 
 ---
 
 ==«==
 ---
-> _" ¿Alguna vez te ha pasado que tardas horas redactando algo, y al momento de publicarlo cambia totalmente su apariencia? En esta serie de publicaciones busco atacar este problema con las herramientas disponibles actualmente en Platzi. **Basicamente he probado de todo un poco y en esta guia te dire que funciona y que no**.  Antes de continuar, te recomiendo dirigirte a [StackEdit](https://stackedit.io/app#), allí encontrarás  un editor en línea de Markdown donde puedes practicar lo que veremos y, ya que estás allí, incluso puedes enlazarlo con tu cuenta de Google Drive y ya tendrás un ecosistema listo para ayudarte a publicar. Tambien puedes utilizar GitHub para editar tu publicaciones, simplemente debes guardarlas como archivos con extension.md sin embargo hay un par de etiquetas que no funcionan en GitHub como ya lo veremos mas adelante. "_
+> _" ¿Alguna vez te ha pasado que tardas horas redactando algo, y al momento de publicarlo cambia totalmente su apariencia? En esta serie de publicaciones busco atacar este problema con las herramientas disponibles actualmente en Platzi. **Basicamente he probado de todo un poco y en esta guia te dire que funciona y que no**.  Todo lo que veras en este minitutorial es aplicable en Platzi, pero te recomiendo que antes de continuar, vayas a [StackEdit](https://stackedit.io/app#), el cual es un editor en línea de Markdown donde puedes practicar todo lo que veremos. Tambien puedes utilizar GitHub para editar tu publicaciones, simplemente debes guardarlas como archivos con extension .md. "_
 
 ==»==
 ---
 
 
-Una de las grandes ventajas de este editor es una extensibilidad y adaptabilidad, por ende, al momento en que estés leyendo estas líneas, es posible que sus funcionalidades hayan sido extendidas o modificadas. Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. Puedes usar Markdown en Slack para [comunicarte con tu equipo de trabajo](https://platzi.com/clases/slack/ "Curso de Comunicación Online con Slack"), puedes usarlo en Platzi como veremos mas adelante y es el lenguaje de marcado por defecto en la documentación de los proyectos que usan [Git-hub](https://platzi.com/clases/git-github/ "Curso Profesional de Git y GitHub").  
+Platzi utiliza una versión de Markdown creada por ellos llamada [Pulse Editor](https://platzi.com/blog/presentamos-pulse-editor/). Una de las grandes ventajas de este editor es su extensibilidad y adaptabilidad, por ende, al momento en que estés leyendo estas líneas es posible que sus funcionalidades hayan sido extendidas o modificadas. 
 
 ## ¿Qué Aprenderemos?
 
-Aprenderemos como controlar la visualización del documento; escribir en _italico_, ==resaltando== palabras en **negrita**, insertando [enlaces](), agregando 👨‍🚀Emojis🚀,  [![url2](https://via.placeholder.com/75x16/444/fcfcfc?text=Botones "Código Fuente del artículo Imágenes")](#), organizando tus datos en listas o tablas. Aprenderemos como utilizar variables para ahorrarnos mucho trabajo con las referencias, los enlaces y las imagenes. También se incluyen un par de trucos extra para traer [![url2](https://via.placeholder.com/75x16/98ca3f/444?text=Color "Código Fuente del artículo Imágenes")]() a nuestras publicaciones y para finalizar, veremos como crear publicaciones con expresiones matemáticas **y obviamente no podria faltar, veremos como insertar imágenes, animaciones y videos.** 
+Aprenderemos como controlar la visualización del documento; escribir en _italico_, ==resaltando== palabras en **negrita**, insertando [enlaces](), agregando 👨‍🚀Emojis🚀,  [![url2](https://via.placeholder.com/75x16/444/fcfcfc?text=Botones "Botones")](#), organizando tus datos en listas o tablas. Aprenderemos como utilizar variables para ahorrarnos mucho trabajo con las referencias, los enlaces y las imágenes. También se incluyen un par de trucos extra para traer [![url2](https://via.placeholder.com/75x16/98ca3f/444?text=Color "Color")]() a nuestras publicaciones. Veremos como crear publicaciones con expresiones matemáticas **y obviamente no podria faltar, veremos como insertar imágenes, animaciones y videos.** 
 
 ==«==
 ---
@@ -28,8 +28,9 @@ Aquí un breve adelanto:
 ==»==
 ---
 
-## Markdown en Platzi
+## ¿Donde puedo usar Markdown?
 
+Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. Puedes usar Markdown en Slack para [comunicarte con tu equipo de trabajo](https://platzi.com/clases/slack/ "Curso de Comunicación Online con Slack"), puedes usarlo en Platzi como veremos mas adelante y es el lenguaje de marcado por defecto en la documentación de los proyectos que usan [Git-hub](https://platzi.com/clases/git-github/ "Curso Profesional de Git y GitHub").  
 
 **Markdown es utilizado para casi todos los mecanismos de participación y comunicación en Platzi**, _excepto en los marcadores, el chat de las transmisiones en vivo y en la descripción de tus proyectos de tu perfil para [Platzi Connect](https://platzi.com/empleos/)_
 
@@ -96,4 +97,4 @@ Fuentes:
 
 Hecho con el 💚 en el 2K20. 
 
-[⚫](https://github.com/mistersoftware/Escribe-con-estilo-usando-Markdown/blob/master/00-Escribe-con-estilo-usando-Markdown.md "Repositorio de este articulo en GitHub")
+[⚫](https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/crea-aportes-geniales-en-platzi-con-markdown.md "Repositorio de este articulo en GitHub")
