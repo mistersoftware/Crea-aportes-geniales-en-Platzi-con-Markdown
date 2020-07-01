@@ -55,7 +55,7 @@ Puedes subir tus imágenes y GIF a un servicio gratuito como [Imgur][url-imgur] 
 ---
 
 
-[![Slack Badge][url-img-slack]][url-curso-slack] [![Escritura Online Badge][url-img-escritura]][url-curso-escritura][![Casco astronauta animado][url-img-casco]][url-platzi]
+[![Slack Badge][url-img-slack]][url-badge-curso-slack] [![Escritura Online Badge][url-img-badge-escritura]][url-curso-escritura][![Casco astronauta animado][url-img-casco]][url-platzi]
 
 
 ==«==
@@ -99,8 +99,8 @@ Hecho con el 💚 en el 2K20.
 [url-img-codecogs]: https://i.imgur.com/t1bOxue.png "codecogs"
 [url-img-escritura]: https://i.imgur.com/3gtTnRU.gif "animación pluma"
 [url-img-vistoporjuan]: https://i.imgur.com/W0D6elt.gif "Subir imagen en Platzi"
-[url-img-slack]: https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png
-[url-img-escritura]: https://static.platzi.com/media/achievements/badge-escritura-online-1-ad291a75-10e8-426e-841d-fe66e340ccb6.png
+[url-img-badge-slack]: https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png
+[url-img-badge-escritura]: https://static.platzi.com/media/achievements/badge-escritura-online-1-ad291a75-10e8-426e-841d-fe66e340ccb6.png
 
 
 [url-platzi]: https://platzi.com/cursos "Nunca pares de aprender"
