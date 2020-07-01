@@ -33,9 +33,8 @@ Puedes subir tus imágenes y GIF a un [servicio gratuito como Imgur][url-imgur] 
  ![Data](https://static.platzi.com/media/learningpath/banners/1c4f4add-87b9-44cc-ba30-4a8a134bf76e.jpg)
 ==«==
 ---
+
 >Si usas el navegador Google Chrome o Mozilla Firefox en la versión web, podrás adjuntar imágenes **_(exclusivamente de formato PNG y JPG)_** arrastrando la imagen de tu explorador de archivos a la casilla donde escribes el comentario. 
->
-> [_"Cortesia de @vistoporjuan"_](https://platzi.com/comunidad/como-agrego-imagenes-en-los-comentarios/ "Yo ni le pregunte si podia incluirla aquí pero como la idea es construir sobre el conocimiento ya existente y no inventar la rueda todos los dias aquí esta - ve y dejale un like - y uno a mi también que tu dedo no se va a partir 😆 ")._
 
 ==»==
 ---
