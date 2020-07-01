@@ -280,7 +280,7 @@ https\:/[]()/example.com/
 
 **_Continúa tu aprendizaje con:_**
 
-*  [📷_Integrar imágenes en tus comentarios o tutoriales_⏩](https://platzi.com/comunidad/integrar-imagenes-en-tus-comentarios-o-tutoriales/ "✍️📷 Integrar imágenes en tus comentarios o tutoriales con Markdown 👨‍🎨👩‍🎨") 
+* 📷 [_Integrar imágenes en tus comentarios o tutoriales_](https://platzi.com/comunidad/integrar-imagenes-en-tus-comentarios-o-tutoriales/ "✍️📷 Integrar imágenes en tus comentarios o tutoriales con Markdown 👨‍🎨👩‍🎨") ⏩
 
 ==»==
 ---
