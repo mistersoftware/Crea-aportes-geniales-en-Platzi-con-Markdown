@@ -107,17 +107,27 @@ Hecho con el 💚 en el 2K20.
 
 [⚫][url-repositorio]
 
-[url-repositorio]: https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/04-expresate-con-emojis-con-markdown.md
+[url-repositorio]: https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/05-agiliza-tu-escritura-con-variables-don-t-repeat-yourself-con-markdown.md "Código fuente de esta publicación en GitHub"
+
 
 [url-stackedit]: https://stackedit.io/app#/ "Editor en línea de Markdown"
 [url-imgur]: https://imgur.com/ "Servicio gratuito de imágenes de Reddit"
-[url-recordit]: https://recordit.co/
-[url-asciinema]: https://itsfoss.com/asciinema-record-terminal/
+[url-recordit]: https://recordit.co/ "Graba tu pantalla"
+[url-asciinema]: https://itsfoss.com/asciinema-record-terminal/ "Copia el texto desde el video a la terminal"
+[url-codecogs]: https://www.codecogs.com/latex/eqneditor.php "Convierte código latex a imágenes"
+[url-rmarkdown]: https://rmarkdown.rstudio.com/ "una versión extendida de Markdown"
+[url-traduccion-hipotesis]: https://platzi.com/tutoriales/1319-discretas/6238-hipotesis-de-riemann-traduccion-al-espanol/ "Traducción Hipótesis"
+[url-overleaf]: https://www.overleaf.com/ "Código laTex en la nube"
+[url-medium]: https://medium.com/@luiscarlos_40534/sobre-la-cantidad-de-n%C3%BAmeros-primos-por-debajo-de-una-cantidad-dada-%C3%BCber-die-anzahl-der-799ff571dd9 "articulo en Medium"
+
 
 [url-servidores]: https://i.imgur.com/xsquSxI.gif "Servidores A B C"
-[url-casco]: https://i.imgur.com/b1kbwbR.gif
+[url-casco]: https://i.imgur.com/b1kbwbR.gif "Casco"
 [url-subir-imagen]: https://i.imgur.com/XXBeF2X.gif "Como subir imágenes en Platzi"
 [url-img-learning]: https://static.platzi.com/media/learningpath/banners/1c4f4add-87b9-44cc-ba30-4a8a134bf76e.jpg "Learning path"
+[url-ecuacion]: https://i.imgur.com/P4PL4vb.gif "Ecuacion en laTex"
+[url-img-codecogs]: https://i.imgur.com/t1bOxue.png "codecogs"
+[url-img-escritura]: https://i.imgur.com/3gtTnRU.gif "animación pluma"
 
 [url-platzi]: https://platzi.com/cursos "Nunca pares de aprender"
 [url-connect]: https://platzi.com/empleos/ "Platzi Connect"
@@ -138,7 +148,7 @@ Hecho con el 💚 en el 2K20.
 [url-videos]: https://platzi.com/comunidad/incrusta-videos-en-tus-aportes-para-platzi-y-un-tip-para-incluirlos-en-github-con-markdown/ "✍️📺 Incrusta videos en tus aportes en Platzi y un tip para incluirlos en GitHub con Markdown 👨‍🎨👩‍🎨"
 [url-ascii]: https://platzi.com/comunidad/ascii-art-branding-en-tu-codigo-con-markdown/ "✍️🔣 ASCII Art: branding en tu código con Markdown 👨‍🎨👩‍🎨"
 [url-matematicas]: https://platzi.com/comunidad/bonus-inserta-formulas-matematicas-creadas-en-latex-con-markdown/ "✍️➗ Bonus: Inserta fórmulas matemáticas creadas en laTex con Markdown 👨‍🎨👩‍🎨"
-[url-emojis-todos]: https://platzi.com/comunidad/emojis-y-mas-emojis-con-estilo-en-markdown/ "Listado completo de emojis en Markdown"
+[url-emojis-todos]: https://platzi.com/comunidad/listado-completo-de-emojis-en-markdown/ "✍️😍 Listado completo de emojis en Markdown 👨‍🎨👩‍🎨"
 
 >1. 📖 [Formatos de texto, citas, enlaces y código para mejorar tus aportes ][url-textos]
 >1. 📷 [Integrar imágenes en tus comentarios o tutoriales][url-imagenes]
@@ -151,3 +161,4 @@ Hecho con el 💚 en el 2K20.
 >1. 📺 [Incrusta videos en tus aportes en Platzi y un tip para incluirlos en GitHub][url-videos]
 >1. 🔣 [ASCII Art: branding en tu código][url-ascii]
 >1. ➗ [Bonus: Inserta fórmulas matemáticas creadas en laTex][url-matematicas]
+
