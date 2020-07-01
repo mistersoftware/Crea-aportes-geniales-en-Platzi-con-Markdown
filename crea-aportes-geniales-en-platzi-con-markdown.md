@@ -72,7 +72,7 @@ Markdown es muy utilizado en la industria de la tecnología por su versatilidad 
 
 **_Continúa tu aprendizaje con:_**
 
-* ⏩ [_Formatos de texto, Citas, enlaces y código para mejorar tus aportes_](https://platzi.com/comunidad/formatos-de-texto-citas-enlaces-y-codigo-para-mejorar-tus-aportes) 📖
+* 📖 [_Formatos de texto, Citas, enlaces y código para mejorar tus aportes_](https://platzi.com/comunidad/formatos-de-texto-citas-enlaces-y-codigo-para-mejorar-tus-aportes) ⏩
 
 
 ==»==
