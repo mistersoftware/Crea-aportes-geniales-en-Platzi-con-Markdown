@@ -43,9 +43,7 @@ Markdown es muy utilizado en la industria de la tecnología por su versatilidad 
 * **Mensajes directos** pueden ser enviados entre estudiantes que han decidido no poner en privado su perfil.
 * También puedes participar en el **Blog Oficial** enviando un correo a team@platzi.com donde ellos te indicaran los pasos a seguir.
 
-Esta guía ha sido creada con la ayuda del _team Platzi_ y los aportes de otros estudiantes, ojalá sea de tu agrado.
-
-@luisca
+Esta guía ha sido creada con la ayuda del _team Platzi_ y los aportes de otros estudiantes, ojalá sea de tu agrado. @luisca
 
 ==«==
 ---
@@ -159,5 +157,5 @@ Hecho con el 💚 en el 2K20.
 >1. ➗ [Bonus: Inserta fórmulas matemáticas creadas en laTex][url-matematicas]
 
 
-
+https://platzi.com/comunidad/nada-quce-ver-por-aqui-esto-es-un-test-de-url-don-t-repeat-yourself/
 
