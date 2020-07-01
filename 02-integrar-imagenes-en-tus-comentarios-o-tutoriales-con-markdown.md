@@ -40,7 +40,7 @@ Puedes subir tus imágenes y GIF a un servicio gratuito como [Imgur][url-imgur] 
 ==»==
 ---
   
-![subir-vistoporjuan][url-vistoporjuan]
+![subir-vistoporjuan][url-img-vistoporjuan]
 
 
 ## Imágenes con enlace
