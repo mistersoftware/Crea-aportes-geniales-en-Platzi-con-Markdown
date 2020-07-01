@@ -47,7 +47,11 @@ Puede que jamás lo utilices, pero si quieres darle un toque distintivo a los en
 88          ^Y8`^8bbdP"Y8   ^Y888 888888888 88  
 ````
 
+Si todo sale bien, debería verse así:
+
+
 ![logo-platzi-ascii][url-img-ascii]
+
 
 Deja en el sistema de comentarios cuales otras formas de generar ASCII Art conoces.
 
