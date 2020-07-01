@@ -47,6 +47,8 @@ Puede que jamás lo utilices, pero si quieres darle un toque distintivo a los en
 88          ^Y8`^8bbdP"Y8   ^Y888 888888888 88  
 ````
 
+![logo-platzi-ascii][url-img-ascii]
+
 Deja en el sistema de comentarios cuales otras formas de generar ASCII Art conoces.
 
 
@@ -89,6 +91,7 @@ Hecho con el 💚 en el 2K20.
 [url-ecuacion]: https://i.imgur.com/P4PL4vb.gif "Ecuacion en laTex"
 [url-img-codecogs]: https://i.imgur.com/t1bOxue.png "codecogs"
 [url-img-escritura]: https://i.imgur.com/3gtTnRU.gif "animación pluma"
+[url-img-ascii]: https://i.imgur.com/DNgcFgx.png "Logo Platzi en ascii"
 
 [url-platzi]: https://platzi.com/cursos "Nunca pares de aprender"
 [url-connect]: https://platzi.com/empleos/ "Platzi Connect"
