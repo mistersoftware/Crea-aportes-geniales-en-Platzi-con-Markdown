@@ -1,6 +1,6 @@
 ✍️📖 Formatos de texto, citas, enlaces y código para mejorar tus aportes con Markdown 👨‍🎨👩‍🎨
 
-_Anterior:_ ⏪ [_✍️💡Crea aportes geniales en Platzi con Markdown 👨‍🎨👩‍🎨_](https://platzi.com/blog/crea-aportes-geniales-en-platzi-con-markdown/ "✍️💡 Crea aportes geniales en Platzi con Markdown 👨‍🎨👩‍🎨")
+_Anterior:_ ⏪ [_✍️💡Crea aportes geniales en Platzi con Markdown 👨‍🎨👩‍🎨_][url-indice]
 
 
 ==«==
@@ -9,7 +9,7 @@ _Anterior:_ ⏪ [_✍️💡Crea aportes geniales en Platzi con Markdown 👨‍
 
 ## 📖 Formatos de texto, citas, enlaces y código para mejorar tus aportes
 
-Markdown es una forma de diseñar texto en la web, donde tú controlas la visualización del documento; resaltando palabras en **negrita** o _cursiva_, agregando 👨‍🚀[emojis](https://platzi.com/comunidad/emojis-y-mas-emojis-con-estilo-en-markdown/)🚀, imágenes, videos, creando listas o tablas. Te recomiendo antes de comenzar ir a [StackEdit](https://stackedit.io/app#)  un editor de Markdown en línea que te facilitara seguir esta guía.
+Markdown es una forma de diseñar texto en la web, donde tú controlas la visualización del documento; resaltando palabras en **negrita** o _cursiva_, agregando 👨‍🚀[emojis-todos][url-emojis-todos]🚀, imágenes, videos, creando listas o tablas. Te recomiendo antes de comenzar ir a [StackEdit][url-stackedit] un editor de Markdown en línea que te facilitara seguir esta guía.
 
 
 ==»==
@@ -280,18 +280,40 @@ https\:/[]()/example.com/
 
 **_Continúa tu aprendizaje con:_**
 
-* 📷 [_Integrar imágenes en tus comentarios o tutoriales_](https://platzi.com/comunidad/integrar-imagenes-en-tus-comentarios-o-tutoriales/ "✍️📷 Integrar imágenes en tus comentarios o tutoriales con Markdown 👨‍🎨👩‍🎨") ⏩
+* 📷 [_Integrar imágenes en tus comentarios o tutoriales_][url-imagenes] ⏩
 
 ==»==
 ---
 
 
 
-[📖](https://platzi.com/comunidad/formatos-de-texto-citas-enlaces-y-codigo-para-mejorar-tus-aportes-con-markdown/ "✍️📖 Formatos de texto, citas, enlaces y código para mejorar tus aportes con Markdown 👨‍🎨👩‍🎨")  [📷](https://platzi.com/comunidad/integrar-imagenes-en-tus-comentarios-o-tutoriales-con-markdown/ "✍️📷 Integrar imágenes en tus comentarios o tutoriales con Markdown 👨‍🎨👩‍🎨") [🎬](https://platzi.com/comunidad/dale-vida-y-movimiento-a-tus-aportes-con-animaciones-con-markdown/ "✍️🎬 Dale vida y movimiento a tus aportes con animaciones con Markdown 👨‍🎨👩‍🎨")  [🍕](https://platzi.com/comunidad/expresate-con-emojis-con-markdown/ "✍️🍕 Expresate con Emojis con Markdown 👨‍🎨👩‍🎨") [🆎](https://platzi.com/comunidad/agiliza-tu-escritura-con-variables-don-t-repeat-yourself-con-markdown/ "✍️🆎 Agiliza tu escritura con variables Don´t repeat yourself con Markdown 👨‍🎨👩‍🎨") [🔲](https://platzi.com/comunidad/inserta-botones-para-facilitar-la-navegación-de-tus-lectores-con-markdown/ "✍️🔲 Inserta botones para facilitar la navegación de tus lectores con Markdown 👨‍🎨👩‍🎨")  [🌈](https://platzi.com/comunidad/color-y-alegria-en-tus-aportes-con-markdown/ "✍️🌈 Color y alegria en tus aportes con Markdown 👨‍🎨👩‍🎨")  [☑️](https://platzi.com/comunidad/tablas-y-listas-tan-facil-como-nunca-lo-has-visto-con-markdown/ "✍️☑️ Tablas y listas tan facil como nunca lo has visto con Markdown 👨‍🎨👩‍🎨")  [📺](https://platzi.com/comunidad/incrusta-videos-en-tus-aportes-para-platzi-y-un-tip-para-incluirlos-en-github-con-markdown/ "✍️📺 Incrusta videos en tus aportes en Platzi y un tip para incluirlos en GitHub con Markdown 👨‍🎨👩‍🎨")  [🔣](https://platzi.com/comunidad/ascii-art-branding-en-tu-codigo-con-markdown/ "✍️🔣 ASCII Art: branding en tu código con Markdown 👨‍🎨👩‍🎨")  [➗](https://platzi.com/comunidad/bonus-inserta-formulas-matematicas-creadas-en-latex-con-markdown/ "✍️➗ Bonus: Inserta fórmulas matemáticas creadas en laTex con Markdown 👨‍🎨👩‍🎨")
+[📖][url-textos] [📷][url-imagenes] [🎬][url-animaciones] [🍕][url-emojis] [🆎][url-variables] [🔲][url-botones] [🌈][url-colores] [☑️][url-tablas] [📺][url-videos]  [🔣][url-ascii] [➗][url-matematicas]
 
 
 Hecho con el 💚 en el 2K20. 
 
-[⚫](https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/formatos-de-texto-citas-enlaces-y-codigo-para-mejorar-tus-aportes-con-markdown.md "Repositorio de este articulo en GitHub")
+[⚫][url-repositorio]
 
 
+[url-indice]: https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/00-crea-aportes-geniales-en-platzi-con-markdown.md "✍️💡 Crea aportes geniales en Platzi con Markdown 👨‍🎨👩‍🎨"
+[url-repositorio]: https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/formatos-de-texto-citas-enlaces-y-codigo-para-mejorar-tus-aportes-con-markdown.md "Repositorio de este articulo en GitHub"
+
+[url-connect]: https://platzi.com/empleos/ "Platzi Connect"
+[url-curso-git]: https://platzi.com/clases/git-github/ "Curso Profesional de Git y GitHub"
+[url-curso-slack]: https://platzi.com/clases/slack/ "Curso de Comunicación Online con Slack"
+[url-pulse-editor]: https://platzi.com/blog/presentamos-pulse-editor/ "El sabor personalizado de Markdown en Platzi"
+[url-stackedit]: https://stackedit.io/app#/ "Editor en linea de Markdown"
+[url-emojis-todos]: https://platzi.com/comunidad/emojis-y-mas-emojis-con-estilo-en-markdown/ "Listado completo de emojis en Markdown"
+
+
+[url-textos]: https://platzi.com/comunidad/formatos-de-texto-citas-enlaces-y-codigo-para-mejorar-tus-aportes-con-markdown/ "✍️📖 Formatos de texto, citas, enlaces y código para mejorar tus aportes con Markdown 👨‍🎨👩‍🎨"
+[url-imagenes]: https://platzi.com/comunidad/integrar-imagenes-en-tus-comentarios-o-tutoriales-con-markdown/ "✍️📷 Integrar imágenes en tus comentarios o tutoriales con Markdown 👨‍🎨👩‍🎨"
+[url-animaciones]: https://platzi.com/comunidad/dale-vida-y-movimiento-a-tus-aportes-con-animaciones-con-markdown/ "✍️🎬 Dale vida y movimiento a tus aportes con animaciones con Markdown 👨‍🎨👩‍🎨"
+[url-emojis]: https://platzi.com/comunidad/expresate-con-emojis-con-markdown/ "✍️🍕 Expresate con Emojis con Markdown 👨‍🎨👩‍🎨"
+[url-variables]: https://platzi.com/comunidad/agiliza-tu-escritura-con-variables-don-t-repeat-yourself-con-markdown/ "✍️🆎 Agiliza tu escritura con variables Don´t repeat yourself con Markdown 👨‍🎨👩‍🎨"
+[url-botones]: https://platzi.com/comunidad/inserta-botones-para-facilitar-la-navegación-de-tus-lectores-con-markdown/ "✍️🔲 Inserta botones para facilitar la navegación de tus lectores con Markdown 👨‍🎨👩‍🎨"
+[url-colores]: https://platzi.com/comunidad/color-y-alegria-en-tus-aportes-con-markdown/ "✍️🌈 Color y alegria en tus aportes con Markdown 👨‍🎨👩‍🎨"
+[url-tablas]: https://platzi.com/comunidad/tablas-y-listas-tan-facil-como-nunca-lo-has-visto-con-markdown/ "✍️☑️ Tablas y listas tan facil como nunca lo has visto con Markdown 👨‍🎨👩‍🎨""
+[url-videos]: https://platzi.com/comunidad/incrusta-videos-en-tus-aportes-para-platzi-y-un-tip-para-incluirlos-en-github-con-markdown/ "✍️📺 Incrusta videos en tus aportes en Platzi y un tip para incluirlos en GitHub con Markdown 👨‍🎨👩‍🎨"
+[url-ascii]: https://platzi.com/comunidad/ascii-art-branding-en-tu-codigo-con-markdown/ "✍️🔣 ASCII Art: branding en tu código con Markdown 👨‍🎨👩‍🎨"
+[url-matematicas]: https://platzi.com/comunidad/bonus-inserta-formulas-matematicas-creadas-en-latex-con-markdown/ "✍️➗ Bonus: Inserta fórmulas matemáticas creadas en laTex con Markdown 👨‍🎨👩‍🎨"
