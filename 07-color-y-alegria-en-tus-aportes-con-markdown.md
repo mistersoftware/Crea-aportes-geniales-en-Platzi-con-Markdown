@@ -36,8 +36,7 @@ Markdown es un lugar muy serio, **pero eso puede cambiar** mediante el uso del s
 - ![#9900c5](https://placehold.it/15/98ca3f?text=+) Comunidad
 - ![#157500](https://placehold.it/10/157500?text=+) Desarrollo e Ingeniería
 
-![](https://via.placeholder.com/96x35/606164/fff?text=+) ![https://via.placeholder.com/96x35/98ca3f/fff?text=+]() ![](https://via.placeholder.com/96x35/33b13a/fff?text=+) ![](https://via.placeholder.com/96x35/6b407e/fff?text=+) ![](https://via.placeholder.com/96x35/29b8e8/fff?text=+) ![](https://placehold.it/96x35/f5c443/fff?text=+) ![](https://via.placeholder.com/96x35/fa7800/fff?text=+) ![](https://via.placeholder.com/96x35/cb161d/fff?text=+) ![](https://placehold.it/96x35/98ca3f/fff?text=+)
-
+![](https://via.placeholder.com/96x35/606164/fff?text=+) ![](https://via.placeholder.com/96x35/98ca3f/fff?text=+) ![](https://via.placeholder.com/96x35/33b13a/fff?text=+) ![](https://via.placeholder.com/96x35/6b407e/fff?text=+) ![](https://via.placeholder.com/96x35/29b8e8/fff?text=+) ![](https://placehold.it/96x35/f5c443/fff?text=+) ![](https://via.placeholder.com/96x35/fa7800/fff?text=+) ![](https://via.placeholder.com/96x35/cb161d/fff?text=+) ![](https://placehold.it/96x35/98ca3f/fff?text=+)
 
 
 ==«==
