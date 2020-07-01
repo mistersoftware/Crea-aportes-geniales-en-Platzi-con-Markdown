@@ -69,7 +69,7 @@ Hecho con el 💚 en el 2K20.
 
 [⚫][url-repositorio]
 
-[url-repositorio]: https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/formatos-de-texto-citas-enlaces-y-codigo-para-mejorar-tus-aportes-con-markdown.md "Código fuente de esta publicación en GitHub"
+[url-repositorio]: https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/03-dale-vida-y-movimiento-a-tus-aportes-con-animaciones-con-markdown.md
 
 [url-stackedit]: https://stackedit.io/app#/ "Editor en linea de Markdown"
 [url-imgur]: https://imgur.com/ "Servicio gratuito de imágenes de Reddit"
