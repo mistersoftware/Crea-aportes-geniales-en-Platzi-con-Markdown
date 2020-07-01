@@ -284,8 +284,8 @@ Hecho con el 💚 en el 2K20.
 [⚫][url-repositorio]
 
 
-[url-indice]: https://platzi.com/blog/crea-aportes-geniales-en-platzi-con-markdown "✍️💡 Crea aportes geniales en Platzi con Markdown 👨‍🎨👩‍🎨"
-[url-repositorio]: https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/formatos-de-texto-citas-enlaces-y-codigo-para-mejorar-tus-aportes-con-markdown.md "Repositorio de este articulo en GitHub"
+
+[url-repositorio]: https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/formatos-de-texto-citas-enlaces-y-codigo-para-mejorar-tus-aportes-con-markdown.md "Código fuente de esta publicación en GitHub"
 
 [url-connect]: https://platzi.com/empleos/ "Platzi Connect"
 [url-curso-git]: https://platzi.com/clases/git-github/ "Curso Profesional de Git y GitHub"
@@ -294,7 +294,7 @@ Hecho con el 💚 en el 2K20.
 [url-stackedit]: https://stackedit.io/app#/ "Editor en linea de Markdown"
 [url-emojis-todos]: https://platzi.com/comunidad/emojis-y-mas-emojis-con-estilo-en-markdown/ "Listado completo de emojis en Markdown"
 
-
+[url-indice]: https://platzi.com/blog/crea-aportes-geniales-en-platzi-con-markdown "✍️💡 Crea aportes geniales en Platzi con Markdown 👨‍🎨👩‍🎨"
 [url-textos]: https://platzi.com/comunidad/formatos-de-texto-citas-enlaces-y-codigo-para-mejorar-tus-aportes-con-markdown/ "✍️📖 Formatos de texto, citas, enlaces y código para mejorar tus aportes con Markdown 👨‍🎨👩‍🎨"
 [url-imagenes]: https://platzi.com/comunidad/integrar-imagenes-en-tus-comentarios-o-tutoriales-con-markdown/ "✍️📷 Integrar imágenes en tus comentarios o tutoriales con Markdown 👨‍🎨👩‍🎨"
 [url-animaciones]: https://platzi.com/comunidad/dale-vida-y-movimiento-a-tus-aportes-con-animaciones-con-markdown/ "✍️🎬 Dale vida y movimiento a tus aportes con animaciones con Markdown 👨‍🎨👩‍🎨"
