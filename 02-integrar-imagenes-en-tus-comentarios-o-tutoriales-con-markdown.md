@@ -33,13 +33,14 @@ Puedes subir tus imágenes y GIF a un [servicio gratuito como Imgur][url-imgur] 
  ![Data](https://static.platzi.com/media/learningpath/banners/1c4f4add-87b9-44cc-ba30-4a8a134bf76e.jpg)
 ==«==
 ---
-
 >Si usas el navegador Google Chrome o Mozilla Firefox en la versión web, podrás adjuntar imágenes **_(exclusivamente de formato PNG y JPG)_** arrastrando la imagen de tu explorador de archivos a la casilla donde escribes el comentario. 
+>
+> [_"Cortesia de @vistoporjuan"_](https://platzi.com/comunidad/como-agrego-imagenes-en-los-comentarios/ "La idea es construir sobre el conocimiento ya existente y no inventar la rueda todos los dias ")
 
 ==»==
 ---
   
- ![Data][url-subir-imagen]
+![subir-vistoporjuan][url-subir-vistoporjuan]
 
 
 ## Imágenes con enlace
@@ -47,7 +48,7 @@ Puedes subir tus imágenes y GIF a un [servicio gratuito como Imgur][url-imgur] 
 ==«==
 ---
 
-`[![Slack BadgeBadge Slack](https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png)][url-curso-slack] [![Escritura Online Badge](https://static.platzi.com/media/achievements/badge-escritura-online-1-ad291a75-10e8-426e-841d-fe66e340ccb6.png)][url-curso-escritura][![Casco astronauta animado](https://i.imgur.com/b1kbwbR.gif)][url-platzi]`
+`[![Slack Badge](https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png)][url-curso-slack] [![Escritura Online Badge](https://static.platzi.com/media/achievements/badge-escritura-online-1-ad291a75-10e8-426e-841d-fe66e340ccb6.png)][url-curso-escritura][![Casco astronauta animado](https://i.imgur.com/b1kbwbR.gif)][url-platzi]`
 
 
 ==» El código anterior producirá: »==
@@ -95,6 +96,8 @@ Hecho con el 💚 en el 2K20.
 [url-ecuacion]: https://i.imgur.com/P4PL4vb.gif "Ecuacion en laTex"
 [url-img-codecogs]: https://i.imgur.com/t1bOxue.png "codecogs"
 [url-img-escritura]: https://i.imgur.com/3gtTnRU.gif "animación pluma"
+[url-subir-vistoporjuan]: https://i.imgur.com/W0D6elt.gif "Subir imagen en Platzi"
+
 
 [url-platzi]: https://platzi.com/cursos "Nunca pares de aprender"
 [url-connect]: https://platzi.com/empleos/ "Platzi Connect"
