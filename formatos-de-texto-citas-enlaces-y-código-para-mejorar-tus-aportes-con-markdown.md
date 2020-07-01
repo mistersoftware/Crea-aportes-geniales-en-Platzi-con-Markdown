@@ -1,6 +1,6 @@
 ✍️📖 Formatos de texto, citas, enlaces y código para mejorar tus aportes con Markdown 👨‍🎨👩‍🎨
 
-_Anterior:_ ⏪ [_✍️💡 Crea aportes geniales en Platzi con Markdown 👨‍🎨👩‍🎨_](https://platzi.com/blog/crea-aportes-geniales-en-platzi-con-markdown/ "✍️💡 Crea aportes geniales en Platzi con Markdown 👨‍🎨👩‍🎨")
+_Anterior:_  [⏪✍️💡_ Crea aportes geniales en Platzi con Markdown_👨‍🎨👩‍🎨](https://platzi.com/blog/crea-aportes-geniales-en-platzi-con-markdown/ "✍️💡 Crea aportes geniales en Platzi con Markdown 👨‍🎨👩‍🎨")
 
 
 ==«==
@@ -280,7 +280,7 @@ https\:/[]()/example.com/
 
 **_Continúa tu aprendizaje con:_**
 
-* 📷 [Integrar imágenes en tus comentarios o tutoriales](https://platzi.com/comunidad/integrar-imagenes-en-tus-comentarios-o-tutoriales/ "✍️📷 Integrar imágenes en tus comentarios o tutoriales con Markdown 👨‍🎨👩‍🎨") ⏩
+*  [📷_Integrar imágenes en tus comentarios o tutoriales_⏩](https://platzi.com/comunidad/integrar-imagenes-en-tus-comentarios-o-tutoriales/ "✍️📷 Integrar imágenes en tus comentarios o tutoriales con Markdown 👨‍🎨👩‍🎨") 
 
 ==»==
 ---
