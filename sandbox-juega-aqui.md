@@ -47,8 +47,7 @@ Sintaxis | Se renderizara así
 
 Sintaxis | Se renderizara así 
 --- | -- 
-`[![Slack Badge](https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png)][url-curso-slack] [![Escritura Online Badge](https://static.platzi.com/media/achievements/badge-escritura-online-1-ad291a75-10e8-426e-841d-fe66e340ccb6.png)][url-curso-escritura][![Casco astronauta animado](https://i.imgur.com/b1kbwbR.gif)][url-platzi]` | 
-[![Slack Badge][url-img-badge-slack]][url-curso-slack] [![Escritura Online Badge][url-img-badge-escritura]][url-curso-escritura][![Casco astronauta animado][url-img-casco]][url-platzi]
+`[![Slack Badge](https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png)][url-curso-slack] [![Escritura Online Badge](https://static.platzi.com/media/achievements/badge-escritura-online-1-ad291a75-10e8-426e-841d-fe66e340ccb6.png)][url-curso-escritura][![Casco astronauta animado](https://i.imgur.com/b1kbwbR.gif)][url-platzi]` | [![Slack Badge][url-img-badge-slack]][url-curso-slack] [![Escritura Online Badge][url-img-badge-escritura]][url-curso-escritura][![Casco astronauta animado][url-img-casco]][url-platzi]
 
 
 ==«==
