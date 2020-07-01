@@ -21,18 +21,13 @@ _Anterior:_ ⏪ [_Formatos de texto, citas, enlaces y código para mejorar tus a
 
 Si usas el navegador Google Chrome o Mozilla Firefox en la versión web, podrás adjuntar imágenes **_(exclusivamente de formato PNG y JPG)_** arrastrando la imagen de tu explorador de archivos a la casilla donde escribes el comentario. 
 
-> [_"Cortesia de @vistoporjuan"_](https://platzi.com/comunidad/como-agrego-imagenes-en-los-comentarios/ "La idea es construir sobre el conocimiento ya existente y no inventar la rueda todos los dias ")
-
 ![vistoporjuan][url-img-vistoporjuan]
 
+> [_"Cortesia de @vistoporjuan"_](https://platzi.com/comunidad/como-agrego-imagenes-en-los-comentarios/ "La idea es construir sobre el conocimiento ya existente y no inventar la rueda todos los dias ")
 
-==»==
----
 
-Puedes subir tus imágenes y GIF a un servicio gratuito como [Imgur][url-imgur] e incrustarla, como se muestra a continuación: 
+También puedes subir tus imágenes y GIF a un servicio gratuito como [Imgur][url-imgur] e incrustarla, como se muestra a continuación: 
 
-==«==
----
 
 Sintaxis | Se renderizara así 
 --- | -- 
@@ -42,8 +37,6 @@ Sintaxis | Se renderizara así
 
 ## Imágenes con enlace
 
-==«==
----
 
 Sintaxis | Se renderizara así 
 --- | -- 
