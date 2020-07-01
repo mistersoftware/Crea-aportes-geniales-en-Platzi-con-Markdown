@@ -23,7 +23,7 @@ Puedes subir tus imágenes y GIF a un [servicio gratuito como Imgur][url-imgur] 
 ==«==
 ---
 
-`![Data](https://static.platzi.com/media/learningpath/banners/1c4f4add-87b9-44cc-ba30-4a8a134bf76e.jpg)`
+`![Data][url-img-learning]`
 
 `![Subir Imagen](https://s5.gifyu.com/images/subirImagen.gif)`
 
@@ -40,7 +40,7 @@ Puedes subir tus imágenes y GIF a un [servicio gratuito como Imgur][url-imgur] 
 ==»==
 ---
   
- ![Data](https://s5.gifyu.com/images/subirImagen.gif)
+ ![Data][url-subir-imagen]
 
 
 ## Imágenes con enlace
@@ -84,7 +84,8 @@ Hecho con el 💚 en el 2K20.
 
 [url-servidores]: https://i.imgur.com/xsquSxI.gif "Servidores A B C"
 [url-casco]: https://i.imgur.com/b1kbwbR.gif
-
+[url-subir-imagen]: (https://s5.gifyu.com/images/subirImagen.gif)
+[url-img-learning]: https://static.platzi.com/media/learningpath/banners/1c4f4add-87b9-44cc-ba30-4a8a134bf76e.jpg
 
 [url-platzi]: https://platzi.com/cursos "Nunca pares de aprender"
 [url-connect]: https://platzi.com/empleos/ "Platzi Connect"
