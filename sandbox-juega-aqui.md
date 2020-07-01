@@ -32,15 +32,12 @@ Si usas el navegador Google Chrome o Mozilla Firefox en la versión web, podrás
 
 
 
-Sintaxis | Se renderizara así 
+Sintaxis para Imágenes sin enlaces | Se renderizara así 
 --- | -- 
 `![Slack Badge](https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png)` | ![Slack Badge](https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png)
 
 
-## Imágenes con enlaces
-
-
-Sintaxis | Se renderizara así 
+Sintaxis para Imágenes con enlaces| Se renderizara así 
 --- | -- 
 `[![Escritura Online Badge](https://static.platzi.com/media/achievements/badge-escritura-online-1-ad291a75-10e8-426e-841d-fe66e340ccb6.png)]` | [![Escritura Online Badge][url-img-badge-escritura]][url-curso-escritura]
 
