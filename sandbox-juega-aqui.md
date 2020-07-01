@@ -25,12 +25,21 @@ Si usas el navegador Google Chrome o Mozilla Firefox en la versión web, podrás
 ![vistoporjuan][url-img-vistoporjuan]
 
 
+==«==
+---
+ 
+
 > [_"Cortesia de @vistoporjuan"_](https://platzi.com/comunidad/como-agrego-imagenes-en-los-comentarios/ "La idea es construir sobre el conocimiento ya existente y no inventar la rueda todos los dias ")
 
+==»==
+---
 
 ## También puedes subir tus imágenes y GIF a un servicio gratuito como [Imgur][url-imgur] e incrustarla, como se muestra a continuación: 
 
 
+==«==
+---
+ 
 
 Sintaxis para Imágenes sin enlaces | Se renderizara así 
 --- | -- 
