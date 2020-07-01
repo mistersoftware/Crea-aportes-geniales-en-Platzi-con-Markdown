@@ -32,15 +32,22 @@ Una forma sencilla y llamativa de navegar entre tus documentos.
 [![url--6](https://via.placeholder.com/336x35/a17709/fff?text=Negocios+y+Emprendimiento)](https://platzi.com/6) 
 [![url--7](https://via.placeholder.com/336x35/c86000/fff?text=Produccion+Audiovisual)](https://platzi.com/7) 
 [![url--8](https://via.placeholder.com/336x35/a21217/fff?text=Liderazgo-y-habilidades-directivas)](https://platzi.com/8) 
-[![url--9](https://via.placeholder.com/336x35/7d9b2b/fff?text=Live+and+news)](https://platzi.com/9) ````
+[![url--9](https://via.placeholder.com/336x35/7d9b2b/fff?text=Live+and+news)](https://platzi.com/9)````
 
 ==» El código anterior producirá: »==
 ---
 
 [![Casco astronauta][url-casco]][url-platzi]
 
-[![url1](https://via.placeholder.com/336x35/4a5053/fff?text=Todos)](https://platzi.com/Todos) [![url2](https://via.placeholder.com/336x35/7d9b2b/fff?text=Comunidad)](https://platzi.com/Comunidad) [![url3](https://via.placeholder.com/336x35/298e2e/fff?text=Desarrollo+e+Ingeniería)](https://platzi.com/desarrollo_e_ingenieria) [![url4](https://via.placeholder.com/336x35/563365/fff?text=Diseño+y+UX)](https://platzi.com/boton4) [![url5](https://via.placeholder.com/336x35/1387ae/fff?text=Marketing)](https://platzi.com/boton5) [![url6](https://placehold.it/336x35/a17709/fff?text=Negocios+y+Emprendimiento)](#z_section-images) [![url7](https://via.placeholder.com/336x35/c86000/fff?text=Produccion+Audiovisual)](https://platzi.com/boton4) [![url8](https://via.placeholder.com/336x35/a21217/fff?text=Liderazgo-y-habilidades-directivas)](https://platzi.com/boton5) [![url9](https://placehold.it/336x35/7d9b2b/fff?text=Live+and+news)
-
+[![url--1](https://via.placeholder.com/336x35/4a5053/fff?text=Todos)](https://platzi.com/1)
+[![url--2](https://via.placeholder.com/336x35/7d9b2b/fff?text=Comunidad)](https://platzi.com/2)
+[![url--3](https://via.placeholder.com/336x35/298e2e/fff?text=Desarrollo+e+Ingeniería)](https://platzi.com/3)
+[![url--4](https://via.placeholder.com/336x35/563365/fff?text=Diseño+y+UX)](https://platzi.com/4)
+[![url--5](https://via.placeholder.com/336x35/1387ae/fff?text=Marketing)](https://platzi.com/5) 
+[![url--6](https://via.placeholder.com/336x35/a17709/fff?text=Negocios+y+Emprendimiento)](https://platzi.com/6) 
+[![url--7](https://via.placeholder.com/336x35/c86000/fff?text=Produccion+Audiovisual)](https://platzi.com/7) 
+[![url--8](https://via.placeholder.com/336x35/a21217/fff?text=Liderazgo-y-habilidades-directivas)](https://platzi.com/8) 
+[![url--9](https://via.placeholder.com/336x35/7d9b2b/fff?text=Live+and+news)](https://platzi.com/9)
 
 
 
