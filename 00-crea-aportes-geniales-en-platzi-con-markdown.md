@@ -5,7 +5,7 @@ Las ideas recién nacidas son frágiles y, expuestas de la forma incorrecta en e
 
 ==«==
 ---
-> **_" ¿Alguna vez te ha pasado que tardas horas redactando algo, y al momento de publicarlo cambia totalmente su apariencia? En esta serie de publicaciones busco atacar este problema con las herramientas disponibles actualmente en Platzi. **Basicamente he probado de todo un poco y en esta guia te dire que funciona y que no**.  Todo lo que veras en este minitutorial es aplicable en Platzi, pero te recomiendo que antes de continuar, vayas a [StackEdit[url-stackedit]_, el cual es un editor en línea de Markdown donde puedes practicar todo lo que veremos. Tambien puedes utilizar GitHub para editar tu publicaciones, simplemente debes guardarlas como archivos con extension .md. "_**
+> **_" ¿Alguna vez te ha pasado que tardas horas redactando algo, y al momento de publicarlo cambia totalmente su apariencia? En esta serie de publicaciones busco atacar este problema con las herramientas disponibles actualmente en Platzi. **Basicamente he probado de todo un poco y en esta guia te dire que funciona y que no**.  Todo lo que veras en este minitutorial es aplicable en Platzi, pero te recomiendo que antes de continuar, vayas a [StackEdit][url-stackedit]_, el cual es un editor en línea de Markdown donde puedes practicar todo lo que veremos. Tambien puedes utilizar GitHub para editar tu publicaciones, simplemente debes guardarlas como archivos con extension .md. "_**
 
 ==»==
 ---
@@ -66,21 +66,21 @@ Esta guía ha sido creada con la ayuda del _team Platzi_ y los aportes de otros 
 >1. ➗ [Bonus: Inserta fórmulas matemáticas creadas en laTex][url-matematicas]
 
 
-[url-textos]: https://platzi.com/comunidad/formatos-de-texto-citas-enlaces-y-codigo-para-mejorar-tus-aportes/ "Formatos de texto, citas, enlaces y código para mejorar tus aportes con Markdown"
-[url-imagenes]: https://platzi.com/comunidad/integrar-imagenes-en-tus-comentarios-o-tutoriales/ "Integrar imágenes en tus comentarios o tutoriales con Markdown"
-[url-animaciones]: https://platzi.com/comunidad/dale-vida-y-movimiento-a-tus-aportes-con-animaciones/ "Dale vida y movimiento a tus aportes con animaciones con Markdown"
-[url-emojis]: https://platzi.com/comunidad/expresate-con-emojis/ "Expresate con Emojis con Markdown"
-[url-variables]: https://platzi.com/comunidad/agiliza-tu-escritura-con-variables-don-t-repeat-yourself/ "Agiliza tu escritura con variables Don´t repeat yourself con Markdown"
-[url-botones]: https://platzi.com/comunidad/inserta-botones-para-facilitar-la-navegación-de-tus-lectores/ "Inserta botones para facilitar la navegación de tus lectores con Markdown"
-[url-colores]: https://platzi.com/comunidad/color-y-alegria-en-tus-aportes/ "Color y alegria en tus aportes con Markdown"
-[url-tablas]: https://platzi.com/comunidad/tablas-y-listas-tan-facil-como-nunca-lo-has-visto/ "Tablas y listas tan facil como nunca lo has visto con Markdown"
-[url-videos]: https://platzi.com/comunidad/incrusta-videos-en-tus-aportes-para-platzi-y-un-tip-para-incluirlos-en-github/ "Incrusta videos en tus aportes en Platzi y un tip para incluirlos en GitHub con Markdown"
-[url-ascii]: https://platzi.com/comunidad/ascii-art-branding-en-tu-codigo/ "ASCII Art: branding en tu código con Markdown"
-[url-matematicas]: https://platzi.com/comunidad/bonus-inserta-formulas-matematicas-creadas-en-laTex/ "Bonus: Inserta fórmulas matemáticas creadas en laTex con Markdown"
+[url-textos]: https://platzi.com/comunidad/formatos-de-texto-citas-enlaces-y-codigo-para-mejorar-tus-aportes-con-markdown/ "Formatos de texto, citas, enlaces y código para mejorar tus aportes con Markdown"
+[url-imagenes]: https://platzi.com/comunidad/integrar-imagenes-en-tus-comentarios-o-tutoriales-con-markdown/ "Integrar imágenes en tus comentarios o tutoriales con Markdown"
+[url-animaciones]: https://platzi.com/comunidad/dale-vida-y-movimiento-a-tus-aportes-con-animaciones-con-markdown/ "Dale vida y movimiento a tus aportes con animaciones con Markdown"
+[url-emojis]: https://platzi.com/comunidad/expresate-con-emojis-con-markdown/ "Expresate con Emojis con Markdown"
+[url-variables]: https://platzi.com/comunidad/agiliza-tu-escritura-con-variables-don-t-repeat-yourself-con-markdown/ "Agiliza tu escritura con variables Don´t repeat yourself con Markdown"
+[url-botones]: https://platzi.com/comunidad/inserta-botones-para-facilitar-la-navegación-de-tus-lectores-con-markdown/ "Inserta botones para facilitar la navegación de tus lectores con Markdown"
+[url-colores]: https://platzi.com/comunidad/color-y-alegria-en-tus-aportes-con-markdown/ "Color y alegria en tus aportes con Markdown"
+[url-tablas]: https://platzi.com/comunidad/tablas-y-listas-tan-facil-como-nunca-lo-has-visto-con-markdown/ "Tablas y listas tan facil como nunca lo has visto con Markdown"
+[url-videos]: https://platzi.com/comunidad/incrusta-videos-en-tus-aportes-para-platzi-y-un-tip-para-incluirlos-en-github-con-markdown/ "Incrusta videos en tus aportes en Platzi y un tip para incluirlos en GitHub con Markdown"
+[url-ascii]: https://platzi.com/comunidad/ascii-art-branding-en-tu-codigo-con-markdown/ "ASCII Art: branding en tu código con Markdown"
+[url-matematicas]: https://platzi.com/comunidad/bonus-inserta-formulas-matematicas-creadas-en-laTex-con-markdown/ "Bonus: Inserta fórmulas matemáticas creadas en laTex con Markdown"
 
-[url-indice]: 
-[url-anterior]:
+
 [url-siguiente]: [url-textos]
+[url-repositorio]: https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/crea-aportes-geniales-en-platzi-con-markdown.md "Repositorio de este articulo en GitHub"
 
 [url-connect]: https://platzi.com/empleos/
 [url-curso-git]: https://platzi.com/clases/git-github/ "Curso Profesional de Git y GitHub"
@@ -120,4 +120,4 @@ Fuentes:
 
 Hecho con el 💚 en el 2K20. 
 
-[⚫](https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/crea-aportes-geniales-en-platzi-con-markdown.md "Repositorio de este articulo en GitHub")
+[⚫][url-repositorio]
