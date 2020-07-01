@@ -55,7 +55,7 @@ Markdown es muy utilizado en la industria de la tecnología por su versatilidad 
 >1. 🎬 [Dale vida y movimiento a tus aportes con animaciones](https://platzi.com/comunidad/dale-vida-y-movimiento-a-tus-aportes-con-animaciones/ "Dale vida y movimiento a tus aportes con animaciones con Markdown") 
 >1. 🍕 [Expresate con Emojis](https://platzi.com/comunidad/expresate-con-emojis/ "Expresate con Emojis con Markdown") 
 >1. 🆎 [Agiliza tu escritura con variables _"Don´t repeat yourself"_ ](https://platzi.com/comunidad/agiliza-tu-escritura-con-variables-don-t-repeat-yourself/ "Agiliza tu escritura con variables Don´t repeat yourself con Markdown") 
->1. 🔲 [Inserta botones para facilitar la navegación de tus lectores](https://platzi.com/comunidad/inserta-botones-para-facilitar-la navegación-de-tus-lectores/ "Inserta botones para facilitar la navegación de tus lectores con Markdown") 
+>1. 🔲 [Inserta botones para facilitar la navegación de tus lectores](https://platzi.com/comunidad/inserta-botones-para-facilitar-la-navegación-de-tus-lectores/ "Inserta botones para facilitar la navegación de tus lectores con Markdown") 
 >1. 🌈 [Color y alegria en tus aportes](https://platzi.com/comunidad/color-y-alegria-en-tus-aportes/ "Color y alegria en tus aportes con Markdown") 
 >1. ☑️ [Tablas y listas tan facil como nunca lo has visto](https://platzi.com/comunidad/tablas-y-listas-tan-facil-como-nunca-lo-has-visto/ "Tablas y listas tan facil como nunca lo has visto con Markdown") 
 >1. 📺 [Incrusta videos en tus aportes en Platzi y un tip para incluirlos en GitHub](https://platzi.com/comunidad/incrusta-videos-en-tus-aportes-para-platzi-y-un-tip-para-incluirlos-en-github/ "Incrusta videos en tus aportes en Platzi y un tip para incluirlos en GitHub con Markdown") 
