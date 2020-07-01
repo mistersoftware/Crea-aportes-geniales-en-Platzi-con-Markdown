@@ -21,21 +21,23 @@ _Anterior:_ ⏪ [_Formatos de texto, citas, enlaces y código para mejorar tus a
 
 Si usas el navegador Google Chrome o Mozilla Firefox en la versión web, podrás adjuntar imágenes **_(exclusivamente de formato PNG y JPG)_** arrastrando la imagen de tu explorador de archivos a la casilla donde escribes el comentario. 
 
+
 ![vistoporjuan][url-img-vistoporjuan]
+
 
 > [_"Cortesia de @vistoporjuan"_](https://platzi.com/comunidad/como-agrego-imagenes-en-los-comentarios/ "La idea es construir sobre el conocimiento ya existente y no inventar la rueda todos los dias ")
 
-## 📷 Imágenes en servidores externos
 
-También puedes subir tus imágenes y GIF a un servicio gratuito como [Imgur][url-imgur] e incrustarla, como se muestra a continuación: 
----
+## También puedes subir tus imágenes y GIF a un servicio gratuito como [Imgur][url-imgur] e incrustarla, como se muestra a continuación: 
+
+
 
 Sintaxis | Se renderizara así 
 --- | -- 
 `![Slack Badge](https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png)` | ![Slack Badge](https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png)
 
 
-## Imágenes con enlace
+## Imágenes con enlaces
 
 
 Sintaxis | Se renderizara así 
