@@ -55,7 +55,7 @@ Puedes subir tus imágenes y GIF a un servicio gratuito como [Imgur][url-imgur] 
 ---
 
 
-[![Slack Badge][url-img-slack]][url-badge-curso-slack] [![Escritura Online Badge][url-img-badge-escritura]][url-curso-escritura][![Casco astronauta animado][url-img-casco]][url-platzi]
+[![Slack Badge][url-img-badge-slack]][url-curso-slack] [![Escritura Online Badge][url-img-badge-escritura]][url-curso-escritura][![Casco astronauta animado][url-img-casco]][url-platzi]
 
 
 ==«==
