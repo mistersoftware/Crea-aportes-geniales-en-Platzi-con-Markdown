@@ -1,6 +1,6 @@
 01 🇪🇸 ✍️📖 Formatos de texto, citas, enlaces y código para mejorar tus aportes con Markdown 👨‍🎨👩‍🎨
 
-_Anterior:_ ⏪ [_✍️💡 Crea aportes geniales en Platzi con Markdown 👨‍🎨👩‍🎨_](https://platzi.com/blog/crea-aportes-geniales-en-platzi-con-markdown/ "✍️💡 Crea-aportes-geniales-en-Platzi-con-Markdown 👨‍🎨👩‍🎨")
+_Anterior:_ ⏪ [_✍️💡 Crea aportes geniales en Platzi con Markdown 👨‍🎨👩‍🎨_](https://platzi.com/blog/crea-aportes-geniales-en-platzi-con-markdown/ "✍️💡 Crea aportes geniales en Platzi con Markdown 👨‍🎨👩‍🎨")
 
 
 ==«==
