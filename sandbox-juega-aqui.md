@@ -42,9 +42,8 @@ Si usas el navegador Google Chrome o Mozilla Firefox en la versión web, podrás
 ==■==
 ---
  
-
-Sintaxis para Imágenes sin enlaces | Se renderizara así 
---- | -- 
+[![url--3](https://via.placeholder.com/336x35/298e2e/fff?text=Sintaxis)](https://platzi.com/3) | [![url--7](https://via.placeholder.com/336x35/c86000/fff?text=Renderizado final)](https://platzi.com/7) 
+--- | ---
 `![Slack Badge](https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png)` | ![Slack Badge](https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png)
 
 
