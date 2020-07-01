@@ -1,7 +1,7 @@
 ✍️💡 Crea aportes geniales en Platzi con Markdown 👨‍🎨👩‍🎨
 
 
-Las ideas recién nacidas son frágiles y, expuestas de la forma incorrecta en el entorno incorrecto, irremediablemente están destinadas a morir. **En Platzi estas en el entorno correcto, y en esta publicación encontrarás tips y herramientas que te ayudaran a darle forma y exponerlas de forma correcta con Markdown**, y si hay suerte, aquellas ideas regresaran a ti, diferentes, enriquecidas, renovadas.
+Las ideas recién nacidas son frágiles y, expuestas de la forma incorrecta en el entorno incorrecto, irremediablemente están destinadas a morir. **En Platzi estás en el entorno correcto, y en esta publicación encontrarás tips y herramientas que te ayudaran a darle estilo y exponer tus ideas de forma correcta con Markdown**, y si hay suerte, aquellas ideas regresaran a ti, diferentes, enriquecidas, renovadas.
 
 ==«==
 ---
@@ -80,7 +80,7 @@ Esta guía ha sido creada con la ayuda del _team Platzi_ y los aportes de otros 
 
 [url-indice]: 
 [url-anterior]:
-[url-siguiente]: https://platzi.com/comunidad/formatos-de-texto-citas-enlaces-y-codigo-para-mejorar-tus-aportes
+[url-siguiente]: [url-textos]
 
 [url-connect]: https://platzi.com/empleos/
 [url-curso-git]: https://platzi.com/clases/git-github/ "Curso Profesional de Git y GitHub"
