@@ -78,7 +78,7 @@ Hecho con el 💚 en el 2K20.
 [url-repositorio]: https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/02-integrar-imagenes-en-tus-comentarios-o-tutoriales-con-markdown.md "Código fuente de esta publicación en GitHub"
 
 
-<!--
+
 
 [url-stackedit]: https://stackedit.io/app#/ "Editor en línea de Markdown"
 [url-imgur]: https://imgur.com/ "Servicio gratuito de imágenes de Reddit"
@@ -123,6 +123,8 @@ Hecho con el 💚 en el 2K20.
 [url-ascii]: https://platzi.com/comunidad/ascii-art-branding-en-tu-codigo-con-markdown/ "✍️🔣 ASCII Art: branding en tu código con Markdown 👨‍🎨👩‍🎨"
 [url-matematicas]: https://platzi.com/comunidad/bonus-inserta-formulas-matematicas-creadas-en-latex-con-markdown/ "✍️➗ Bonus: Inserta fórmulas matemáticas creadas en laTex con Markdown 👨‍🎨👩‍🎨"
 [url-emojis-todos]: https://platzi.com/comunidad/listado-completo-de-emojis-en-markdown/ "✍️😍 Listado completo de emojis en Markdown 👨‍🎨👩‍🎨"
+
+<!--
 
 >1. 📖 [Formatos de texto, citas, enlaces y código para mejorar tus aportes ][url-textos]
 >1. 📷 [Integrar imágenes en tus comentarios o tutoriales][url-imagenes]
