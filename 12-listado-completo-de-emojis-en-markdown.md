@@ -322,7 +322,8 @@ Hecho con el 💚 en el 2K20.
 
 [⚫][url-repositorio]
 
-[url-repositorio]: https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/04-expresate-con-emojis-con-markdown.md
+[url-repositorio]: https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/12-listado-completo-de-emojis-en-markdown.md "Código fuente de esta publicación en GitHub"
+
 
 [url-stackedit]: https://stackedit.io/app#/ "Editor en línea de Markdown"
 [url-imgur]: https://imgur.com/ "Servicio gratuito de imágenes de Reddit"
@@ -375,6 +376,5 @@ Hecho con el 💚 en el 2K20.
 >1. 📺 [Incrusta videos en tus aportes en Platzi y un tip para incluirlos en GitHub][url-videos]
 >1. 🔣 [ASCII Art: branding en tu código][url-ascii]
 >1. ➗ [Bonus: Inserta fórmulas matemáticas creadas en laTex][url-matematicas]
-
 
 
