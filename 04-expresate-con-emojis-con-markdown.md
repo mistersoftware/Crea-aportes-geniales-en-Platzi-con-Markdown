@@ -50,7 +50,7 @@ Hecho con el 💚 en el 2K20.
 
 [⚫][url-repositorio]
 
-[url-repositorio]: https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/03-dale-vida-y-movimiento-a-tus-aportes-con-animaciones-con-markdown.md
+[url-repositorio]: https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/04-expresate-con-emojis-con-markdown.md
 
 [url-stackedit]: https://stackedit.io/app#/ "Editor en linea de Markdown"
 [url-imgur]: https://imgur.com/ "Servicio gratuito de imágenes de Reddit"
