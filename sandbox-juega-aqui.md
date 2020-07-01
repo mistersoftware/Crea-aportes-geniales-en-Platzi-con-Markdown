@@ -16,7 +16,7 @@ _Anterior:_ ⏪ [_Formatos de texto, citas, enlaces y código para mejorar tus a
 ---
 
 
-## 📷 Subir Imágenes JPG o PNG a Platzi
+## 📷 Subir Imágenes a Platzi
 
 
 Si usas el navegador Google Chrome o Mozilla Firefox en la versión web, podrás adjuntar imágenes **_(exclusivamente de formato PNG y JPG)_** arrastrando la imagen de tu explorador de archivos a la casilla donde escribes el comentario. 
@@ -45,6 +45,7 @@ Si usas el navegador Google Chrome o Mozilla Firefox en la versión web, podrás
 [![url--3](https://via.placeholder.com/336x35/298e2e/fff?text=Sintaxis)](https://platzi.com/3) | [![url--7](https://via.placeholder.com/336x35/c86000/fff?text=Renderizado+final)](https://platzi.com/7) 
 --- | ---
 `![Slack Badge](https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png)` | ![Slack Badge](https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png)
+[![url--3](https://via.placeholder.com/336x35/298e2e/fff?text=Sintaxis)](https://platzi.com/3) | [![url--7](https://via.placeholder.com/336x35/c86000/fff?text=Renderizado+final)](https://platzi.com/7) 
 
 
 Sintaxis para Imágenes con enlaces| Se renderizara así 
