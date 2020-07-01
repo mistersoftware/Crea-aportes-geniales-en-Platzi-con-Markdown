@@ -60,6 +60,7 @@ Deja en el sistema de comentarios cuales otras formas de generar ASCII Art conoc
 
 ==»==
 ---
+
 [📖][url-textos] [📷][url-imagenes] [🎬][url-animaciones] [🍕][url-emojis] [🆎][url-variables] [🔲][url-botones] [🌈][url-colores] [☑️][url-tablas] [📺][url-videos]  [🔣][url-ascii] [➗][url-matematicas]
 
 
