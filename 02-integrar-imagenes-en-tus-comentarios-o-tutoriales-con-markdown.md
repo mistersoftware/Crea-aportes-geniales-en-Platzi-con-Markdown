@@ -23,9 +23,9 @@ Puedes subir tus imágenes y GIF a un [servicio gratuito como Imgur][url-imgur] 
 ==«==
 ---
 
-`![Data][url-img-learning]`
+`![img-learning][url-img-learning]`
 
-`![Subir Imagen](https://s5.gifyu.com/images/subirImagen.gif)`
+`![subir-vistoporjuan][url-subir-vistoporjuan]`
 
 ==» El código anterior producirá: »==
 ---
