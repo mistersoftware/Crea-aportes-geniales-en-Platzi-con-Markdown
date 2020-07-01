@@ -1,7 +1,7 @@
 ✍️💡 Crea-aportes-geniales-en-Platzi-con-Markdown  👨‍🎨👩‍🎨
 
 
-Las ideas recién nacidas son frágiles y, expuestas de la forma incorrecta en el entorno incorrecto, irremediablemente están destinadas a morir. **En Platzi estas en el entorno correcto y en esta publicación encontrarás los mejores atuendos para adornar tus ideas y exponerlas correctamente con Markdown**, una forma rápida y efectiva de darle estilo a tus ideas para que resplandezcan y resalten en público y, si hay suerte regresen a ti, diferentes, enriquecidas, renovadas. 
+Las ideas recién nacidas son frágiles y, expuestas de la forma incorrecta en el entorno incorrecto, irremediablemente están destinadas a morir. **En Platzi estas en el entorno correcto y en esta publicación encontrarás los mejores atuendos para adornar tus ideas y exponerlas correctamente con Markdown**, una forma rápida y efectiva de darle estilo a tus ideas para que resalten en público y si hay suerte regresen a ti, diferentes, enriquecidas, renovadas. 
 ---
 
 ==«==
