@@ -78,7 +78,8 @@ Hecho con el 💚 en el 2K20.
 
 [⚫][url-repositorio]
 
-[url-repositorio]: https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/04-expresate-con-emojis-con-markdown.md
+[url-repositorio]: https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/11-bonus-inserta-formulas-matematicas-creadas-en-latex-con-markdown.md "Código fuente de esta publicación en GitHub"
+
 
 [url-stackedit]: https://stackedit.io/app#/ "Editor en línea de Markdown"
 [url-imgur]: https://imgur.com/ "Servicio gratuito de imágenes de Reddit"
@@ -118,7 +119,7 @@ Hecho con el 💚 en el 2K20.
 [url-videos]: https://platzi.com/comunidad/incrusta-videos-en-tus-aportes-para-platzi-y-un-tip-para-incluirlos-en-github-con-markdown/ "✍️📺 Incrusta videos en tus aportes en Platzi y un tip para incluirlos en GitHub con Markdown 👨‍🎨👩‍🎨"
 [url-ascii]: https://platzi.com/comunidad/ascii-art-branding-en-tu-codigo-con-markdown/ "✍️🔣 ASCII Art: branding en tu código con Markdown 👨‍🎨👩‍🎨"
 [url-matematicas]: https://platzi.com/comunidad/bonus-inserta-formulas-matematicas-creadas-en-latex-con-markdown/ "✍️➗ Bonus: Inserta fórmulas matemáticas creadas en laTex con Markdown 👨‍🎨👩‍🎨"
-[url-emojis-todos]: https://platzi.com/comunidad/emojis-y-mas-emojis-con-estilo-en-markdown/ "Listado completo de emojis en Markdown"
+[url-emojis-todos]: https://platzi.com/comunidad/listado-completo-de-emojis-en-markdown/ "✍️😍 Listado completo de emojis en Markdown 👨‍🎨👩‍🎨"
 
 >1. 📖 [Formatos de texto, citas, enlaces y código para mejorar tus aportes ][url-textos]
 >1. 📷 [Integrar imágenes en tus comentarios o tutoriales][url-imagenes]
@@ -131,3 +132,4 @@ Hecho con el 💚 en el 2K20.
 >1. 📺 [Incrusta videos en tus aportes en Platzi y un tip para incluirlos en GitHub][url-videos]
 >1. 🔣 [ASCII Art: branding en tu código][url-ascii]
 >1. ➗ [Bonus: Inserta fórmulas matemáticas creadas en laTex][url-matematicas]
+
