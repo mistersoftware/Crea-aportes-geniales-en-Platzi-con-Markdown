@@ -2,11 +2,10 @@
 
 
 Las ideas recién nacidas son frágiles y, expuestas de la forma incorrecta en el entorno incorrecto, irremediablemente están destinadas a morir. **En Platzi estas en el entorno correcto y en esta publicación encontrarás los mejores atuendos para adornar tus ideas y exponerlas correctamente con Markdown**, una forma rápida y efectiva de darle estilo a tus ideas para que resalten en público y si hay suerte regresen a ti, diferentes, enriquecidas, renovadas. 
----
 
 ==«==
 ---
-> _" ¿Alguna vez te ha pasado que tardas horas redactando algo, y al momento de publicarlo cambia totalmente su apariencia? En esta serie de publicaciones busco atacar este problema con las herramientas disponibles actualmente en Platzi. **Basicamente he probado de todo un poco y en esta guia te dire que funciona y que no**.  Todo lo que veras en este minitutorial es aplicable en Platzi, pero te recomiendo que antes de continuar, vayas a [StackEdit](https://stackedit.io/app#), el cual es un editor en línea de Markdown donde puedes practicar todo lo que veremos. Tambien puedes utilizar GitHub para editar tu publicaciones, simplemente debes guardarlas como archivos con extension .md. "_
+> **_" ¿Alguna vez te ha pasado que tardas horas redactando algo, y al momento de publicarlo cambia totalmente su apariencia? En esta serie de publicaciones busco atacar este problema con las herramientas disponibles actualmente en Platzi. **Basicamente he probado de todo un poco y en esta guia te dire que funciona y que no**.  Todo lo que veras en este minitutorial es aplicable en Platzi, pero te recomiendo que antes de continuar, vayas a [StackEdit](https://stackedit.io/app#), el cual es un editor en línea de Markdown donde puedes practicar todo lo que veremos. Tambien puedes utilizar GitHub para editar tu publicaciones, simplemente debes guardarlas como archivos con extension .md. "_**
 
 ==»==
 ---
@@ -44,8 +43,11 @@ Markdown es muy utilizado en la industria de la tecnología por su versatilidad 
 * También puedes participar en el **Blog Oficial** enviando un correo a team@platzi.com donde ellos te indicaran los pasos a seguir.
 
 
-Muy bien, ya sabes donde podrás utilizar Markdown, ahora veamos como utilizarlo. 
+==«==
+---
 
+Muy bien, ya sabes donde podrás utilizar Markdown, ahora veamos como utilizarlo. 
+---
 
 ## Índice de contenidos
 
