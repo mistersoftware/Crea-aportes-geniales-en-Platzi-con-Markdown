@@ -26,7 +26,7 @@ Una forma sencilla y llamativa de navegar entre tus documentos.
 
 ````
 [![url--1](https://via.placeholder.com/336x35/4a5053/fff?text=Todos)](https://platzi.com/1) [![url--2](https://via.placeholder.com/336x35/7d9b2b/fff?text=Comunidad)](https://platzi.com/2) [![url--3](https://via.placeholder.com/336x35/298e2e/fff?text=Desarrollo+e+Ingeniería)](https://platzi.com/3)
-[![url--4](https://via.placeholder.com/336x35/563365/fff?text=Diseño+y+UX)](https://platzi.com/4) [![url--5](https://via.placeholder.com/336x35/1387ae/fff?text=Marketing)](https://platzi.com/5) [![url--6](https://via.placeholder.com/336x35/a17709/fff?text=Negocios+y+Emprendimiento)](https://platzi.com/6) 
+[![url--4](https://via.placeholder.com/336x35/563365/fff?text="Diseño+y+UX")](https://platzi.com/4) [![url--5](https://via.placeholder.com/336x35/1387ae/fff?text=Marketing)](https://platzi.com/5) [![url--6](https://via.placeholder.com/336x35/a17709/fff?text=Negocios+y+Emprendimiento)](https://platzi.com/6) 
 [![url--7](https://via.placeholder.com/336x35/c86000/fff?text=Produccion+Audiovisual)](https://platzi.com/7) [![url--8](https://via.placeholder.com/336x35/a21217/fff?text=Liderazgo-y-habilidades-directivas)](https://platzi.com/8) [![url--9](https://via.placeholder.com/336x35/7d9b2b/fff?text=Live+and+news)](https://platzi.com/9)
 ````
 
