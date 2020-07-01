@@ -71,6 +71,7 @@ Deja tus opiniones, y si te gustaría que extendiera este artículo con otro que
 
 ==»==
 ---
+
 [📖][url-textos] [📷][url-imagenes] [🎬][url-animaciones] [🍕][url-emojis] [🆎][url-variables] [🔲][url-botones] [🌈][url-colores] [☑️][url-tablas] [📺][url-videos]  [🔣][url-ascii] [➗][url-matematicas]
 
 
