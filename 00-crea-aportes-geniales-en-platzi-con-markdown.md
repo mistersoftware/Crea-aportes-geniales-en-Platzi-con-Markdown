@@ -53,7 +53,7 @@ Esta guía ha sido creada con la ayuda del _team Platzi_ y los aportes de otros 
 ## Índice de contenidos
 
 
->1. 📖 [Formatos de texto, citas, enlaces y código para mejorar tus aportes](https://platzi.com/comunidad/formatos-de-texto-citas-enlaces-y-codigo-para-mejorar-tus-aportes/ "Formatos de texto, citas, enlaces y código para mejorar tus aportes con Markdown") 
+>1. 📖 [Formatos de texto, citas, enlaces y código para mejorar tus aportes][url-01]
 >1. 📷 [Integrar imágenes en tus comentarios o tutoriales](https://platzi.com/comunidad/integrar-imagenes-en-tus-comentarios-o-tutoriales/ "Integrar imágenes en tus comentarios o tutoriales con Markdown") 
 >1. 🎬 [Dale vida y movimiento a tus aportes con animaciones](https://platzi.com/comunidad/dale-vida-y-movimiento-a-tus-aportes-con-animaciones/ "Dale vida y movimiento a tus aportes con animaciones con Markdown") 
 >1. 🍕 [Expresate con Emojis](https://platzi.com/comunidad/expresate-con-emojis/ "Expresate con Emojis con Markdown") 
@@ -66,7 +66,7 @@ Esta guía ha sido creada con la ayuda del _team Platzi_ y los aportes de otros 
 >1. ➗ [Bonus: Inserta fórmulas matemáticas creadas en laTex](https://platzi.com/comunidad/bonus-inserta-formulas-matematicas-creadas-en-laTex/ "Bonus: Inserta fórmulas matemáticas creadas en laTex con Markdown") 
 
 
-
+[url-01]: https://platzi.com/comunidad/formatos-de-texto-citas-enlaces-y-codigo-para-mejorar-tus-aportes/ "Formatos de texto, citas, enlaces y código para mejorar tus aportes con Markdown"
 
 ==«==
 ---
