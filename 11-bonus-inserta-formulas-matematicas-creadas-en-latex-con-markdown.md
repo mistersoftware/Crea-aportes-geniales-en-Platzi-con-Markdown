@@ -56,7 +56,7 @@ En la parte inferior, la página nos muestra la ecuación renderizada y nos ofre
 
 
 **El siguiente paso ya dependerá de ti, puedes subir cada una de las ecuaciones a un servicio como [Imgur][url-imgur] o puedes hacerlo en otros sitios como [Medium][url-medium].
-En este [artículo][traduccion-hipotesis] primero he escrito todas las ecuaciones en [Overleaf][url-overleaf] y de allí lo copie y pegue directamente dentro de [Stackedit][url-stackedit] y para  luego hacerlo dentro de Platzi. De esa forma es posible mantener un respaldo de las publicaciones por si algo falla.
+En este [artículo][url-traduccion-hipotesis] primero he escrito todas las ecuaciones en [Overleaf][url-overleaf] y de allí copie y pegue directamente el contenido dentro de [Stackedit][url-stackedit] y para  luego hacerlo dentro de Platzi. De esa forma es posible mantener un respaldo de las publicaciones por si algo falla.
 
 Deja tus opiniones, y si te gustaría que extendiera este artículo con otro que hable más a fondo de laTex deja un :green_heart:. 
 
