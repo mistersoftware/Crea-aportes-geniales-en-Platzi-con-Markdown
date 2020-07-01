@@ -1,3 +1,4 @@
+
 ✍️💡 Crea aportes geniales en Platzi con Markdown 👨‍🎨👩‍🎨
 
 
@@ -15,7 +16,7 @@ Platzi utiliza una versión de Markdown llamada [Pulse Editor][url-pulse-editor]
 
 ## ¿Qué Aprenderemos?
 
-Aprenderemos como controlar la visualización del documento; escribir en _italico_, ==resaltando== palabras en **negrita**, insertando [enlaces][url-vacia], agregando 👨‍🚀Emojis🚀,  [![url-vacia](https://via.placeholder.com/75x16/444/fcfcfc?text=Botones "Botones")](#), organizando tus datos en listas o tablas. Aprenderemos como utilizar variables para ahorrarnos mucho trabajo con las referencias, los enlaces y las imágenes. También se incluyen un par de trucos extra para traer [![url-vacia](https://via.placeholder.com/75x16/98ca3f/444?text=Color "Color")]() a nuestras publicaciones. Veremos como crear publicaciones con expresiones matemáticas **y obviamente no podria faltar, veremos como insertar imágenes, animaciones y videos.** 
+Aprenderemos como controlar la visualización del documento; escribir en _itálico_, ==resaltando== palabras en **negrita**, insertando [enlaces][url-vacia], agregando 👨‍🚀Emojis🚀,  [![url-vacia](https://via.placeholder.com/75x16/444/fcfcfc?text=Botones "Botones")](#), organizando tus datos en listas o tablas. Aprenderemos como utilizar variables para ahorrarnos mucho trabajo con las referencias, los enlaces y las imágenes. También se incluyen un par de trucos extra para traer [![url-vacia](https://via.placeholder.com/75x16/98ca3f/444?text=Color "Color")]() a nuestras publicaciones. Veremos como crear publicaciones con expresiones matemáticas **y obviamente no podría faltar, veremos como insertar imágenes, animaciones y videos.** 
 
 ==«==
 ---
@@ -29,7 +30,7 @@ Aquí un breve adelanto:
 
 ## ¿Donde puedo usar Markdown?
 
-Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. Puedes usar Markdown en Slack para [comunicarte con tu equipo de trabajo][url-curso-slack], puedes usarlo en Platzi como veremos mas adelante y es el lenguaje de marcado por defecto en la documentación de los proyectos que usan [Git-hub][url-curso-git].  
+Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. Puedes usar Markdown en Slack para [comunicarte con tu equipo de trabajo][url-curso-slack], puedes usarlo en Platzi como veremos más adelante y es el lenguaje de marcado por defecto en la documentación de los proyectos que usan [Git-hub][url-curso-git].  
 
 **Markdown es utilizado para casi todos los mecanismos de participación y comunicación en Platzi**, _excepto en los marcadores, el chat de las transmisiones en vivo y en la descripción de tus proyectos de tu perfil para [Platzi Connect][url-connect]_
 
@@ -101,9 +102,9 @@ Hecho con el 💚 en el 2K20.
 [⚫][url-repositorio]
 
 
-[url-repositorio]: https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/crea-aportes-geniales-en-platzi-con-markdown.md "Repositorio de este articulo en GitHub"
+[url-repositorio]: https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/crea-aportes-geniales-en-platzi-con-markdown.md "Repositorio de este artículo en GitHub"
 
-[url-stackedit]: https://stackedit.io/app#/ "Editor en linea de Markdown"
+[url-stackedit]: https://stackedit.io/app#/ "Editor en línea de Markdown"
 [url-imgur]: https://imgur.com/ "Servicio gratuito de imágenes de Reddit"
 [url-recordit]: https://recordit.co/
 [url-asciinema]: https://itsfoss.com/asciinema-record-terminal/
@@ -123,11 +124,11 @@ Hecho con el 💚 en el 2K20.
 [url-textos]: https://platzi.com/comunidad/formatos-de-texto-citas-enlaces-y-codigo-para-mejorar-tus-aportes-con-markdown/ "✍️📖 Formatos de texto, citas, enlaces y código para mejorar tus aportes con Markdown 👨‍🎨👩‍🎨"
 [url-imagenes]: https://platzi.com/comunidad/integrar-imagenes-en-tus-comentarios-o-tutoriales-con-markdown/ "✍️📷 Integrar imágenes en tus comentarios o tutoriales con Markdown 👨‍🎨👩‍🎨"
 [url-animaciones]: https://platzi.com/comunidad/dale-vida-y-movimiento-a-tus-aportes-con-animaciones-con-markdown/ "✍️🎬 Dale vida y movimiento a tus aportes con animaciones con Markdown 👨‍🎨👩‍🎨"
-[url-emojis]: https://platzi.com/comunidad/expresate-con-emojis-con-markdown/ "✍️🍕 Expresate con Emojis con Markdown 👨‍🎨👩‍🎨"
+[url-emojis]: https://platzi.com/comunidad/expresate-con-emojis-con-markdown/ "✍️🍕 Exprésate con Emojis con Markdown 👨‍🎨👩‍🎨"
 [url-variables]: https://platzi.com/comunidad/agiliza-tu-escritura-con-variables-don-t-repeat-yourself-con-markdown/ "✍️🆎 Agiliza tu escritura con variables Don´t repeat yourself con Markdown 👨‍🎨👩‍🎨"
 [url-botones]: https://platzi.com/comunidad/inserta-botones-para-facilitar-la-navegación-de-tus-lectores-con-markdown/ "✍️🔲 Inserta botones para facilitar la navegación de tus lectores con Markdown 👨‍🎨👩‍🎨"
-[url-colores]: https://platzi.com/comunidad/color-y-alegria-en-tus-aportes-con-markdown/ "✍️🌈 Color y alegria en tus aportes con Markdown 👨‍🎨👩‍🎨"
-[url-tablas]: https://platzi.com/comunidad/tablas-y-listas-tan-facil-como-nunca-lo-has-visto-con-markdown/ "✍️☑️ Tablas y listas tan facil como nunca lo has visto con Markdown 👨‍🎨👩‍🎨"
+[url-colores]: https://platzi.com/comunidad/color-y-alegria-en-tus-aportes-con-markdown/ "✍️🌈 Color y alegría en tus aportes con Markdown 👨‍🎨👩‍🎨"
+[url-tablas]: https://platzi.com/comunidad/tablas-y-listas-tan-facil-como-nunca-lo-has-visto-con-markdown/ "✍️☑️ Tablas y listas tan fácil como nunca lo has visto con Markdown 👨‍🎨👩‍🎨"
 [url-videos]: https://platzi.com/comunidad/incrusta-videos-en-tus-aportes-para-platzi-y-un-tip-para-incluirlos-en-github-con-markdown/ "✍️📺 Incrusta videos en tus aportes en Platzi y un tip para incluirlos en GitHub con Markdown 👨‍🎨👩‍🎨"
 [url-ascii]: https://platzi.com/comunidad/ascii-art-branding-en-tu-codigo-con-markdown/ "✍️🔣 ASCII Art: branding en tu código con Markdown 👨‍🎨👩‍🎨"
 [url-matematicas]: https://platzi.com/comunidad/bonus-inserta-formulas-matematicas-creadas-en-latex-con-markdown/ "✍️➗ Bonus: Inserta fórmulas matemáticas creadas en laTex con Markdown 👨‍🎨👩‍🎨"
