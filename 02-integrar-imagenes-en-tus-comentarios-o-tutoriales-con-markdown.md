@@ -18,7 +18,7 @@ _Anterior:_ ⏪ [_Formatos de texto, citas, enlaces y código para mejorar tus a
 
 ## 📷 Imágenes
 
-Puedes subir tus imágenes y GIF a un [servicio gratuito como Imgur][url-imgur] e incrustarla, como se muestra a continuación: 
+Puedes subir tus imágenes y GIF a un servicio gratuito como [Imgur][url-imgur] e incrustarla, como se muestra a continuación: 
 
 ==«==
 ---
@@ -40,7 +40,7 @@ Puedes subir tus imágenes y GIF a un [servicio gratuito como Imgur][url-imgur] 
 ==»==
 ---
   
-![subir-vistoporjuan][url-subir-vistoporjuan]
+![subir-vistoporjuan][url-vistoporjuan]
 
 
 ## Imágenes con enlace
@@ -55,7 +55,7 @@ Puedes subir tus imágenes y GIF a un [servicio gratuito como Imgur][url-imgur] 
 ---
 
 
-[![Slack Badge](https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png)][url-curso-slack] [![Escritura Online Badge](https://static.platzi.com/media/achievements/badge-escritura-online-1-ad291a75-10e8-426e-841d-fe66e340ccb6.png)][url-curso-escritura][![Casco astronauta animado](https://i.imgur.com/b1kbwbR.gif)][url-platzi]
+[![Slack Badge][url-img-slack]][url-curso-slack] [![Escritura Online Badge][url-img-escritura]][url-curso-escritura][![Casco astronauta animado][url-img-casco]][url-platzi]
 
 
 ==«==
@@ -78,6 +78,8 @@ Hecho con el 💚 en el 2K20.
 [url-repositorio]: https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/02-integrar-imagenes-en-tus-comentarios-o-tutoriales-con-markdown.md "Código fuente de esta publicación en GitHub"
 
 
+<!--
+
 [url-stackedit]: https://stackedit.io/app#/ "Editor en línea de Markdown"
 [url-imgur]: https://imgur.com/ "Servicio gratuito de imágenes de Reddit"
 [url-recordit]: https://recordit.co/ "Graba tu pantalla"
@@ -89,14 +91,16 @@ Hecho con el 💚 en el 2K20.
 [url-medium]: https://medium.com/@luiscarlos_40534/sobre-la-cantidad-de-n%C3%BAmeros-primos-por-debajo-de-una-cantidad-dada-%C3%BCber-die-anzahl-der-799ff571dd9 "articulo en Medium"
 
 
-[url-servidores]: https://i.imgur.com/xsquSxI.gif "Servidores A B C"
-[url-casco]: https://i.imgur.com/b1kbwbR.gif "Casco"
-[url-subir-imagen]: https://i.imgur.com/XXBeF2X.gif "Como subir imágenes en Platzi"
+[url-img-servidores]: https://i.imgur.com/xsquSxI.gif "Servidores A B C"
+[url-img-casco]: https://i.imgur.com/b1kbwbR.gif "Casco"
+[url-img-subir-imagen]: https://i.imgur.com/XXBeF2X.gif "Como subir imágenes en Platzi"
 [url-img-learning]: https://static.platzi.com/media/learningpath/banners/1c4f4add-87b9-44cc-ba30-4a8a134bf76e.jpg "Learning path"
-[url-ecuacion]: https://i.imgur.com/P4PL4vb.gif "Ecuacion en laTex"
+[url-img-ecuacion]: https://i.imgur.com/P4PL4vb.gif "Ecuacion en laTex"
 [url-img-codecogs]: https://i.imgur.com/t1bOxue.png "codecogs"
 [url-img-escritura]: https://i.imgur.com/3gtTnRU.gif "animación pluma"
-[url-subir-vistoporjuan]: https://i.imgur.com/W0D6elt.gif "Subir imagen en Platzi"
+[url-img-vistoporjuan]: https://i.imgur.com/W0D6elt.gif "Subir imagen en Platzi"
+[url-img-slack]: https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png
+[url-img-escritura]: https://static.platzi.com/media/achievements/badge-escritura-online-1-ad291a75-10e8-426e-841d-fe66e340ccb6.png
 
 
 [url-platzi]: https://platzi.com/cursos "Nunca pares de aprender"
@@ -119,8 +123,6 @@ Hecho con el 💚 en el 2K20.
 [url-ascii]: https://platzi.com/comunidad/ascii-art-branding-en-tu-codigo-con-markdown/ "✍️🔣 ASCII Art: branding en tu código con Markdown 👨‍🎨👩‍🎨"
 [url-matematicas]: https://platzi.com/comunidad/bonus-inserta-formulas-matematicas-creadas-en-latex-con-markdown/ "✍️➗ Bonus: Inserta fórmulas matemáticas creadas en laTex con Markdown 👨‍🎨👩‍🎨"
 [url-emojis-todos]: https://platzi.com/comunidad/listado-completo-de-emojis-en-markdown/ "✍️😍 Listado completo de emojis en Markdown 👨‍🎨👩‍🎨"
-
-<--
 
 >1. 📖 [Formatos de texto, citas, enlaces y código para mejorar tus aportes ][url-textos]
 >1. 📷 [Integrar imágenes en tus comentarios o tutoriales][url-imagenes]
