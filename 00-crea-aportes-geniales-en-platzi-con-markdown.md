@@ -89,6 +89,7 @@ Fuentes:
 1. [How to Write Fas ter, Better & Longer: The Ultimate Guide to Markdown](https://ghost.org/changelog/markdown/)
 1. [Vimeo API](https://developer.vimeo.com/api/common-formats)
 1. [Stackoverflow](https://stackoverflow.com/questions/2068344/how-do-i-get-a-youtube-video-thumbnail-from-the-youtube-api#2068371)
+1. [GitHub Gist](https://gist.github.com/rxaviers/7360908) 
 
 
 ==«==
