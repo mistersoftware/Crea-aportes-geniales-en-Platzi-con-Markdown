@@ -11,7 +11,7 @@ Las ideas recién nacidas son frágiles y, expuestas de la forma incorrecta en e
 ---
 
 
-Platzi utiliza una versión de Markdown creada por ellos llamada [Pulse Editor](https://platzi.com/blog/presentamos-pulse-editor/). Una de las grandes ventajas de este editor es su extensibilidad y adaptabilidad, por ende, al momento en que estés leyendo estas líneas es posible que sus funcionalidades hayan sido extendidas o modificadas. 
+Platzi utiliza una versión de Markdown llamada [Pulse Editor](https://platzi.com/blog/presentamos-pulse-editor/). Una de las grandes ventajas de este editor es su extensibilidad y adaptabilidad, por ende, al momento en que estés leyendo estas líneas es posible que sus funcionalidades hayan sido extendidas o modificadas. 
 
 ## ¿Qué Aprenderemos?
 
