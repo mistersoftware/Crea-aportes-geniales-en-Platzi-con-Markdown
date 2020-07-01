@@ -1,4 +1,5 @@
-02 ✍️📷 Integrar imágenes en tus comentarios o tutoriales 👨‍🎨👩‍🎨
+
+✍️📷 Integrar imágenes en tus comentarios o tutoriales 👨‍🎨👩‍🎨
 
 
 _Anterior:_ ⏪ [_Formatos de texto, citas, enlaces y código para mejorar tus aportes_][url-textos] 📖
@@ -54,7 +55,7 @@ Puedes subir tus imágenes y GIF a un [servicio gratuito como Imgur][url-imgur] 
 ---
 
 
-[![Slack BadgeBadge Slack](https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png)][url-curso-slack] [![Escritura Online Badge](https://static.platzi.com/media/achievements/badge-escritura-online-1-ad291a75-10e8-426e-841d-fe66e340ccb6.png)][url-curso-escritura][![Casco astronauta animado](https://i.imgur.com/b1kbwbR.gif)][url-platzi]
+[![Slack Badge](https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png)][url-curso-slack] [![Escritura Online Badge](https://static.platzi.com/media/achievements/badge-escritura-online-1-ad291a75-10e8-426e-841d-fe66e340ccb6.png)][url-curso-escritura][![Casco astronauta animado](https://i.imgur.com/b1kbwbR.gif)][url-platzi]
 
 
 ==«==
@@ -99,8 +100,8 @@ Hecho con el 💚 en el 2K20.
 [url-emojis]: https://platzi.com/comunidad/expresate-con-emojis-con-markdown/ "✍️🍕 Expresate con Emojis con Markdown 👨‍🎨👩‍🎨"
 [url-variables]: https://platzi.com/comunidad/agiliza-tu-escritura-con-variables-don-t-repeat-yourself-con-markdown/ "✍️🆎 Agiliza tu escritura con variables Don´t repeat yourself con Markdown 👨‍🎨👩‍🎨"
 [url-botones]: https://platzi.com/comunidad/inserta-botones-para-facilitar-la-navegación-de-tus-lectores-con-markdown/ "✍️🔲 Inserta botones para facilitar la navegación de tus lectores con Markdown 👨‍🎨👩‍🎨"
-[url-colores]: https://platzi.com/comunidad/color-y-alegria-en-tus-aportes-con-markdown/ "✍️🌈 Color y alegria en tus aportes con Markdown 👨‍🎨👩‍🎨"
-[url-tablas]: https://platzi.com/comunidad/tablas-y-listas-tan-facil-como-nunca-lo-has-visto-con-markdown/ "✍️☑️ Tablas y listas tan facil como nunca lo has visto con Markdown 👨‍🎨👩‍🎨"
+[url-colores]: https://platzi.com/comunidad/color-y-alegria-en-tus-aportes-con-markdown/ "✍️🌈 Color y alegría en tus aportes con Markdown 👨‍🎨👩‍🎨"
+[url-tablas]: https://platzi.com/comunidad/tablas-y-listas-tan-facil-como-nunca-lo-has-visto-con-markdown/ "✍️☑️ Tablas y listas tan fácil como nunca lo has visto con Markdown 👨‍🎨👩‍🎨"
 [url-videos]: https://platzi.com/comunidad/incrusta-videos-en-tus-aportes-para-platzi-y-un-tip-para-incluirlos-en-github-con-markdown/ "✍️📺 Incrusta videos en tus aportes en Platzi y un tip para incluirlos en GitHub con Markdown 👨‍🎨👩‍🎨"
 [url-ascii]: https://platzi.com/comunidad/ascii-art-branding-en-tu-codigo-con-markdown/ "✍️🔣 ASCII Art: branding en tu código con Markdown 👨‍🎨👩‍🎨"
 [url-matematicas]: https://platzi.com/comunidad/bonus-inserta-formulas-matematicas-creadas-en-latex-con-markdown/ "✍️➗ Bonus: Inserta fórmulas matemáticas creadas en laTex con Markdown 👨‍🎨👩‍🎨"
