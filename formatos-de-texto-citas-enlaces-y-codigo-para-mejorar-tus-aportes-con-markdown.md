@@ -289,6 +289,6 @@ https\:/[]()/example.com/
 
 Hecho con el 💚 en el 2K20. 
 
-[⚫](https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/formatos-de-texto-citas-enlaces-y-c%C3%B3digo-para-mejorar-tus-aportes-con-markdown.md "Repositorio de este articulo en GitHub")
+[⚫](https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/formatos-de-texto-citas-enlaces-y-codigo-para-mejorar-tus-aportes-con-markdown.md "Repositorio de este articulo en GitHub")
 
 
