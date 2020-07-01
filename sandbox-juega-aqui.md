@@ -26,14 +26,10 @@ Puedes subir tus imágenes y GIF a un servicio gratuito como [Imgur][url-imgur] 
 Sintaxis | Se renderizara así 
 --- | -- 
 `![img-learning][url-img-learning]` |  ![Data](https://static.platzi.com/media/learningpath/banners/1c4f4add-87b9-44cc-ba30-4a8a134bf76e.jpg)
-
 `![subir-vistoporjuan][url-subir-vistoporjuan]` | ![subir-vistoporjuan][url-vistoporjuan]
 
 
-==» El código anterior producirá: »==
----
 
- ![Data](https://static.platzi.com/media/learningpath/banners/1c4f4add-87b9-44cc-ba30-4a8a134bf76e.jpg)
 ==«==
 ---
 >Si usas el navegador Google Chrome o Mozilla Firefox en la versión web, podrás adjuntar imágenes **_(exclusivamente de formato PNG y JPG)_** arrastrando la imagen de tu explorador de archivos a la casilla donde escribes el comentario. 
@@ -42,8 +38,6 @@ Sintaxis | Se renderizara así
 
 ==»==
 ---
-  
-![subir-vistoporjuan][url-vistoporjuan]
 
 
 ## Imágenes con enlace
@@ -51,13 +45,9 @@ Sintaxis | Se renderizara así
 ==«==
 ---
 
-`[![Slack Badge](https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png)][url-curso-slack] [![Escritura Online Badge](https://static.platzi.com/media/achievements/badge-escritura-online-1-ad291a75-10e8-426e-841d-fe66e340ccb6.png)][url-curso-escritura][![Casco astronauta animado](https://i.imgur.com/b1kbwbR.gif)][url-platzi]`
-
-
-==» El código anterior producirá: »==
----
-
-
+Sintaxis | Se renderizara así 
+--- | -- 
+`[![Slack Badge](https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png)][url-curso-slack] [![Escritura Online Badge](https://static.platzi.com/media/achievements/badge-escritura-online-1-ad291a75-10e8-426e-841d-fe66e340ccb6.png)][url-curso-escritura][![Casco astronauta animado](https://i.imgur.com/b1kbwbR.gif)][url-platzi]` | 
 [![Slack Badge][url-img-badge-slack]][url-curso-slack] [![Escritura Online Badge][url-img-badge-escritura]][url-curso-escritura][![Casco astronauta animado][url-img-casco]][url-platzi]
 
 
