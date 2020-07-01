@@ -3,20 +3,9 @@
 _Anterior:_ ⏪ [_✍️💡Crea aportes geniales en Platzi con Markdown 👨‍🎨👩‍🎨_][url-indice]
 
 
-==«==
----
-
 
 ## 📖 Formatos de texto, citas, enlaces y código para mejorar tus aportes
 
-Markdown es una forma de diseñar texto en la web, donde tú controlas la visualización del documento; resaltando palabras en **negrita** o _cursiva_, agregando 👨‍🚀[emojis-todos][url-emojis-todos]🚀, imágenes, videos, creando listas o tablas. Te recomiendo antes de comenzar ir a [StackEdit][url-stackedit] un editor de Markdown en línea que te facilitara seguir esta guía.
-
-
-==»==
----
-
-
-## Etiquetas para dar énfasis
 
 Las etiquetas de énfasis, permiten resaltar parte del texto sin obligar un salto de línea.
 
@@ -295,7 +284,7 @@ Hecho con el 💚 en el 2K20.
 [⚫][url-repositorio]
 
 
-[url-indice]: https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/00-crea-aportes-geniales-en-platzi-con-markdown.md "✍️💡 Crea aportes geniales en Platzi con Markdown 👨‍🎨👩‍🎨"
+[url-indice]: https://platzi.com/blog/crea-aportes-geniales-en-platzi-con-markdown "✍️💡 Crea aportes geniales en Platzi con Markdown 👨‍🎨👩‍🎨"
 [url-repositorio]: https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/formatos-de-texto-citas-enlaces-y-codigo-para-mejorar-tus-aportes-con-markdown.md "Repositorio de este articulo en GitHub"
 
 [url-connect]: https://platzi.com/empleos/ "Platzi Connect"
