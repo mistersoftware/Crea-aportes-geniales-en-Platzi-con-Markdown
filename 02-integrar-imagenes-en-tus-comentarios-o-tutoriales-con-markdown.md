@@ -62,7 +62,7 @@ Puedes subir tus imágenes y GIF a un [servicio gratuito como Imgur][url-imgur] 
 
 **_Continúa tu aprendizaje con:_**
 
-* ⏩ _[Animaciones en Markdown](https://platzi.com/comunidad/animaciones-con-estilo-en-markdown)_ 🎬
+* ⏩ _[Dale vida y movimiento a tus aportes con animaciones][url-animaciones]_ 🎬
 
 ==»==
 ---
@@ -95,7 +95,7 @@ Hecho con el 💚 en el 2K20.
 [url-connect]: https://platzi.com/empleos/ "Platzi Connect"
 [url-curso-git]: https://platzi.com/clases/git-github/ "Curso Profesional de Git y GitHub"
 [url-curso-slack]: https://platzi.com/clases/slack/ "Curso de Comunicación Online con Slack"
-[url-curso-escritura]: 
+[url-curso-escritura]: https://platzi.com/clases/escritura-online/ "Curso de Escritura Online"
 [url-pulse-editor]: https://platzi.com/blog/presentamos-pulse-editor/ "El sabor personalizado de Markdown en Platzi"
 
 
