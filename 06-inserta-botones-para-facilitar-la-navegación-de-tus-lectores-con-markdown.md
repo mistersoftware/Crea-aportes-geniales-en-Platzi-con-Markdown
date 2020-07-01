@@ -2,7 +2,7 @@
 ✍️🔲 Inserta botones para facilitar la navegación de tus lectores con Markdown 👨‍🎨👩‍🎨
 
 
-_Anterior:_ ⏪ [_Agiliza tu escritura con variables _"Don´t repeat yourself"_ ]][url-variables] 🆎
+_Anterior:_ ⏪ [_Agiliza tu escritura con variables _"Don´t repeat yourself"_ ][url-variables] 🆎
 
 ==«==
 ---
