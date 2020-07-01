@@ -46,8 +46,6 @@ Markdown es muy utilizado en la industria de la tecnología por su versatilidad 
 ==«==
 ---
 
-Muy bien, ya sabes donde podrás utilizar Markdown, ahora veamos como utilizarlo. 
----
 
 ## Índice de contenidos
 
