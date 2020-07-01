@@ -18,9 +18,16 @@ _Anterior:_ ⏪ [_Integrar imágenes en tus comentarios o tutoriales_][url-image
 
 A nivel pedagógico las animaciones tienen mucho peso. Existen muchos programas como por ejemplo [Recordit][url-recordit] que te permiten grabar tu pantalla (o una parte) y crear un archivo GIF a partir de ella. 
 
+==«==
+---
+
 > _**Si solo buscas compartir la consola (y estas en linux) puedes grabar un video de ella y compartirlo mediante [asciinema][url-asciinema] con la gran ventaja que la persona que vea tu video podra copiar y pegar los comandos desde el video hacia su propia consola.**_
 
 A diferencia de las imágenes con formato PNG y JPG que pueden arrastrarse y soltarse directamente en la casilla de texto cuando estás escribiendo un comentario, los archivos GIF deben subirse a [servicio gratuito](https://imgur.com) e incrustarse, como se muestra a continuación: 
+
+
+==»==
+---
 
 ==«==
 ---
@@ -90,6 +97,7 @@ Hecho con el 💚 en el 2K20.
 [url-ecuacion]: https://i.imgur.com/P4PL4vb.gif "Ecuacion en laTex"
 [url-img-codecogs]: https://i.imgur.com/t1bOxue.png "codecogs"
 [url-img-escritura]: https://i.imgur.com/3gtTnRU.gif "animación pluma"
+[url-img-ascii]: https://i.imgur.com/DNgcFgx.png "Logo Platzi en ascii"
 
 [url-platzi]: https://platzi.com/cursos "Nunca pares de aprender"
 [url-connect]: https://platzi.com/empleos/ "Platzi Connect"
