@@ -31,7 +31,7 @@ También puedes subir tus imágenes y GIF a un servicio gratuito como [Imgur][ur
 
 Sintaxis | Se renderizara así 
 --- | -- 
-`![img-learning][url-img-learning]` |  ![Data](https://static.platzi.com/media/learningpath/banners/1c4f4add-87b9-44cc-ba30-4a8a134bf76e.jpg)
+`![img-learning](https://static.platzi.com/media/learningpath/banners/1c4f4add-87b9-44cc-ba30-4a8a134bf76e.jpg "Learning path")` |  ![img-learning][url-img-subir-imagen]
 
 
 
