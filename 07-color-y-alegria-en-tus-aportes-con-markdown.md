@@ -48,6 +48,7 @@ Markdown es un lugar muy serio, **pero eso puede cambiar** mediante el uso del s
 
 ==»==
 ---
+
 [📖][url-textos] [📷][url-imagenes] [🎬][url-animaciones] [🍕][url-emojis] [🆎][url-variables] [🔲][url-botones] [🌈][url-colores] [☑️][url-tablas] [📺][url-videos]  [🔣][url-ascii] [➗][url-matematicas]
 
 
