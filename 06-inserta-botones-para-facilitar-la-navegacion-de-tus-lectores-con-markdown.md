@@ -42,7 +42,7 @@ Una forma sencilla y llamativa de navegar entre tus documentos.
 
 **_Continúa tu aprendizaje con:_**
 
-* ⏩ _[Color y alegria en tus aportes][url-colores]_ ️💚 
+* ⏩ _[Color y alegria en tus aportes][url-colores]_ ️🌈 
 
 ==»==
 ---
