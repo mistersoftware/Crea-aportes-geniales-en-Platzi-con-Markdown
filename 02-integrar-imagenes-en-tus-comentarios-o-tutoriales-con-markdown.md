@@ -25,7 +25,7 @@ Puedes subir tus imágenes y GIF a un servicio gratuito como [Imgur][url-imgur] 
 
 `![img-learning][url-img-learning]`
 
-`![subir-vistoporjuan][url-subir-vistoporjuan]`
+`![subir-vistoporjuan][url-img-vistoporjuan]`
 
 ==» El código anterior producirá: »==
 ---
