@@ -2,7 +2,7 @@
 ✍️💡 Crea aportes geniales en Platzi con Markdown 👨‍🎨👩‍🎨
 
 
-Las ideas recién nacidas son frágiles y, expuestas de la forma incorrecta en el entorno incorrecto, irremediablemente están destinadas a morir. **En Platzi estás en el entorno correcto, y en esta publicación encontrarás tips y herramientas que te ayudaran a darle estilo y exponer tus ideas de forma correcta con Markdown**, y si hay suerte, aquellas ideas regresaran a ti, diferentes, enriquecidas, renovadas.
+Las ideas recién nacidas son frágiles y expuestas de la forma incorrecta en el entorno incorrecto, irremediablemente están destinadas a morir. **En esta publicación encontrarás tips y herramientas que te ayudaran a darle estilo y exponer tus ideas con Markdown**. Si hay suerte, aquellas ideas regresaran a ti, diferentes, enriquecidas, renovadas.
 
 ==«==
 ---
@@ -14,7 +14,7 @@ Las ideas recién nacidas son frágiles y, expuestas de la forma incorrecta en e
 
 Platzi utiliza una versión de Markdown llamada [Pulse Editor][url-pulse-editor]. Una de las grandes ventajas de este editor es su extensibilidad y adaptabilidad, por ende, al momento en que estés leyendo estas líneas es posible que sus funcionalidades hayan sido extendidas o modificadas. 
 
-## ¿Qué Aprenderemos?
+## 👨‍🏫 ¿Qué Aprenderemos?
 
 Aprenderemos como controlar la visualización del documento; escribir en _itálico_, ==resaltando== palabras en **negrita**, insertando [enlaces][url-vacia], agregando 👨‍🚀Emojis🚀,  [![url-vacia][url-ejemplo-boton]](#), organizando tus datos en listas o tablas. Aprenderemos como utilizar variables para ahorrarnos mucho trabajo con las referencias, los enlaces y las imágenes. También se incluyen un par de trucos extra para traer [![url-vacia][url-ejemplo-color]]() a nuestras publicaciones. Veremos como crear publicaciones con expresiones matemáticas **y obviamente no podría faltar, veremos como insertar imágenes, animaciones y videos.** 
 
@@ -28,7 +28,7 @@ Por ejemplo, aprenderemos como insertar animaciones, como la siguiente donde se 
 ==»==
 ---
 
-## ¿Como funciona Markdown?
+## ⚙️ ¿Como funciona Markdown?
 
 Cuando escribes en Markdown, el texto se almacena en un archivo de texto sin formato que tiene una extensión .mdo .markdown. ¿Pero entonces, qué? ¿Cómo se convierte su archivo con formato Markdown en HTML o en un documento listo para imprimir?
 
@@ -41,21 +41,10 @@ Puede ver una representación visual de este proceso a continuación.
 ![proceso-md][url-img-proceso-md]
 
 
->Nota: La aplicación Markdown y el procesador son dos componentes separados. En aras de la brevedad, los he combinado en un elemento ("Aplicación Markdown") en la figura anterior.
+>Nota: La aplicación Markdown (Markdown App) y el procesador son dos componentes separados. En aras de la brevedad, los he combinado en un elemento ("Aplicación Markdown") en la figura anterior.
 
 
-Para resumir, este es un proceso de cuatro partes:
-
-1. Cree un archivo Markdown usando un editor de texto o una aplicación dedicada Markdown. El archivo debe tener una .mdo .markdownextensión.
-1. Abra el archivo Markdown en una aplicación Markdown.
-1. Use la aplicación Markdown para convertir el archivo Markdown a un documento HTML.
-1. Vea el archivo HTML en un navegador web o use la aplicación Markdown para convertirlo a otro formato de archivo, como PDF.
-
-Desde su perspectiva, el proceso variará un poco dependiendo de la aplicación que utilice. Por ejemplo, Dillinger combina esencialmente los pasos 1-3 en una única interfaz sin interrupciones: todo lo que tiene que hacer es escribir en el panel izquierdo y la salida renderizada aparece mágicamente en el panel derecho. Pero si usa otras herramientas, como un editor de texto con un generador de sitio web estático, encontrará que el proceso es mucho más visible.
-
-> Te recomiendo que antes de continuar, vayas a
-
-## ¿Donde puedo usar Markdown?
+## 📍 ¿Donde puedo usar Markdown?
 
 Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. Puedes usar Markdown en [StackEdit][url-stackedit]_, [Dillinger][url-dillinger] y en muchos otros editores en línea de Markdown. Tambien puedes utilizar Markdown dentro de [Git-hub][url-curso-git] o en [Slack][url-curso-slack] para comunicarte con tu equipo de trabajo, y tambien puedes usarlo en Platzi.  
 
@@ -76,7 +65,7 @@ Esta guía ha sido creada con la ayuda del _team Platzi_ y los aportes de otros 
 ---
 
 
-## Índice de contenidos
+## 👉 Índice de contenidos
 
 
 >1. 📖 [Formatos de texto, citas, enlaces y código para mejorar tus aportes][url-textos]
@@ -106,8 +95,8 @@ Esta guía ha sido creada con la ayuda del _team Platzi_ y los aportes de otros 
 ---
 
 
-Fuentes:
----
+## ℹ️ Fuentes:
+
 
 1. [Markdown Guide](https://ia.net/writer/support/general/markdown-guide) 
 1. [5 Markdown Tricks for GitHub](https://grantwinney.com/cool-markdown-tricks-for-github/)
