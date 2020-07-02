@@ -14,7 +14,9 @@ _Anterior:_ ⏪ [_Tablas y listas tan facil como nunca lo has visto_][url-tablas
 ---
 
 
-## 📺 Incrustar videos de YouTube en Platzi 
+## 📺 Incrustar videos 
+
+## YouTube en Platzi 
 
 Para incrustar o insertar videos, es decir, que se puedan reproducir allí mismo sin que el lector deba ir a otra página, deberemos utilizar la siguiente sintaxis:
 
@@ -37,7 +39,7 @@ Para incrustar o insertar videos, es decir, que se puedan reproducir allí mismo
 
 
 
-## Incrustar videos de Vimeo en Platzi 
+## Vimeo en Platzi 
 
 ==«==
 ---
@@ -52,14 +54,12 @@ Para incrustar o insertar videos, es decir, que se puedan reproducir allí mismo
 @[vimeo](128154222|https://vimeo.com/128154222/)
 
 
-## Enlazar video en Markdown (funciona en GitHub)
+## Insertar miniatura con enlace al video (Funciona en todas partes)
 
 Valga la aclaración que con este método **no es necesario descargar la thumbnail**, pues la etiqueta está escrita para que la tome automáticamente de la API de Youtube.
 
 
-
-
-## Youtube API
+## Usando Youtube API
 
 | Nombre de miniatura      | Tamaño (px) | URL                                              |
 |---------------------|-----------|--------------------------------------------------|
@@ -108,7 +108,7 @@ Valga la aclaración que con este método **no es necesario descargar la thumbna
 [![x][start]][urlYoutube] [![x][middle]][urlYoutube] [![x][end]][urlYoutube] [![x][default]][urlYoutube] [![x][mqdefault]][urlYoutube] [![x][hqdefault]][urlYoutube] [![x][background]][urlYoutube]
 
 
-## Vimeo API
+## Usando Vimeo API
 
 Lo primero que debemos observar es la ID publica 128154222 y con ella realizamos el llamado a la api para obtener los datos del video, puedes elegir el formato que gustes
  
