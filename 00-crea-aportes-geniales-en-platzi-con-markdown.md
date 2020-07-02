@@ -38,18 +38,18 @@ Las aplicaciones de Markdown usan algo llamado procesador Markdown (también con
 
 Puede ver una representación visual de este proceso a continuación.
 
-[proceso-md][url-img-proceso-md]
+![proceso-md][url-img-proceso-md]
 
 
-Nota: La aplicación Markdown y el procesador son dos componentes separados. En aras de la brevedad, los he combinado en un elemento ("Aplicación Markdown") en la figura a continuación.
-El proceso de rebaja
+>Nota: La aplicación Markdown y el procesador son dos componentes separados. En aras de la brevedad, los he combinado en un elemento ("Aplicación Markdown") en la figura anterior.
+
 
 Para resumir, este es un proceso de cuatro partes:
 
-    Cree un archivo Markdown usando un editor de texto o una aplicación dedicada Markdown. El archivo debe tener una .mdo .markdownextensión.
-    Abra el archivo Markdown en una aplicación Markdown.
-    Use la aplicación Markdown para convertir el archivo Markdown a un documento HTML.
-    Vea el archivo HTML en un navegador web o use la aplicación Markdown para convertirlo a otro formato de archivo, como PDF.
+1. Cree un archivo Markdown usando un editor de texto o una aplicación dedicada Markdown. El archivo debe tener una .mdo .markdownextensión.
+1. Abra el archivo Markdown en una aplicación Markdown.
+1. Use la aplicación Markdown para convertir el archivo Markdown a un documento HTML.
+1. Vea el archivo HTML en un navegador web o use la aplicación Markdown para convertirlo a otro formato de archivo, como PDF.
 
 Desde su perspectiva, el proceso variará un poco dependiendo de la aplicación que utilice. Por ejemplo, Dillinger combina esencialmente los pasos 1-3 en una única interfaz sin interrupciones: todo lo que tiene que hacer es escribir en el panel izquierdo y la salida renderizada aparece mágicamente en el panel derecho. Pero si usa otras herramientas, como un editor de texto con un generador de sitio web estático, encontrará que el proceso es mucho más visible.
 
