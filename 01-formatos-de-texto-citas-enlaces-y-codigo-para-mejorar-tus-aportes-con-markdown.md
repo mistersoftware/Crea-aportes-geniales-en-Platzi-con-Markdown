@@ -317,15 +317,3 @@ Hecho con el 💚 en el 2K20.
 [url-ascii]: https://platzi.com/comunidad/ascii-art-branding-en-tu-codigo-con-markdown/ "✍️🔣 ASCII Art: branding en tu código con Markdown 👨‍🎨👩‍🎨"
 [url-matematicas]: https://platzi.com/comunidad/bonus-inserta-formulas-matematicas-creadas-en-latex-con-markdown/ "✍️➗ Bonus: Inserta fórmulas matemáticas creadas en laTex con Markdown 👨‍🎨👩‍🎨"
 [url-emojis-todos]: https://platzi.com/comunidad/emojis-y-mas-emojis-con-estilo-en-markdown/ "Listado completo de emojis en Markdown"
-
->1. 📖 [Formatos de texto, citas, enlaces y código para mejorar tus aportes][url-textos]
->1. 📷 [Integrar imágenes en tus comentarios o tutoriales][url-imagenes]
->1. 🎬 [Dale vida y movimiento a tus aportes con animaciones][url-animaciones]
->1. 🍕 [Expresate con Emojis][url-emojis]
->1. 🆎 [Agiliza tu escritura con variables _"Don´t repeat yourself"_ ][url-variables]
->1. 🔲 [Inserta botones para facilitar la navegación de tus lectores][url-botones]
->1. 🌈 [Color y alegria en tus aportes][url-colores]
->1. ☑️ [Tablas y listas tan facil como nunca lo has visto][url-tablas] 
->1. 📺 [Incrusta videos en tus aportes en Platzi y un tip para incluirlos en GitHub][url-videos]
->1. 🔣 [ASCII Art: branding en tu código][url-ascii]
->1. ➗ [Bonus: Inserta fórmulas matemáticas creadas en laTex][url-matematicas]
