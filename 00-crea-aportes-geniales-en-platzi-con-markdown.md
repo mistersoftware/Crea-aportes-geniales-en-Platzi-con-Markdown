@@ -16,7 +16,7 @@ Platzi utiliza una versión de Markdown llamada [Pulse Editor][url-pulse-editor]
 
 ## ¿Qué Aprenderemos?
 
-Aprenderemos como controlar la visualización del documento; escribir en _itálico_, ==resaltando== palabras en **negrita**, insertando [enlaces][url-vacia], agregando 👨‍🚀Emojis🚀,  [![url-vacia](https://via.placeholder.com/75x16/444/fcfcfc?text=Botones "Botones")](#), organizando tus datos en listas o tablas. Aprenderemos como utilizar variables para ahorrarnos mucho trabajo con las referencias, los enlaces y las imágenes. También se incluyen un par de trucos extra para traer [![url-vacia](https://via.placeholder.com/75x16/98ca3f/444?text=Color "Color")]() a nuestras publicaciones. Veremos como crear publicaciones con expresiones matemáticas **y obviamente no podría faltar, veremos como insertar imágenes, animaciones y videos.** 
+Aprenderemos como controlar la visualización del documento; escribir en _itálico_, ==resaltando== palabras en **negrita**, insertando [enlaces][url-vacia], agregando 👨‍🚀Emojis🚀,  [![url-vacia][url-ejemplo-boton]](#), organizando tus datos en listas o tablas. Aprenderemos como utilizar variables para ahorrarnos mucho trabajo con las referencias, los enlaces y las imágenes. También se incluyen un par de trucos extra para traer [![url-vacia][url-ejemplo-color]]() a nuestras publicaciones. Veremos como crear publicaciones con expresiones matemáticas **y obviamente no podría faltar, veremos como insertar imágenes, animaciones y videos.** 
 
 ==«==
 ---
@@ -122,8 +122,10 @@ Hecho con el 💚 en el 2K20.
 [url-img-codecogs]: https://i.imgur.com/t1bOxue.png "codecogs"
 [url-img-escritura]: https://i.imgur.com/3gtTnRU.gif "animación pluma"
 [url-img-vistoporjuan]: https://i.imgur.com/W0D6elt.gif "Subir imagen en Platzi"
-[url-img-badge-slack]: https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png
-[url-img-badge-escritura]: https://static.platzi.com/media/achievements/badge-escritura-online-1-ad291a75-10e8-426e-841d-fe66e340ccb6.png
+[url-img-badge-slack]: https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png "bade slack"
+[url-img-badge-escritura]: https://static.platzi.com/media/achievements/badge-escritura-online-1-ad291a75-10e8-426e-841d-fe66e340ccb6.png "badge escritura"
+[url-ejemplo-color]: https://via.placeholder.com/75x16/98ca3f/444?text=Color "Color"
+[url-ejemplo-boton]: https://via.placeholder.com/75x16/444/fcfcfc?text=Botones "Botones"
 
 
 [url-platzi]: https://platzi.com/cursos "Nunca pares de aprender"
