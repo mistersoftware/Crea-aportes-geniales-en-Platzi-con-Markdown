@@ -19,7 +19,7 @@ _Anterior:_ ⏪ [_Color y alegria en tus aportes_][url-colores] ️🌈
 Las listas y las tablas son de gran utilidad en Markdown por su gran simplicidad (en comparación con HTML). 
 
 
-## Listas No ordenadas
+## ⚫ Listas No ordenadas
 
 ==«==
 ---
@@ -48,7 +48,7 @@ Las listas y las tablas son de gran utilidad en Markdown por su gran simplicidad
   * ‘Terminator 2: El día del juicio final’
 * Al filo del mañana’ ('Edge of tomorrow')
 
-## Listas Ordenadas
+## 🔢 Listas Ordenadas
 
 Algo que no todo el mundo se da cuenta, es que, **no debes preocuparte por la numeración, pues se realiza automáticamente.**
 
@@ -86,7 +86,7 @@ Algo que no todo el mundo se da cuenta, es que, **no debes preocuparte por la nu
 1. ‘Vengadores: Endgame’ ('Avengers: Endgame')
 1. ‘Doce Monos’ ('12 Monkeys')
 
-## Tareas - Checklists
+## ✔️ Tareas - Checklists
 
 Las tareas puedes listarlas con el siguiente formato, **y te ofrecerá una casilla accionable en el momento que estás editando** como  por ejemplo en Stackedit
 
@@ -115,7 +115,7 @@ Las tareas puedes listarlas con el siguiente formato, **y te ofrecerá una casil
 - [ ] ‘Pleasantville’
 - [ ] ‘Una cuestión de tiempo’ ('About Time')
 
-## Tablas
+## 🔳 Tablas
 Las tablas pueden tener tantas columnas y filas como sea necesario. **Las columnas se separan con el símbolo | y es necesario incluir la primera y la segunda fila** como se muestra a continuación,
 
 ==«==
