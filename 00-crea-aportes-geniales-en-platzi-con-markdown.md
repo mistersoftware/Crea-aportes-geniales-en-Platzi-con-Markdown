@@ -128,7 +128,7 @@ Hecho con el 💚 en el 2K20.
 [url-rmarkdown]: https://rmarkdown.rstudio.com/ "una versión extendida de Markdown"
 [url-traduccion-hipotesis]: https://platzi.com/tutoriales/1319-discretas/6238-hipotesis-de-riemann-traduccion-al-espanol/ "Traducción Hipótesis"
 [url-overleaf]: https://www.overleaf.com/ "Código laTex en la nube"
-[url-medium]: https://medium.com/@luiscarlos_40534/sobre-la-cantidad-de-n%C3%BAmeros-primos-por-debajo-de-una-cantidad-dada-%C3%BCber-die-anzahl-der-799ff571dd9 "articulo en Medium"
+[url-medium]: https://medium.com/@luiscarlos_40534/sobre-la-cantidad-de-n%C3%BAmeros-primos-por-debajo-de-una-cantidad-dada-%C3%BCber-die-anzahl-der-799ff571dd9 "Traducccion de la hipotesis en Medium"
 
 
 [url-img-servidores]: https://i.imgur.com/xsquSxI.gif "Servidores A B C"
@@ -144,6 +144,7 @@ Hecho con el 💚 en el 2K20.
 [url-ejemplo-color]: https://via.placeholder.com/75x16/98ca3f/444?text=Color "Color"
 [url-ejemplo-boton]: https://via.placeholder.com/75x16/444/fcfcfc?text=Botones "Botones"
 [url-img-proceso-md]: https://i.imgur.com/naN0LfO.png "Proceso de renderizado en Markdown"
+[url-img-ascii]: https://i.imgur.com/DNgcFgx.png "Logo Platzi en ascii"
 
 
 [url-platzi]: https://platzi.com/cursos "Nunca pares de aprender"
