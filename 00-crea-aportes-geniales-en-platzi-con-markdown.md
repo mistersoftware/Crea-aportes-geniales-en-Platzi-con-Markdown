@@ -21,12 +21,37 @@ Aprenderemos como controlar la visualización del documento; escribir en _itáli
 ==«==
 ---
 
-Aquí un breve adelanto:
+Por ejemplo, aprenderemos como insertar animaciones, como la siguiente donde se explica como subir imagenes a Platzi.
 
 ![Subir Imagen][url-img-subir-imagen]
 
 ==»==
 ---
+
+## ¿Como funciona Markdown?
+
+Cuando escribes en Markdown, el texto se almacena en un archivo de texto sin formato que tiene una extensión .mdo .markdown. ¿Pero entonces, qué? ¿Cómo se convierte su archivo con formato Markdown en HTML o en un documento listo para imprimir?
+
+La respuesta breve es que necesita una aplicación Markdown capaz de procesar el archivo md. Hay muchas aplicaciones disponibles, desde simples secuencias de comandos hasta aplicaciones de escritorio que se parecen a Microsoft Word. A pesar de sus diferencias visuales, todas las aplicaciones hacen lo mismo. Todos convierten el texto con formato Markdown a HTML para que se pueda mostrar en los navegadores web.
+
+Las aplicaciones de Markdown usan algo llamado procesador Markdown (también conocido comúnmente como "analizador" o "implementación") para tomar el texto con formato Markdown y enviarlo a formato HTML. De tal manera, tu documento puede verse en un navegador web o combinarse con una hoja de estilo CSS e imprimirse. 
+
+Puede ver una representación visual de este proceso a continuación.
+
+[proceso-md][url-img-proceso-md]
+
+
+Nota: La aplicación Markdown y el procesador son dos componentes separados. En aras de la brevedad, los he combinado en un elemento ("Aplicación Markdown") en la figura a continuación.
+El proceso de rebaja
+
+Para resumir, este es un proceso de cuatro partes:
+
+    Cree un archivo Markdown usando un editor de texto o una aplicación dedicada Markdown. El archivo debe tener una .mdo .markdownextensión.
+    Abra el archivo Markdown en una aplicación Markdown.
+    Use la aplicación Markdown para convertir el archivo Markdown a un documento HTML.
+    Vea el archivo HTML en un navegador web o use la aplicación Markdown para convertirlo a otro formato de archivo, como PDF.
+
+Desde su perspectiva, el proceso variará un poco dependiendo de la aplicación que utilice. Por ejemplo, Dillinger combina esencialmente los pasos 1-3 en una única interfaz sin interrupciones: todo lo que tiene que hacer es escribir en el panel izquierdo y la salida renderizada aparece mágicamente en el panel derecho. Pero si usa otras herramientas, como un editor de texto con un generador de sitio web estático, encontrará que el proceso es mucho más visible.
 
 ## ¿Donde puedo usar Markdown?
 
@@ -126,6 +151,7 @@ Hecho con el 💚 en el 2K20.
 [url-img-badge-escritura]: https://static.platzi.com/media/achievements/badge-escritura-online-1-ad291a75-10e8-426e-841d-fe66e340ccb6.png "badge escritura"
 [url-ejemplo-color]: https://via.placeholder.com/75x16/98ca3f/444?text=Color "Color"
 [url-ejemplo-boton]: https://via.placeholder.com/75x16/444/fcfcfc?text=Botones "Botones"
+[url-img-proceso-md]: https://i.imgur.com/naN0LfO.png "Proceso de renderizado en Markdown"
 
 
 [url-platzi]: https://platzi.com/cursos "Nunca pares de aprender"
