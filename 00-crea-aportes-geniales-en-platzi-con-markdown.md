@@ -6,7 +6,7 @@ Las ideas recién nacidas son frágiles y, expuestas de la forma incorrecta en e
 
 ==«==
 ---
-> **_" ¿Alguna vez te ha pasado que tardas horas redactando algo, y al momento de publicarlo cambia totalmente su apariencia? En esta serie de publicaciones busco atacar este problema con las herramientas disponibles actualmente en Platzi. **Basicamente he probado de todo un poco y en esta guia te dire que funciona y que no**.  Todo lo que veras en este minitutorial es aplicable en Platzi, pero te recomiendo que antes de continuar, vayas a [StackEdit][url-stackedit]_, el cual es un editor en línea de Markdown donde puedes practicar todo lo que veremos. Tambien puedes utilizar GitHub para editar tu publicaciones, simplemente debes guardarlas como archivos con extension .md. "_**
+> **_" ¿Alguna vez te ha pasado que tardas horas redactando algo, y al momento de publicarlo cambia totalmente su apariencia? En esta serie de publicaciones busco atacar este problema con las herramientas disponibles actualmente en Platzi. **Basicamente he probado de todo un poco y en esta guia te dire que funciona y que no**.  Todo lo que veras en este minitutorial es aplicable en sitios como Platzi, Reddit, Slack, GitHub y muchos otros. "_**
 
 ==»==
 ---
@@ -52,6 +52,8 @@ Para resumir, este es un proceso de cuatro partes:
 1. Vea el archivo HTML en un navegador web o use la aplicación Markdown para convertirlo a otro formato de archivo, como PDF.
 
 Desde su perspectiva, el proceso variará un poco dependiendo de la aplicación que utilice. Por ejemplo, Dillinger combina esencialmente los pasos 1-3 en una única interfaz sin interrupciones: todo lo que tiene que hacer es escribir en el panel izquierdo y la salida renderizada aparece mágicamente en el panel derecho. Pero si usa otras herramientas, como un editor de texto con un generador de sitio web estático, encontrará que el proceso es mucho más visible.
+
+> Te recomiendo que antes de continuar, vayas a [StackEdit][url-stackedit]_, o a [Dillinger][url-dillinger] los cuales son editores en línea de Markdown donde puedes practicar todo lo que veremos. Tambien puedes utilizar GitHub para editar tu publicaciones, simplemente debes guardarlas como archivos con extension .md.
 
 ## ¿Donde puedo usar Markdown?
 
@@ -128,6 +130,7 @@ Hecho con el 💚 en el 2K20.
 
 [url-repositorio]: https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/crea-aportes-geniales-en-platzi-con-markdown.md "Repositorio de este artículo en GitHub"
 
+[url-dillinger]: https://dillinger.io/ "Editor en línea de Markdown"
 [url-stackedit]: https://stackedit.io/app#/ "Editor en línea de Markdown"
 [url-imgur]: https://imgur.com/ "Servicio gratuito de imágenes de Reddit"
 [url-recordit]: https://recordit.co/ "Graba tu pantalla"
