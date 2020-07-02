@@ -23,7 +23,7 @@ Aprenderemos como controlar la visualización del documento; escribir en _itáli
 
 Aquí un breve adelanto:
 
-![Subir Imagen][url-subir-imagen]
+![Subir Imagen][url-img-subir-imagen]
 
 ==»==
 ---
