@@ -80,6 +80,7 @@ Hecho con el 💚 en el 2K20.
 
 
 
+[url-dillinger]: https://dillinger.io/ "Editor en línea de Markdown"
 [url-stackedit]: https://stackedit.io/app#/ "Editor en línea de Markdown"
 [url-imgur]: https://imgur.com/ "Servicio gratuito de imágenes de Reddit"
 [url-recordit]: https://recordit.co/ "Graba tu pantalla"
@@ -88,7 +89,9 @@ Hecho con el 💚 en el 2K20.
 [url-rmarkdown]: https://rmarkdown.rstudio.com/ "una versión extendida de Markdown"
 [url-traduccion-hipotesis]: https://platzi.com/tutoriales/1319-discretas/6238-hipotesis-de-riemann-traduccion-al-espanol/ "Traducción Hipótesis"
 [url-overleaf]: https://www.overleaf.com/ "Código laTex en la nube"
-[url-medium]: https://medium.com/@luiscarlos_40534/sobre-la-cantidad-de-n%C3%BAmeros-primos-por-debajo-de-una-cantidad-dada-%C3%BCber-die-anzahl-der-799ff571dd9 "articulo en Medium"
+[url-medium]: https://medium.com/@luiscarlos_40534/sobre-la-cantidad-de-n%C3%BAmeros-primos-por-debajo-de-una-cantidad-dada-%C3%BCber-die-anzahl-der-799ff571dd9 "Traducccion de la hipotesis en Medium"
+[url-mistersoftware]: https://github.com/mistersoftware "Sigueme en GitHub"
+[url-luisca]: https://platzi.com/@luisca "Perfil en Platzi"
 
 
 [url-img-servidores]: https://i.imgur.com/xsquSxI.gif "Servidores A B C"
@@ -99,8 +102,12 @@ Hecho con el 💚 en el 2K20.
 [url-img-codecogs]: https://i.imgur.com/t1bOxue.png "codecogs"
 [url-img-escritura]: https://i.imgur.com/3gtTnRU.gif "animación pluma"
 [url-img-vistoporjuan]: https://i.imgur.com/W0D6elt.gif "Subir imagen en Platzi"
-[url-img-badge-slack]: https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png
-[url-img-badge-escritura]: https://static.platzi.com/media/achievements/badge-escritura-online-1-ad291a75-10e8-426e-841d-fe66e340ccb6.png
+[url-img-badge-slack]: https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png "bade slack"
+[url-img-badge-escritura]: https://static.platzi.com/media/achievements/badge-escritura-online-1-ad291a75-10e8-426e-841d-fe66e340ccb6.png "badge escritura"
+[url-ejemplo-color]: https://via.placeholder.com/75x16/98ca3f/444?text=Color "Color"
+[url-ejemplo-boton]: https://via.placeholder.com/75x16/444/fcfcfc?text=Botones "Botones"
+[url-img-proceso-md]: https://i.imgur.com/naN0LfO.png "Proceso de renderizado en Markdown"
+[url-img-ascii]: https://i.imgur.com/DNgcFgx.png "Logo Platzi en ascii"
 
 
 [url-platzi]: https://platzi.com/cursos "Nunca pares de aprender"
@@ -123,20 +130,3 @@ Hecho con el 💚 en el 2K20.
 [url-ascii]: https://platzi.com/comunidad/ascii-art-branding-en-tu-codigo-con-markdown/ "✍️🔣 ASCII Art: branding en tu código con Markdown 👨‍🎨👩‍🎨"
 [url-matematicas]: https://platzi.com/comunidad/bonus-inserta-formulas-matematicas-creadas-en-latex-con-markdown/ "✍️➗ Bonus: Inserta fórmulas matemáticas creadas en laTex con Markdown 👨‍🎨👩‍🎨"
 [url-emojis-todos]: https://platzi.com/comunidad/listado-completo-de-emojis-en-markdown/ "✍️😍 Listado completo de emojis en Markdown 👨‍🎨👩‍🎨"
-
-<!--
-
->1. 📖 [Formatos de texto, citas, enlaces y código para mejorar tus aportes ][url-textos]
->1. 📷 [Integrar imágenes en tus comentarios o tutoriales][url-imagenes]
->1. 🎬 [Dale vida y movimiento a tus aportes con animaciones][url-animaciones]
->1. 🍕 [Exprésate con Emojis][url-emojis]
->1. 🆎 [Agiliza tu escritura con variables _"Don´t repeat yourself"_ ][url-variables]
->1. 🔲 [Inserta botones para facilitar la navegación de tus lectores][url-botones]
->1. 🌈 [Color y alegria en tus aportes][url-colores]
->1. ☑️ [Tablas y listas tan facil como nunca lo has visto][url-tablas] 
->1. 📺 [Incrusta videos en tus aportes en Platzi y un tip para incluirlos en GitHub][url-videos]
->1. 🔣 [ASCII Art: branding en tu código][url-ascii]
->1. ➗ [Bonus: Inserta fórmulas matemáticas creadas en laTex][url-matematicas]
-
--->
-
