@@ -23,7 +23,7 @@ A nivel pedagógico las animaciones tienen mucho peso. Existen muchos programas 
 
 > _**Si solo buscas compartir la consola (y estas en linux) puedes grabar un video de ella y compartirlo mediante [asciinema][url-asciinema] con la gran ventaja que la persona que vea tu video podra copiar y pegar los comandos desde el video hacia su propia consola.**_
 
-A diferencia de las imágenes con formato PNG y JPG que pueden arrastrarse y soltarse directamente en la casilla de texto cuando estás escribiendo un comentario, los archivos GIF deben subirse a [servicio gratuito](https://imgur.com) e incrustarse, como se muestra a continuación: 
+A diferencia de las imágenes con formato PNG y JPG que pueden arrastrarse y soltarse directamente en la casilla de texto cuando estás escribiendo un comentario, los archivos GIF deben subirse a [servicio gratuito][url-imgur] e incrustarse, como se muestra a continuación: 
 
 
 ==»==
