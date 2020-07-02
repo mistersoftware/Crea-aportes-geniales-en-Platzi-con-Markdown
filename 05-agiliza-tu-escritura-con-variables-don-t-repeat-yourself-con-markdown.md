@@ -60,7 +60,7 @@ La imagen se ha definido en una variable y la variable se reutiliza arriba y aba
 ![imagencasco]
 
 
-## Comentarios ocultos
+## 🐱‍👤 Comentarios ocultos
 
 Es posible insertar comentarios ocultos utilizando la misma sintaxis. (La fila o renglon anterior al comentario debe estar vacía)
 
