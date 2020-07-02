@@ -40,7 +40,7 @@ A diferencia de las imágenes con formato PNG y JPG que pueden arrastrarse y sol
  ![Servidores][url-servidores]
 
 
-## Animaciones con enlace
+## 🔗 Animaciones con enlace
 
 ==«==
 ---
