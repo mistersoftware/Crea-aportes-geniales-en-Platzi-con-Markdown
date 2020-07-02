@@ -53,11 +53,11 @@ Para resumir, este es un proceso de cuatro partes:
 
 Desde su perspectiva, el proceso variará un poco dependiendo de la aplicación que utilice. Por ejemplo, Dillinger combina esencialmente los pasos 1-3 en una única interfaz sin interrupciones: todo lo que tiene que hacer es escribir en el panel izquierdo y la salida renderizada aparece mágicamente en el panel derecho. Pero si usa otras herramientas, como un editor de texto con un generador de sitio web estático, encontrará que el proceso es mucho más visible.
 
-> Te recomiendo que antes de continuar, vayas a [StackEdit][url-stackedit]_, o a [Dillinger][url-dillinger] los cuales son editores en línea de Markdown donde puedes practicar todo lo que veremos. Tambien puedes utilizar GitHub para editar tu publicaciones, simplemente debes guardarlas como archivos con extension .md.
+> Te recomiendo que antes de continuar, vayas a
 
 ## ¿Donde puedo usar Markdown?
 
-Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. Puedes usar Markdown en Slack para [comunicarte con tu equipo de trabajo][url-curso-slack], puedes usarlo en Platzi como veremos más adelante y es el lenguaje de marcado por defecto en la documentación de los proyectos que usan [Git-hub][url-curso-git].  
+Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. Puedes usar Markdown en [StackEdit][url-stackedit]_, [Dillinger][url-dillinger] y en muchos otros editores en línea de Markdown. Tambien puedes utilizar Markdown dentro de [Git-hub][url-curso-git] o en [Slack][url-curso-slack] para comunicarte con tu equipo de trabajo, y tambien puedes usarlo en Platzi.  
 
 **Markdown es utilizado para casi todos los mecanismos de participación y comunicación en Platzi**, _excepto en los marcadores, el chat de las transmisiones en vivo y en la descripción de tus proyectos de tu perfil para [Platzi Connect][url-connect]_
 
