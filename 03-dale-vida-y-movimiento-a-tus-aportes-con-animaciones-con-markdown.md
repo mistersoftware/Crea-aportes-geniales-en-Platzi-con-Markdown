@@ -32,12 +32,12 @@ A diferencia de las imágenes con formato PNG y JPG que pueden arrastrarse y sol
 ==«==
 ---
 
-`![Servidores][url-img-vistoporjuan]`
+`![subir imagen][url-img-subir-imagen]`
 
 ==» El código anterior producirá: »==
 ---
   
- ![Servidores][url-img-vistoporjuan]
+ ![subir imagen][url-img-subir-imagen]
 
 
 ## 🔗 Animaciones con enlace
