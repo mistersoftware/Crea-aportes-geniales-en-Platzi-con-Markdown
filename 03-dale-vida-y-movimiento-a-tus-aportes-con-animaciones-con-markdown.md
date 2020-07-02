@@ -32,12 +32,12 @@ A diferencia de las imágenes con formato PNG y JPG que pueden arrastrarse y sol
 ==«==
 ---
 
-`![Servidores][url-servidores]`
+`![Servidores][url-img-servidores]`
 
 ==» El código anterior producirá: »==
 ---
   
- ![Servidores][url-servidores]
+ ![Servidores][url-img-servidores]
 
 
 ## 🔗 Animaciones con enlace
@@ -45,14 +45,14 @@ A diferencia de las imágenes con formato PNG y JPG que pueden arrastrarse y sol
 ==«==
 ---
 
-`[![Casco astronauta][url-casco]][url-platzi]`
+`[![Casco astronauta][url-img-casco]][url-platzi]`
 
 
 ==» El código anterior producirá: »==
 ---
 
 
-[![Casco astronauta][url-casco]][url-platzi]
+[![Casco astronauta][url-img-casco]][url-platzi]
 
 
 
