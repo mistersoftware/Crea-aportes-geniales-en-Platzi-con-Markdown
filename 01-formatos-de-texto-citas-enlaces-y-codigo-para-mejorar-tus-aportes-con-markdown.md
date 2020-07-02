@@ -33,7 +33,7 @@ Las etiquetas de énfasis, permiten resaltar parte del texto sin obligar un salt
  _**Puedes** combinarlos_
   También puedes ==resaltarlos==
  
-## Citas
+## 📑 Citas
 
 Las citas se inician con el símbolo >. También se suele colocar en cursiva el párrafo entre comillas y en el renglón siguiente el autor de la cita. Algunas implementaciones de Markdown eliminan algunas ciertas para evitar inyección de código Sql, aquí recuperamos los espacios arriba y abajo de la cita usando un renglón con texto resaltado  (cualquier texto debe servir) y seguido un renglón contres guiones al medio, el cual convierte en encabezado el renglón superior y proporciona los espacios perdidos.
 
@@ -52,7 +52,7 @@ Las citas se inician con el símbolo >. También se suele colocar en cursiva el 
 > Platón.
 
 
-## Enlaces
+## 🔗 Enlaces
 Los enlaces se pueden insertar copiando y pegando la URL completa (no recomendado por falta de legibilidad) o siguiendo la siguiente regla: El texto alternativo para el enlace entre corchetes cuadrados seguido de la URL dentro de paréntesis.
 
 
@@ -70,7 +70,7 @@ http://platzi.com – enlace creado de forma automática!
 
 [Platzi](http://platzi.com)
 
-## Encabezados
+## 📜 Encabezados
 Para usar la etiqueta de encabezados, deberás iniciar la línea de texto con dos caracteres ##, así:
 
 
@@ -89,7 +89,7 @@ Para usar la etiqueta de encabezados, deberás iniciar la línea de texto con do
 En Platzi la etiqueta H1 se encuentra reservada por el sistema para mantener una correcta estructura semántica. Rara vez necesitarás encabezados diferentes al H2.
 
 
-## Separadores o saltos de línea
+## 🔪 Separadores o saltos de línea
 
 Para incluir una espacio de separación entre párrafos deberás, párrafos usar un doble salto de línea. Cuando deseas incluir una línea de separación puedes intentar con tres guiones al medio seguidos.
 
@@ -169,7 +169,7 @@ Renglón anterior.
 Renglón siguiente. 
 
 
-## Sintaxis para incluir código
+## 🖥️ Sintaxis para incluir código
 ==«==
 ---
 
@@ -212,7 +212,7 @@ function  fancyAlert(arg) {
 }
 ````
 
-## Escapar caracteres
+## 🏃🏽‍♀️ Escapar caracteres
 
 ==«==
 ---
