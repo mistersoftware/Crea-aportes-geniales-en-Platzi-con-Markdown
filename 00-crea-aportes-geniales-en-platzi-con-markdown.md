@@ -141,6 +141,67 @@ Metáforas orientacionales
 https://platzi.com/clases/1784-escritura-online/25399-agrega-metaforas-y-el-humor/
 -->
 
+<!--
+GRAN CIERRE
+    Resume
+    Recapitula
+    Recomienda
+    Call to Action
+        Deja claro la acción a realizar
+        Describe el beneficio
+        Sé coherente
+        Resalta el Call To Action
+Deja clara la acción que el usuario debe realizar
+Describe el beneficio
+Se coherente
+Resalta el call to action
+https://platzi.com/clases/1784-escritura-online/25400-escribe-un-gran-cierre/
+-->
+
+<!--
+Tips para construir un buen titular
+¿Cuántas veces has compartido un texto con sólo leer el titular?
+Un titular debe ser claro breve y efectivo
+Fórmulas paa construir titulares:
+Cómo+verbo+nombre+beneficio:"Cómo ganar amigos e influir sobre las personas"
+Número+nombre+verbo+complemento:"Más de un millón de alumnos abandonan sus estudios en México".
+Verbo+deseo+complemento+negación:"Aprende a programar sin saber matemáticas"
+Consigue+deseo+tiempo:"Consigue vender tu casa al mejor precio en un mes".
+5 formas de escribir un titular
+1. Cuenta una historia:
+  - Cómo yo (historia)
+  - Conoce el detrás de cámaras de (un proceso)
+  - Como yo construí (un producto) en (cierto tiempo)
+2. Sé una guía
+  - La mejor guía para (palabra)
+  - La mejor guía para convertirte en (carrera)
+  - # Maneras de convertirte en un máster (tema)
+  - Crea/Lanza tu (proyecto) en (número de días)
+  - La guía para los principiantes para (tu tema)
+  - La antomía de un (palabra o tema)
+  - El paso a paso para (un tema)
+  - Cómo crear un (producto) perfecto.
+  Se cuidadoso con los adjetivos. 
+3. Haz listas con mentiras y errores
+- # mentiras sobre (un tema)
+- errores que (una audiencia) tiene
+4. Busca la confrontación entre dos productos.
+- (Producto 1) contra (producto 2), el último enfrentamiento.
+- Por qué (producto 1) es mejor que (producto 2)
+5. Da tips y trucos
+- # formas simples de mejorar (un tema)
+- # coas que debes saber sobre (un tema)
+- # maneras de mejorar (la forma de hacer una tarea)
+- Los secretos detrás de (una industria)
+Si das tips y los enumeras ayudara a los lectores a conectar con tu texto.
+Crea curiosidad, pero con moderación.
+Sé concreto.
+Comprueba los resultados. Cambia el titulo cuando veas que no funciona.
+Usa un lenguaje que todos puedan entender. Todas las frases que usas en el titular tengan que ver con pictogramas.
+https://platzi.com/clases/1784-escritura-online/25412-tips-para-construir-un-buen-titular/
+-->
+
+
 
 Platzi utiliza una versión de Markdown llamada [Pulse Editor][url-pulse-editor]. Una de las grandes ventajas de este editor es su extensibilidad y adaptabilidad, por ende, al momento en que estés leyendo estas líneas es posible que sus funcionalidades hayan sido extendidas o modificadas. 
 
