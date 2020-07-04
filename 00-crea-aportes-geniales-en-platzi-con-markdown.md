@@ -27,9 +27,7 @@ De esta manera logramos enganchar a los lectores al final empatizar con ellos ta
 OTRA TÉCNICA:
 Contestar una pregunta que es una de las cinco W: What, who, when, how, why.
 Concéntrate en resolver sólo una pregunta, para generar asi una sensación de intriga. Es mejor contestar una sola pregunta de forma profunda desde el inicio.
-
-
-
+https://platzi.com/clases/1784-escritura-online/25408-escribe-la-introduccion-de-tu-texto/
 -->
 
 Las ideas recién nacidas son frágiles y expuestas de la forma incorrecta en el entorno incorrecto, irremediablemente están destinadas a morir. **En esta publicación encontrarás tips y herramientas que te ayudaran a darle estilo y exponer tus ideas con Markdown**. Si hay suerte, aquellas ideas regresaran a ti, diferentes, enriquecidas, renovadas.
