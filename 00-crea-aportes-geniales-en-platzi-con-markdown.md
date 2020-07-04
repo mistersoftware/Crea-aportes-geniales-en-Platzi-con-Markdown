@@ -32,6 +32,57 @@ https://platzi.com/clases/1784-escritura-online/25408-escribe-la-introduccion-de
 
 Las ideas recién nacidas son frágiles y expuestas de la forma incorrecta en el entorno incorrecto, irremediablemente están destinadas a morir. **En esta publicación encontrarás tips y herramientas que te ayudaran a darle estilo y exponer tus ideas con Markdown**. Si hay suerte, aquellas ideas regresaran a ti, diferentes, enriquecidas, renovadas.
 
+<!--
+Lo siguiente es no perder la atención del lector. Conviertete en un cazador.
+El lector es nuestra presa, hay que irle poniendo ciertas trampas para que se quede enganchado y no pierda la atención de lo que queremos contar.
+La primera de un parrafo es como la primera impresión.
+Evita iniciar con lugares comunes:
+- De acuerdo con
+- Es importante
+- En mi opinion
+- El proposito de este texto es
+- En 2020 (cualquier año=
+- Yo creo, yo pienso que
+No tienen un valor real para el texto y lo puede volver aburrido. Recuerda sacar tu instinto de cazador para atrapar a tu presa.
+-->
+
+<!--
+Escribir informacion útil.
+Situacion                 | Problema                                       | Pregunta
+--------------------------|------------------------------------------------|-------------------------------------
+Reconoce que esta pasando | Algo salio mal                                 | ¿Qué se puede hacer?
+                          | Algo podría salir peor                         | ¿Cómo se puede prevenir?
+                          | Algo cambio                                    | ¿Qué se debería hacer?
+                          | Algo podria cambiar                            | ¿Cómo se debería reaccionar?
+                          | Esto es lo que podrias esperar que pase        | ¿Podriamos encontrarlo?
+                          | Hay alguien conun diferente punto de vista     | ¿Quién esta en lo correcto?
+                          | El problema se puede solucionar de tres formas | ¿Cuál se debería elegir?
+* Las preguntas iran generando incognitas que al final son las que van a captar la atencion del lector. Cuando vayas a escribir ve realizandote estas preguntas y ve dejandole al lector algunos guiños de esa incertidumbre para que siga leyendo tu texto. 
+- Sera util en la medida que puedas responder estas preguntas de forma eficiente y directa
+- Revisa el orden de la información
+Mal:
+De acuerdo con el Instituto Nacional de Estadística y Geografía, durante julio de 2019 en México, se vendireron 105 mil 699 autos, la cifra más baja para el mismo mes en cinco años.
+Bien:
+Por primera vez en 5 años, cayó la venta de autos en julio. Se vendieron sólo 105 mil 69 vehículos, la cifra más baja paa este periodo de tiempo, de acuerdo con el Instituto Nacional de Estadística y Geografía.
+- La jerarquización es de vital importancia. Pasar la acción que es lo mas relevante al inicio.
+Sin embargo falta hacerle algunas preguntas a este texto: pej- como le afecta directamente a las personas que esta accion haya pasado. Esto tiene que ver con que muchas personas cuando no siente que un hecho los afecta directamente no prestan atencion.
+https://platzi.com/clases/1784-escritura-online/25409-conviertete-en-un-cazador/
+-->
+
+<!--
+Método the economist
+1. El gancho: una descripción visual donde hay un protagonista o una situación que resume todo en un texto con descripciones visuales (imagine usted que...).
+2. Definición del problema: En pocas frases, tienes que resumir cuál es el problema del que se trata. El problema suele estar prrcedido de la locución "pero" o "sin embargo". Suele ser el 'punto de giro'.
+3. Datos que sostienen el problema: Se aportan datos de fuentes fiables para demostrar que es un problema verdadero y serio. Suele haber una cronología. Pueden ser cifras o una descripción científica del asunto. Aquí el problema se transforma en drama o desafío con datos.
+4. Desarrollo: Tesisa favor para resolver el problema. Y tesis en contra que detalla qué va a pasar si la situación no se afronta.
+5. Propuesta: ¿Qué se está haciendo para solucionarlo?
+6. Riesgos: ¿Se están consiguiendo resultados?
+7. Analisis: Si no se está consiguiendo resultados, ¿a qué se debe?
+8. Comparaciones: ¿Qué se está haciendo en otros sitios? ¿Funciona?
+9. Conclusión: ¿Cómo aplicar esas soluciones en nuestro caso y cuáles son los riesgos si no se aplican? Esta última parte suele incluir una oración que comienza en 'if' (el condicional español 'si'): es la advertencia final. "Si no se aplican estas medidas, pasará esto y esto". O bien, termina conun 'pero'. "Estamos en esta situación, pero existe este riesgo".
+
+
+-->
 ==«==
 ---
 > **_" ¿Alguna vez te ha pasado que tardas horas redactando algo, y al momento de publicarlo cambia totalmente su apariencia? En esta serie de publicaciones busco atacar este problema con las herramientas disponibles actualmente en Platzi. **Basicamente he probado de todo un poco y en esta guia te dire que funciona y que no**.  Todo lo que veras en este minitutorial es aplicable en sitios como Platzi, Reddit, Slack, GitHub y muchos otros. "_**
