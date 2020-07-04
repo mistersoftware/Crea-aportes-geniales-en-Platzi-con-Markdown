@@ -2,6 +2,8 @@
 ✍️💡 Crea aportes geniales en Platzi con Markdown 👨‍🎨👩‍🎨
 
 
+# Querida mamá
+
 Las ideas recién nacidas son frágiles y expuestas de la forma incorrecta en el entorno incorrecto, irremediablemente están destinadas a morir. **En esta publicación encontrarás tips y herramientas que te ayudaran a darle estilo y exponer tus ideas con Markdown**. Si hay suerte, aquellas ideas regresaran a ti, diferentes, enriquecidas, renovadas.
 
 ==«==
