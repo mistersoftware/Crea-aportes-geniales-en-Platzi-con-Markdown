@@ -111,6 +111,37 @@ Pausa: Extendemos un momento que en la historia no fue tan tardado, por ejemplo 
 https://platzi.com/clases/1784-escritura-online/26096-tu-texto-tiene-ritmo/
 -->
 
+<!--
+Evita las abstracciones. Agrega metaforas y humor.
+- Usa ejemplos
+- Comparaciones
+- Símiles
+- Metaforas
+Ninguna metáfora se puede entender adecuadamente, independientemente de su fundamento en la experiencia. George Lakoff y Mark Johnson
+Metáforas orientacionales
+
+    Entendemos conceptos de acuerdo al espacio
+    Al terminar este curso mis ánimos estarán por los cielos
+    ·
+    Sustancia y entidad
+    Conceptos de acuerdo con las experticias que hemos tenido con objetos o sucesos
+    Completar este curso me enriquece
+    ·
+    Recipiente
+    Cada uno de nosotros es un recipiente con una superficie limitada y una orientación dentro-fuera.
+    Hay mucho en mi que quiero escribir.
+    ·
+    Personificación
+    Atribuimos cualidades de una persona a objetos.
+    Las ideas hechas letras enamorar a cualquiera.
+    ·
+    Metonimia
+    Designar una cosa o idea con el nombre de otra
+    El Quijote se ha vuelto mi amigo
+https://platzi.com/clases/1784-escritura-online/25399-agrega-metaforas-y-el-humor/
+-->
+
+
 Platzi utiliza una versión de Markdown llamada [Pulse Editor][url-pulse-editor]. Una de las grandes ventajas de este editor es su extensibilidad y adaptabilidad, por ende, al momento en que estés leyendo estas líneas es posible que sus funcionalidades hayan sido extendidas o modificadas. 
 
 ## 👨‍🏫 ¿Qué Aprenderemos?
