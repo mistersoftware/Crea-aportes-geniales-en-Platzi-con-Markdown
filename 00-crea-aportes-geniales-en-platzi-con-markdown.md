@@ -193,7 +193,7 @@ Consigue+deseo+tiempo:"Consigue vender tu casa al mejor precio en un mes".
 - # coas que debes saber sobre (un tema)
 - # maneras de mejorar (la forma de hacer una tarea)
 - Los secretos detrás de (una industria)
-Si das tips y los enumeras ayudara a los lectores a conectar con tu texto.
+Si das tips y los enúmeras ayudara a los lectores a conectar con tu texto.
 Crea curiosidad, pero con moderación.
 Sé concreto.
 Comprueba los resultados. Cambia el titulo cuando veas que no funciona.
@@ -201,7 +201,43 @@ Usa un lenguaje que todos puedan entender. Todas las frases que usas en el titul
 https://platzi.com/clases/1784-escritura-online/25412-tips-para-construir-un-buen-titular/
 -->
 
-
+<!--
+SEO
+Planea tus palabras clave
+las dos columnas mas importantes son las dos primeras, pues me ayudan a definir las acciones y los objetos que son importantes. algunas palabras clave relaionadas con la escritura: 
+Sustantivos | Verbos   | Adjetivos  | Adverbio
+------------|----------|------------|--------------
+Mensaje     | Escribir | Increible  | Correctamete
+historia    | redactar | impactante | nunca
+palabras    | imaginar | tonto      | fácilmente
+Problemas   | entender | dificil    | ninguno
+Short tail, middle tail, long tail. General ---- > especifico 
+Escribir    | Cómo escribir  | Cómo escribir un texto correctamente
+para buscar keywords usar
+    keyword planner de google ads
+    ubbersugest-
+    keyword tool
+    Sem RUSH.
+    MOZ
+https://platzi.com/clases/1784-escritura-online/25413-elige-las-palabras-clave-para-incrementar-el-seo/
+Recomendaciones
+1. Medir la cantidad de palabras por oración. (Recomendación: menos de 20 palabras)
+2. Mide la extensión de las palabras por sílabas.
+3. Mide la extensión de los párrafos. (Recomendación: menos de 150 palabras)
+4. Usar subtítulos
+1. Es recomendable tener subtítulos cada 300 palabras
+2. Son una guía para los lectores
+3. Establecer la jerarquía del H1 al H6
+5. Evitar la repetición de palabras y usar frases de transición
+1. Usar diccionarios de sinónimos para evitar repetir
+2. Palabras para realizar transición: Sin embargo, por este motivo, en otras palabras…
+Usar la voz activa
+La voz pasiva, es priorizar el objeto o sujeto del que recae la acción.
+Evitar las construcciones gramaticales en voz pasiva:
+Pasiva: La carta fue enviada por el organizado del evento
+Activa: El organizador del evento envió una carta
+https://platzi.com/clases/1784-escritura-online/25414-revisa-el-seo/
+-->
 
 Platzi utiliza una versión de Markdown llamada [Pulse Editor][url-pulse-editor]. Una de las grandes ventajas de este editor es su extensibilidad y adaptabilidad, por ende, al momento en que estés leyendo estas líneas es posible que sus funcionalidades hayan sido extendidas o modificadas. 
 
