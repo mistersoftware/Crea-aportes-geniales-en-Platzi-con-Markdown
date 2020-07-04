@@ -1,8 +1,36 @@
 
 ✍️💡 Crea aportes geniales en Platzi con Markdown 👨‍🎨👩‍🎨
 
+<!--
+Escribele a un conocido para que comiences de una manera muy familiar y asi ir soltando las lineas del texto.
+-->
 
 # Querida mamá
+
+<!--
+- Reescribe el primer y el segundo parrafo; asegurate de ir al grano. 
+- Recuerda que el primer parrafo es donde vas a llamar la atención del lector, el gancho para que decida seguir leyendo. 
+- No esperes que lo primero que se te ocurre, sea lo que vas a respetar como el primero, como el segundo párrafo. 
+- Algo que es bellisimo de los textos es que siempre tienes la oportunidad de dictarlos, siempre tines la oportunidad de preguntarte si las palabras que elegiste han sido las adecuadas, si el orden y la jerarquía que decidiste para ellas podría cambiar para hacer que el mensaje sea aún mejor. - Así que toma en cuenta que esta posibilidad de edición siempre está abierta y que el primero y el segundo párrafo requieren un especial cuidado, un especial detalle, así que puedes escribir lo primero que se te ocurra con el ánimo de quitarnos el miedo a la página en blanco, y una vez que ya hayas avanzado durante tu texto, te invito a revisar nuevamente el primero y el segundo parrafo, para ver si están correctamente identificados o si podríamos mejorarlos.
+- El método Minto tiene que ver con comunicarse eficientemente y me gustaría compartirte, como es que de acuerdo con este método, se puede iniciar un texto. 
+- Toma en cuenta que todas las fórmulas que yo te voy a compartir de aquí en adelante, tienen que ver con que obtengas estas estructuras para que puedas crear tus textos con estos patrones y logres ir desarrollando tus habilidades como escritor. Sin embargo, nada de esto está en piedra. Nada de esto está escrito. Tú puedes utilizar tu creatividad y modificar todos estos métodos como a ti mejor te convenga.
+- Vamos a revisar método Minto. En este caso, nos dice que usemos tres consideraciones en el primer párrafo que expliquemos: 
+1- La situación como primera. 
+2- El problema como segundo 
+3- La pregunta como tercero, vamos a hacer un ejemplo.
+" Muchas personas quieren aprender a escribir mejor. Pero no saben utilizar los signos de puntuación. La pregunta es ¿dónde puedo aprender eso? "
+1- La situación como primera. "Muchas personas quieren aprender a escribir mejor". 
+2- El problema como segundo . "Pero no saben utilizar los signos de puntuación".
+3- La pregunta como tercero, "La pregunta es ¿dónde puedo aprender eso?"
+La estructura anterior puede usarse para el primer parrafo.
+De esta manera logramos enganchar a los lectores al final empatizar con ellos tambien durante este parrafo y mostrarles que tenemos algo de valor, la solución a un problema.
+OTRA TÉCNICA:
+Contestar una pregunta que es una de las cinco W: What, who, when, how, why.
+Concéntrate en resolver sólo una pregunta, para generar asi una sensación de intriga. Es mejor contestar una sola pregunta de forma profunda desde el inicio.
+
+
+
+-->
 
 Las ideas recién nacidas son frágiles y expuestas de la forma incorrecta en el entorno incorrecto, irremediablemente están destinadas a morir. **En esta publicación encontrarás tips y herramientas que te ayudaran a darle estilo y exponer tus ideas con Markdown**. Si hay suerte, aquellas ideas regresaran a ti, diferentes, enriquecidas, renovadas.
 
