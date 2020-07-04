@@ -80,7 +80,17 @@ Método the economist
 7. Analisis: Si no se está consiguiendo resultados, ¿a qué se debe?
 8. Comparaciones: ¿Qué se está haciendo en otros sitios? ¿Funciona?
 9. Conclusión: ¿Cómo aplicar esas soluciones en nuestro caso y cuáles son los riesgos si no se aplican? Esta última parte suele incluir una oración que comienza en 'if' (el condicional español 'si'): es la advertencia final. "Si no se aplican estas medidas, pasará esto y esto". O bien, termina conun 'pero'. "Estamos en esta situación, pero existe este riesgo".
-
+El siguiente es un ejemplo de un texto que sigue los lineamientos anteriores:
+Cómo escribir textos que todos entiendan 
+Decidí estudiar periodismo porque en esa profesión te pagan por contar historias. Increíble, ¿no? Elproblema era que, para crecer mi ego, construía mensajes con palabras que nadie entendía.
+Durante mi primer año en la Facultad, titulaba mis textos con los términos más extraños: “Lainefable quimera de sufragar una vida escribiendo”. Durante la carrera, me di cuenta de que nosabía nada sobre escribir. No era consciente de que el propósito de compartir un mensaje es quealguien más lo entienda. Quizá esto te puede sonar muy tonto, pero al inicio no buscaba escribirpara otros, sino para mí.
+El 90% de los blogs que se publican en internet fracasan y he notado que podría estarse repitiendomi historia en otras cabezas. Todos queremos sonar como unos eruditos, ser el máximo referentede un tema, y con ese afán llenamos un texto de palabras rimbombantes (como ésta), sinpreguntarnos qué quiere saber el lector.
+De no arreglar este problema, nunca iba a lograr ganarme la vida contando historias. Así que decidítomar cartas en el asunto e investigué cómo podía escribir mejor y encontré un consejo que me haservido mucho:
+“Las palabras son imágenes”.
+Si tratas de imaginar algo con cada palabra que escribes, verás que hay algunas palabras másdifíciles de imaginar que otras. Hay dos tipos: pictogramas, que tienen un referente real, por tantoson fáciles de imaginar, como perro. Y los ideogramas, que son construcciones sociales que notienen un referente en la realidad; por ejemplo, las palabra justicia.
+Para hacer mis textos más fáciles de entender, busco que la mayoría de las palabras correspondana pictogramas, así mis lectores pueden recordarlas.
+Con el tiempo y la práctica, logré coordinar la sección de Opinión en uno de los periódicosmexicanos más importantes, El Universal, donde logré mi objetivo: vivir de contar historias.
+https://static.platzi.com/media/public/uploads/texto-1_2ff23a7c-9b2a-45d1-8e46-59e974108ddd.pdf
 
 -->
 ==«==
@@ -89,7 +99,17 @@ Método the economist
 
 ==»==
 ---
-
+<!--
+Velocidad
+Tiempo de la historia vs tiempo del relato
+Ago ocurrido en dos horas, puedes contarlo en dos minutos.
+Figuras de velocidad (mayor a menor velocidad)
+Elipsis: Quitar aquello que paso en la historia que no causa impacto.
+Sumario: Resumen de lo que sucedio. (pospuse mi alarma varias veces)
+Escena: Tiempo del relato muy parecido a la historia (por ejemplo en los dialogos)
+Pausa: Extendemos un momento que en la historia no fue tan tardado, por ejemplo incluyendo pensamientos, deseos etc.
+https://platzi.com/clases/1784-escritura-online/26096-tu-texto-tiene-ritmo/
+-->
 
 Platzi utiliza una versión de Markdown llamada [Pulse Editor][url-pulse-editor]. Una de las grandes ventajas de este editor es su extensibilidad y adaptabilidad, por ende, al momento en que estés leyendo estas líneas es posible que sus funcionalidades hayan sido extendidas o modificadas. 
 
