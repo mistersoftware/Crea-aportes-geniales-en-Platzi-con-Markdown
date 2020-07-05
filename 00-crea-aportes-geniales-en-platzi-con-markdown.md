@@ -239,6 +239,46 @@ Activa: El organizador del evento envió una carta
 https://platzi.com/clases/1784-escritura-online/25414-revisa-el-seo/
 -->
 
+<!--
+Evita tener todo conectado.
+Tip #1
+Utiliza links internos para mostrarle al usuario otros contenidos que le puedan interesar
+Tip #2
+Cita fuentes con links externos para darle validez a los hechos.
+Ayuda con la autoridad de tu sitio, esta autoridad la da la comunidad.
+Tip #3
+Evita frases como “Haz clic aquí” para tu texto de anclaje.
+https://platzi.com/clases/1784-escritura-online/25415-elementos-multimedia/
+--->
+
+<!--
+Utilizar el contenido multimedia para complementar el mensaje que estoy dando.
+Es buena práctica usar una imagen cada 350 palabras, misma función que los subtítulos. Con esto damos descanso al lector.
+Las funciones de colocar imágenes en el mensaje pueden ser: ilustrativa, por ejemplo un corazon y el amor. interpretativa. un corazon con una curita que se le cae, desamor.
+Trata de incluir videos, infografías etc.
+https://static.platzi.com/media/public/uploads/captura_6a504efa-610e-4fa2-a229-19c4b5f5ad6e.PNG
+https://platzi.com/clases/1784-escritura-online/25416-escoge-imagenes/
+--->
+
+<!---
+Existen 3 reglas que te van a servir para identificar las ideas principales de cada párrafo:
+1.Supresión: Quitar información que no es vital para dar a entender el mensaje.
+2. Generalizacion: Agrupar los elementos que tienen significados similares que se podrían agrupar en una nueva palabra.
+3. Construccion: Construir una nueva oración a partir del párrafo que tienes, con la finalidad de escribir un mensaje mas corto enfocado en el mensaje principal que quieres compartir.
+Es necesario editar el texto, para estar seguro que tenga todos los elementos necesarios
+“Mi abuelo tenía una granja. Había perros, caballos, gallinas y vacas. Pero mi favorito era Pepe, un pequeño pollito.”
+Hay que identificar las oraciones del párrafo.
+3 conceptos para identificar las ideas de cada párrafo:
+    Supresión, quitar información que no es vital para que se entienda lo que tu quieres decir
+"Mi abuelo tenía una granja. Pero mi favorito era Pepe, un pequeño pollito."
+    Generalización, Agrupar los elementos que semánticamente tienen significados semejantes
+“Mi abuelo tenía una granja. Había varios animales. Pero mi favorito era Pepe, un pequeño pollito.”
+    Construcción, construir una nueva oración que agrupe las ideas principales del texto que escribiste, te hace pensar cual era la idea que quieres dar a entender.
+"Pepe el pollito era mi animal favorito en la granja."
+https://i.imgur.com/lWb7Ljw.jpg
+
+--->
+
 Platzi utiliza una versión de Markdown llamada [Pulse Editor][url-pulse-editor]. Una de las grandes ventajas de este editor es su extensibilidad y adaptabilidad, por ende, al momento en que estés leyendo estas líneas es posible que sus funcionalidades hayan sido extendidas o modificadas. 
 
 ## 👨‍🏫 ¿Qué Aprenderemos?
