@@ -281,6 +281,7 @@ https://i.imgur.com/lWb7Ljw.jpg
 
 <!--
 Edicion con motosierra
+Edicion con scalpelo
 Cambiar los adjetivos por verbos, debido a que los adjetivos son muy relativos a las personas es recomendable colocar imágenes mentales mas especificas en la mente del lector.
 Busca otra manera de decirlo, usa sinónimos cuando tienes ideogramas, tal vez haya un pictograma, hay muchas palabras en tu texto? Haz una nueva oración como prueba.
 Busca y elimina los lugares comunes, son las frases que quedan en cualquier lugar.
@@ -290,6 +291,8 @@ Usa puntos para separar las ideas
 No repitas la misma idea al inicio y al final de un párrafo, hay que cortar alguna de esas oraciones.
 Humaniza los textos, coloca a algún actor en tu texto o historia para poderlo seguir a lo largo del texto.
 Deja que alguien mas lea tu texto.
+Hazlo útil, luego simple y por último bello https://platzi.com/comentario/1192350/
+https://platzi.com/clases/1784-escritura-online/25420-usando-herramientas-quirurgicas-en-la-practica/
 -->
 
 Platzi utiliza una versión de Markdown llamada [Pulse Editor][url-pulse-editor]. Una de las grandes ventajas de este editor es su extensibilidad y adaptabilidad, por ende, al momento en que estés leyendo estas líneas es posible que sus funcionalidades hayan sido extendidas o modificadas. 
@@ -326,7 +329,7 @@ Puede ver una representación visual de este proceso a continuación.
 
 ## 📍 ¿Donde puedo usar Markdown?
 
-Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. Puedes usar Markdown en [StackEdit][url-stackedit]_, [Dillinger][url-dillinger] y en muchos otros editores en línea de Markdown. Tambien puedes utilizar Markdown dentro de [Git-hub][url-curso-git] o en [Slack][url-curso-slack] para comunicarte con tu equipo de trabajo, y tambien puedes usarlo en Platzi.  
+Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. Puedes usar Markdown en [StackEdit][url-stackedit]_, [Dillinger][url-dillinger] y en muchos otros editores en línea de Markdown. Tambien puedes utilizar Markdown dentro de [Git-hub][url-curso-git] o en [Slack][url-curso-slack] para comunicarte con tu equipo de trabajo, en Jupiter notebook para crear documentos con python y tambien puedes usarlo en Platzi.  
 
 **Markdown es utilizado para casi todos los mecanismos de participación y comunicación en Platzi**, _excepto en los marcadores, el chat de las transmisiones en vivo y en la descripción de tus proyectos de tu perfil para [Platzi Connect][url-connect]_
 
