@@ -279,6 +279,19 @@ https://i.imgur.com/lWb7Ljw.jpg
 
 --->
 
+<!--
+Edicion con motosierra
+Cambiar los adjetivos por verbos, debido a que los adjetivos son muy relativos a las personas es recomendable colocar imágenes mentales mas especificas en la mente del lector.
+Busca otra manera de decirlo, usa sinónimos cuando tienes ideogramas, tal vez haya un pictograma, hay muchas palabras en tu texto? Haz una nueva oración como prueba.
+Busca y elimina los lugares comunes, son las frases que quedan en cualquier lugar.
+Crea conexiones entre ideas y párrafos
+Elimina las parejas de enamorados, “extraños y difíciles de entender” son dos términos que en realidad se refieren a lo mismo, eliminar uno.
+Usa puntos para separar las ideas
+No repitas la misma idea al inicio y al final de un párrafo, hay que cortar alguna de esas oraciones.
+Humaniza los textos, coloca a algún actor en tu texto o historia para poderlo seguir a lo largo del texto.
+Deja que alguien mas lea tu texto.
+-->
+
 Platzi utiliza una versión de Markdown llamada [Pulse Editor][url-pulse-editor]. Una de las grandes ventajas de este editor es su extensibilidad y adaptabilidad, por ende, al momento en que estés leyendo estas líneas es posible que sus funcionalidades hayan sido extendidas o modificadas. 
 
 ## 👨‍🏫 ¿Qué Aprenderemos?
