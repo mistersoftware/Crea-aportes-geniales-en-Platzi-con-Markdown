@@ -54,7 +54,7 @@ Para incrustar o insertar videos, es decir, que se puedan reproducir allí mismo
 @[vimeo](128154222|https://vimeo.com/128154222/)
 
 
-## Insertar miniatura con enlace al video (Funciona en todas partes)
+## Insertar miniatura con enlace al video (Funciona en todas partes incluido GitHub)
 
 Valga la aclaración que con este método **no es necesario descargar la thumbnail**, pues la etiqueta está escrita para que la tome automáticamente de la API de Youtube.
 
