@@ -249,9 +249,11 @@ https://platzi.com/clases/1784-escritura-online/25420-usando-herramientas-quirur
 
 Cuando escribes en Markdown, el texto se almacena en un archivo de texto sin formato que tiene una extensión .mdo .markdown. ¿Pero entonces, qué? ¿Cómo se convierte su archivo con formato Markdown en HTML o en un documento listo para imprimir?
 
+Se necesita una aplicación Markdown capaz de procesar el archivo md. Hay muchas aplicaciones disponibles, como [StackEdit][url-stackedit] y [Dillinger][url-dillinger] que funcionan de forma online, o desde simples secuencias de comandos hasta aplicaciones de escritorio que se parecen a Microsoft Word. 
+
 ![proceso-md][url-img-proceso-md]
 
-Se necesita una aplicación Markdown capaz de procesar el archivo md. Hay muchas aplicaciones disponibles, como [StackEdit][url-stackedit]_ y [Dillinger][url-dillinger] que funcionan de forma online, o desde simples secuencias de comandos hasta aplicaciones de escritorio que se parecen a Microsoft Word. A pesar de sus diferencias visuales, todas las aplicaciones hacen lo mismo. Todos convierten el texto con formato Markdown a HTML para que se pueda mostrar en los navegadores web. En Platzi se usa una versión propia llamada [Pulse Editor][url-pulse-editor].
+A pesar de sus diferencias visuales, todas las aplicaciones hacen lo mismo. Todos convierten el texto con formato Markdown a HTML para que se pueda mostrar en los navegadores web. En Platzi se usa una versión propia llamada [Pulse Editor][url-pulse-editor].
 
 
 
