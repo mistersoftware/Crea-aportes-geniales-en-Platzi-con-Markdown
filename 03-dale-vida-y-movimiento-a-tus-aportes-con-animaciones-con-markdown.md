@@ -116,7 +116,7 @@ Hecho con el 💚 en el 2K20.
 [url-curso-escritura]: https://platzi.com/clases/escritura-online/ "Curso de Escritura Online"
 [url-pulse-editor]: https://platzi.com/blog/presentamos-pulse-editor/ "El sabor personalizado de Markdown en Platzi"
 
-[url-indice]: https://platzi.com/blog/crea-aportes-geniales-en-platzi-con-markdown "✍️💡 Crea aportes geniales en Platzi con Markdown 👨‍🎨👩‍🎨"
+[url-indice]: https://platzi.com/blog/escribe-textos-geniales-con-markdown "✍️💡 Escribe textos geniales con Markdown 👨‍🎨👩‍🎨"
 [url-textos]: https://platzi.com/comunidad/formatos-de-texto-citas-enlaces-y-codigo-para-mejorar-tus-aportes-con-markdown/ "✍️📖 Formatos de texto, citas, enlaces y código para mejorar tus aportes con Markdown 👨‍🎨👩‍🎨"
 [url-imagenes]: https://platzi.com/comunidad/integrar-imagenes-en-tus-comentarios-o-tutoriales-con-markdown/ "✍️📷 Integrar imágenes en tus comentarios o tutoriales con Markdown 👨‍🎨👩‍🎨"
 [url-animaciones]: https://platzi.com/comunidad/dale-vida-y-movimiento-a-tus-aportes-con-animaciones-con-markdown/ "✍️🎬 Dale vida y movimiento a tus aportes con animaciones con Markdown 👨‍🎨👩‍🎨"
@@ -129,3 +129,4 @@ Hecho con el 💚 en el 2K20.
 [url-ascii]: https://platzi.com/comunidad/ascii-art-branding-en-tu-codigo-con-markdown/ "✍️🔣 ASCII Art: branding en tu código con Markdown 👨‍🎨👩‍🎨"
 [url-matematicas]: https://platzi.com/comunidad/bonus-inserta-formulas-matematicas-creadas-en-latex-con-markdown/ "✍️➗ Bonus: Inserta fórmulas matemáticas creadas en laTex con Markdown 👨‍🎨👩‍🎨"
 [url-emojis-todos]: https://platzi.com/comunidad/listado-completo-de-emojis-en-markdown/ "✍️😍 Listado completo de emojis en Markdown 👨‍🎨👩‍🎨"
+
