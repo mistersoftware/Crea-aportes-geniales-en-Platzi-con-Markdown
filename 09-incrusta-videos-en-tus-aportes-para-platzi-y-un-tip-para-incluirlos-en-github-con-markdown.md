@@ -23,14 +23,14 @@ Para incrustar o insertar videos, es decir, que se puedan reproducir allí mismo
 ==«==
 ---
 
-`@[youtube]( ZYmIUiK8ZQI|https://www.youtube.com/watch?v=ZYmIUiK8ZQI)`
+`@[youtube](ZYmIUiK8ZQI|https://www.youtube.com/watch?v=ZYmIUiK8ZQI)`
 
 
 
 ==» El código anterior producirá:»==
 ---
 
-  @[youtube]( ZYmIUiK8ZQI|https://www.youtube.com/watch?v=ZYmIUiK8ZQI)
+  @[youtube](ZYmIUiK8ZQI|https://www.youtube.com/watch?v=ZYmIUiK8ZQI)
 
 
 ---
