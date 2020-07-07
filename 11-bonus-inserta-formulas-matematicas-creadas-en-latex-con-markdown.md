@@ -52,7 +52,7 @@ Si no contamos con la ecuación en laTex, podemos escribirla usando los símbolo
 
 En la parte inferior, la página nos muestra la ecuación renderizada y nos ofrece la opción de descargarla.
 
-![Imgur][url-ecuacion]
+![Imgur][url-img-ecuacion]
 
 
 **El siguiente paso ya dependerá de ti, puedes subir cada una de las ecuaciones a un servicio como [Imgur][url-imgur] o puedes hacerlo en otros sitios como [Medium][url-medium].
