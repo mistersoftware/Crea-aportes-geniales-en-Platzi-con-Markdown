@@ -259,7 +259,7 @@ Puede ver una representación visual de este proceso a continuación.
 >Nota: La aplicación Markdown (Markdown App) y el procesador son dos componentes separados. En aras de la brevedad, los he combinado en un elemento ("Aplicación Markdown") en la figura anterior.
 
 
-## 📍 ¿Donde puedo usar Markdown?
+## 📍 ¿Donde podré usar estos trucos?
 
 Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. Puedes usar Markdown en [StackEdit][url-stackedit]_, [Dillinger][url-dillinger] y en muchos otros editores en línea de Markdown. Tambien puedes utilizar Markdown dentro de [Git-hub][url-curso-git] o en [Slack][url-curso-slack] para comunicarte con tu equipo de trabajo, en Jupiter notebook para [crear documentos con python](https://blog.desdelinux.net/jupyter-notebook/) y **tambien puedes usarlo en casi todos los mecanismos de participación en Platzi con una versión propia llamada [Pulse Editor][url-pulse-editor]**
 
@@ -290,11 +290,7 @@ https://platzi.com/clases/1784-escritura-online/25400-escribe-un-gran-cierre/
 -->
 
 
-==«==
----
-
-
-## 👉 Índice de contenidos
+## 👉 Ahora si, a lo que vinimos: Índice de contenidos
 
 
 >1. 📖 [**Textos:** Formatos para textos, citas, enlaces y código para mejorar tus aportes][url-textos]
