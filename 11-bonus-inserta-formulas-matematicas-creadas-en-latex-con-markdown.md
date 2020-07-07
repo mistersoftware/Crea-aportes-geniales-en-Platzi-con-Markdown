@@ -65,7 +65,7 @@ Deja tus opiniones, y si te gustaría que extendiera este artículo con otro que
 ==«==
 ---
 
-**_Continúa tu aprendizaje con:_**
+**_Has llegado al final de la Guía del escritor intergalactico :wink: Continúa tu aprendizaje con:_**
 
 * ✍️ [![Escritura Online][url-img-escritura] _Curso de escritura online_][url-curso-escritura] 🌎
 
