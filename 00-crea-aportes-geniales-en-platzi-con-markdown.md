@@ -79,12 +79,12 @@ Activa: El organizador del evento envió una carta
 https://platzi.com/clases/1784-escritura-online/25414-revisa-el-seo/
 -->
 
-✍️💡 Escribe textos geniales con Markdown 👨‍🎨👩‍🎨
+# ✍️💡 Escribe textos geniales con Markdown 👨‍🎨👩‍🎨
 
 <!--
 Escribele a un conocido para que comiences de una manera muy familiar y asi ir soltando las lineas del texto.
 -->
-# Hello friend
+## Hello friend
 <!--
 - Reescribe el primer y el segundo parrafo; asegurate de ir al grano. 
 - Recuerda que el primer parrafo es donde vas a llamar la atención del lector, el gancho para que decida seguir leyendo. 
@@ -256,7 +256,7 @@ Se necesita una aplicación Markdown capaz de procesar el archivo md. Hay muchas
 
 ## 📍 ¿Donde podré usar estos trucos?
 
-Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. Puedes utilizar Markdown dentro de [Git-hub][url-curso-git] o en [Slack][url-curso-slack] para comunicarte con tu equipo de trabajo, en Jupiter notebook para [crear documentos con python](https://blog.desdelinux.net/jupyter-notebook/) y **tambien puedes usarlo en casi todos los mecanismos de participación en Platzi**
+Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. Puedes utilizar Markdown dentro de [Git-hub][url-curso-git] o en [Slack][url-curso-slack] para comunicarte con tu equipo de trabajo, en Jupiter notebook para [crear documentos con python](https://blog.desdelinux.net/jupyter-notebook/) y **también puedes usarlo en casi todos los mecanismos de participación en Platzi**. Un breve resumen de tales mecanismos a continuación, 
 
 * **Los comentarios se clasifican en aportes, preguntas y respuestas**: cuando estás viendo una clase y realizas un comentario, ese comentario queda enlazado a la clase.  
     * **Los aportes** son los comentarios de cada video o clase (no todas son en video), los cuales no son preguntas.
@@ -293,7 +293,7 @@ https://platzi.com/clases/1784-escritura-online/25400-escribe-un-gran-cierre/
 >1. 🎬 [**Animaciones:** Dale vida y movimiento a tus aportes][url-animaciones]
 >1. 🍕 [**Emojis:** Exprésate con libertad][url-emojis]
 >1. 🆎 [**Variables:** Agiliza tu escritura reutilizando referencias, imágenes y enlaces ][url-variables]
->1. 🔲 [**Botones:** Fcilitar la navegación de tus lectores][url-botones]
+>1. 🔲 [**Botones:** Facilitar la navegación de tus lectores][url-botones]
 >1. 🌈 [**Colores:** Alegría y estilo en tus aportes][url-colores]
 >1. ☑️ [**Tablas y listas:** Tan fácil como nunca las veras en HTML][url-tablas] 
 >1. 📺 [**Videos:** Incrustalos en Platzi directo desde Youtube y Vimeo][url-videos]
@@ -445,7 +445,7 @@ https://platzi.com/clases/1784-escritura-online/25415-elementos-multimedia/
 >1. 🎬 [**Animaciones:** Dale vida y movimiento a tus aportes][url-animaciones]
 >1. 🍕 [**Emojis:** Exprésate con libertad][url-emojis]
 >1. 🆎 [**Variables:** Agiliza tu escritura reutilizando referencias, imágenes y enlaces ][url-variables]
->1. 🔲 [**Botones:** Fcilitar la navegación de tus lectores][url-botones]
+>1. 🔲 [**Botones:** Facilitar la navegación de tus lectores][url-botones]
 >1. 🌈 [**Colores:** Alegría y estilo en tus aportes][url-colores]
 >1. ☑️ [**Tablas y listas:** Tan fácil como nunca las veras en HTML][url-tablas] 
 >1. 📺 [**Videos:** Incrustalos en Platzi directo desde Youtube y Vimeo][url-videos]
