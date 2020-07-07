@@ -261,7 +261,7 @@ Puede ver una representación visual de este proceso a continuación.
 
 ## 📍 ¿Donde puedo usar Markdown?
 
-Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. Puedes usar Markdown en [StackEdit][url-stackedit]_, [Dillinger][url-dillinger] y en muchos otros editores en línea de Markdown. Tambien puedes utilizar Markdown dentro de [Git-hub][url-curso-git] o en [Slack][url-curso-slack] para comunicarte con tu equipo de trabajo, en Jupiter notebook para [crear documentos con python](https://blog.desdelinux.net/jupyter-notebook/) y tambien puedes usarlo en casi todos los mecanismos de participación en Platzi con una versión propia llamada [Pulse Editor][url-pulse-editor]**
+Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. Puedes usar Markdown en [StackEdit][url-stackedit]_, [Dillinger][url-dillinger] y en muchos otros editores en línea de Markdown. Tambien puedes utilizar Markdown dentro de [Git-hub][url-curso-git] o en [Slack][url-curso-slack] para comunicarte con tu equipo de trabajo, en Jupiter notebook para [crear documentos con python](https://blog.desdelinux.net/jupyter-notebook/) y **tambien puedes usarlo en casi todos los mecanismos de participación en Platzi con una versión propia llamada [Pulse Editor][url-pulse-editor]**
 
 * **Los comentarios se clasifican en aportes, preguntas y respuestas**: cuando estás viendo una clase y realizas un comentario, ese comentario queda enlazado a la clase.  
     * **Los aportes** son los comentarios de cada video o clase (no todas son en video), los cuales no son preguntas.
@@ -300,18 +300,17 @@ Cualquier error va por cuenta mia, si encuentras alguno puedes comunicarmelo a [
 ## 👉 Índice de contenidos
 
 
->1. 📖 [Formatos de texto, citas, enlaces y código para mejorar tus aportes][url-textos]
->1. 📷 [Integrar imágenes en tus comentarios o tutoriales][url-imagenes]
->1. 🎬 [Dale vida y movimiento a tus aportes con animaciones][url-animaciones]
->1. 🍕 [Expresate con Emojis][url-emojis]
->1. 🆎 [Agiliza tu escritura con variables _"Don´t repeat yourself"_ ][url-variables]
->1. 🔲 [Inserta botones para facilitar la navegación de tus lectores][url-botones]
->1. 🌈 [Color y alegria en tus aportes][url-colores]
->1. ☑️ [Tablas y listas tan facil como nunca lo has visto][url-tablas] 
->1. 📺 [Incrusta videos en tus aportes en Platzi y un tip para incluirlos en GitHub][url-videos]
->1. 🔣 [ASCII Art: branding en tu código][url-ascii]
->1. ➗ [Bonus: Inserta fórmulas matemáticas creadas en laTex][url-matematicas]
-
+>1. 📖 [**Textos:** Formatos para citas, enlaces y código para mejorar tus aportes][url-textos]
+>1. 📷 [**Imágenes:** Integrar imágenes en tus comentarios o tutoriales][url-imagenes]
+>1. 🎬 [**Animaciones:** Dale vida y movimiento a tus aportes con animaciones][url-animaciones]
+>1. 🍕 [**Emojis:** Exprésate con Emojis][url-emojis]
+>1. 🆎 [**Variables:** Agiliza tu escritura reutilizando referencias, imágenes y enlaces ][url-variables]
+>1. 🔲 [**Botones:** Inserta botones para facilitar la navegación de tus lectores][url-botones]
+>1. 🌈 [**Colores:** Color y alegría en tus aportes][url-colores]
+>1. ☑️ [**Tablas y listas:** tan fácil como nunca lo veras en HTML][url-tablas] 
+>1. 📺 [**Videos:** Incrusta videos en tus aportes en Platzi y un truco para incluirlos en GitHub][url-videos]
+>1. 🔣 [**ASCII Art:** branding en tu código][url-ascii]
+>1. ➗ [**Bonus:** Inserta fórmulas matemáticas creadas en laTex][url-matematicas]
 
 ==«==
 ---
