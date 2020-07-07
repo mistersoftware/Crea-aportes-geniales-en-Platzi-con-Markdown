@@ -32,7 +32,7 @@ A diferencia de las imágenes con formato PNG y JPG que pueden arrastrarse y sol
 ==«==
 ---
 
-`![subir imagen][url-img-subir-imagen]`
+`![subir imagen](https://i.imgur.com/XXBeF2X.gif "Como subir imágenes en Platzi")`
 
 ==» El código anterior producirá: »==
 ---
@@ -45,7 +45,7 @@ A diferencia de las imágenes con formato PNG y JPG que pueden arrastrarse y sol
 ==«==
 ---
 
-`[![Casco astronauta][url-img-casco]][url-platzi]`
+`[![Casco astronauta](https://i.imgur.com/b1kbwbR.gif "Casco")](https://platzi.com/cursos "Nunca pares de aprender")`
 
 
 ==» El código anterior producirá: »==
