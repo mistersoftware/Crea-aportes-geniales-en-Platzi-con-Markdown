@@ -430,7 +430,7 @@ https://platzi.com/clases/1784-escritura-online/25415-elementos-multimedia/
 [url-animaciones]: https://platzi.com/comunidad/dale-vida-y-movimiento-a-tus-aportes-con-animaciones-con-markdown/ "✍️🎬 Dale vida y movimiento a tus aportes con animaciones con Markdown 👨‍🎨👩‍🎨"
 [url-emojis]: https://platzi.com/comunidad/expresate-con-emojis-con-markdown/ "✍️🍕 Exprésate con Emojis con Markdown 👨‍🎨👩‍🎨"
 [url-variables]: https://platzi.com/comunidad/agiliza-tu-escritura-con-variables-don-t-repeat-yourself-con-markdown/ "✍️🆎 Agiliza tu escritura con variables Don´t repeat yourself con Markdown 👨‍🎨👩‍🎨"
-[url-botones]: https://platzi.com/comunidad/inserta-botones-para-facilitar-la-navegación-de-tus-lectores-con-markdown/ "✍️🔲 Inserta botones para facilitar la navegación de tus lectores con Markdown 👨‍🎨👩‍🎨"
+[url-botones]: https://platzi.com/comunidad/inserta-botones-para-facilitar-la-navegacion-de-tus-lectores-con-markdown/ "✍️🔲 Inserta botones para facilitar la navegación de tus lectores con Markdown 👨‍🎨👩‍🎨"
 [url-colores]: https://platzi.com/comunidad/color-y-alegria-en-tus-aportes-con-markdown/ "✍️🌈 Color y alegría en tus aportes con Markdown 👨‍🎨👩‍🎨"
 [url-tablas]: https://platzi.com/comunidad/tablas-y-listas-tan-facil-como-nunca-lo-has-visto-con-markdown/ "✍️☑️ Tablas y listas tan fácil como nunca lo has visto con Markdown 👨‍🎨👩‍🎨"
 [url-videos]: https://platzi.com/comunidad/incrusta-videos-en-tus-aportes-para-platzi-y-un-tip-para-incluirlos-en-github-con-markdown/ "✍️📺 Incrusta videos en tus aportes en Platzi y un tip para incluirlos en GitHub con Markdown 👨‍🎨👩‍🎨"
