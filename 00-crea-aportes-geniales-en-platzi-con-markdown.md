@@ -113,7 +113,7 @@ Muchas personas quieren publicar sus ideas en Platzi. Pero no saben como darle e
 ---
 
 
-**En esta publicación encontrarás trucos y herramientas que te ayudaran a darle estilo a tus ideas con Markdown, porque las ideas recién nacidas son frágiles y expuestas incorrectamente están destinadas a morir, y aqúi no queremos que eso suceda.**
+***" En esta publicación encontrarás trucos y herramientas que te ayudaran a darle estilo a tus ideas con Markdown, porque las ideas recién nacidas son frágiles y expuestas incorrectamente están destinadas a morir, y aqúi no queremos que eso suceda. "***
 
 
 ==»==
@@ -163,7 +163,7 @@ Aprenderemos como controlar la visualización del documento; escribir en _itáli
 ==«==
 ---
 
->Por ejemplo aprenderemos como subir imagenes e incluirlas en tus publicaciones. Si usas el navegador Google Chrome o Mozilla Firefox en la versión web de Platzi, podrás adjuntar imágenes **_(exclusivamente de formato PNG y JPG)_** arrastrando la imagen de tu explorador de archivos a la casilla donde escribes el comentario. 
+>_" Por ejemplo aprenderemos como subir imagenes e incluirlas en tus publicaciones. Si usas el navegador Google Chrome o Mozilla Firefox en la versión web de Platzi, podrás adjuntar imágenes **_(exclusivamente de formato PNG y JPG)_** arrastrando la imagen de tu explorador de archivos a la casilla donde escribes el comentario."_ 
 >
 > [_"Cortesia de @vistoporjuan"_](https://platzi.com/comunidad/como-agrego-imagenes-en-los-comentarios/ "Juan muy amablemente ha autorizado el uso de su animación en esta publicación.")
 
@@ -249,9 +249,10 @@ https://platzi.com/clases/1784-escritura-online/25420-usando-herramientas-quirur
 
 Cuando escribes en Markdown, el texto se almacena en un archivo de texto sin formato que tiene una extensión .mdo .markdown. ¿Pero entonces, qué? ¿Cómo se convierte su archivo con formato Markdown en HTML o en un documento listo para imprimir?
 
+![proceso-md][url-img-proceso-md]
+
 Se necesita una aplicación Markdown capaz de procesar el archivo md. Hay muchas aplicaciones disponibles, como [StackEdit][url-stackedit]_ y [Dillinger][url-dillinger] que funcionan de forma online, o desde simples secuencias de comandos hasta aplicaciones de escritorio que se parecen a Microsoft Word. A pesar de sus diferencias visuales, todas las aplicaciones hacen lo mismo. Todos convierten el texto con formato Markdown a HTML para que se pueda mostrar en los navegadores web. En Platzi se usa una versión propia llamada [Pulse Editor][url-pulse-editor].
 
-![proceso-md][url-img-proceso-md]
 
 
 ## 📍 ¿Donde podré usar estos trucos?
