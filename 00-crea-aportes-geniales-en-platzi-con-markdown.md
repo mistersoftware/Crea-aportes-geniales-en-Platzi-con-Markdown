@@ -285,7 +285,7 @@ https://platzi.com/clases/1784-escritura-online/25400-escribe-un-gran-cierre/
 -->
 
 
-## 👉 Entonces, ¿estas listo para empezar?
+## 👉 Entonces, ¿estás listo para empezar?
 
 
 >1. 📖 [**Textos:** Formatos para textos, citas, enlaces y código para mejorar tus aportes][url-textos]
