@@ -299,21 +299,21 @@ Cualquier error va por cuenta mia, si encuentras alguno puedes comunicarmelo a [
 
 ## 👉 Índice de contenidos
 
+<!--
 
->1. 📖 [**Textos:** Formatos para citas, enlaces y código para mejorar tus aportes][url-textos]
->1. 📷 [**Imágenes:** Integrar imágenes en tus comentarios o tutoriales][url-imagenes]
->1. 🎬 [**Animaciones:** Dale vida y movimiento a tus aportes con animaciones][url-animaciones]
->1. 🍕 [**Emojis:** Exprésate con Emojis][url-emojis]
+>1. 📖 [**Textos:** Formatos para textos, citas, enlaces y código para mejorar tus aportes][url-textos]
+>1. 📷 [**Imágenes:** Como integrarlas en tus comentarios o tutoriales][url-imagenes]
+>1. 🎬 [**Animaciones:** Dale vida y movimiento a tus aportes][url-animaciones]
+>1. 🍕 [**Emojis:** Exprésate con libertad][url-emojis]
 >1. 🆎 [**Variables:** Agiliza tu escritura reutilizando referencias, imágenes y enlaces ][url-variables]
->1. 🔲 [**Botones:** Inserta botones para facilitar la navegación de tus lectores][url-botones]
->1. 🌈 [**Colores:** Color y alegría en tus aportes][url-colores]
->1. ☑️ [**Tablas y listas:** tan fácil como nunca lo veras en HTML][url-tablas] 
->1. 📺 [**Videos:** Incrusta videos en tus aportes en Platzi y un truco para incluirlos en GitHub][url-videos]
->1. 🔣 [**ASCII Art:** branding en tu código][url-ascii]
+>1. 🔲 [**Botones:** Fcilitar la navegación de tus lectores][url-botones]
+>1. 🌈 [**Colores:** Alegría y estilo en tus aportes][url-colores]
+>1. ☑️ [**Tablas y listas:** Tan fácil como nunca las veras en HTML][url-tablas] 
+>1. 📺 [**Videos:** Incrustalos en Platzi directo desde Youtube y Vimeo][url-videos]
+>1. 🔣 [**ASCII Art:** Branding en tu código][url-ascii]
 >1. ➗ [**Bonus:** Inserta fórmulas matemáticas creadas en laTex][url-matematicas]
 
-==«==
----
+-->
 
 
 
@@ -461,16 +461,16 @@ https://platzi.com/clases/1784-escritura-online/25415-elementos-multimedia/
 
 <!--
 
->1. 📖 [**Textos:** Formatos para citas, enlaces y código para mejorar tus aportes][url-textos]
->1. 📷 [**Imágenes:** Integrar imágenes en tus comentarios o tutoriales][url-imagenes]
->1. 🎬 [**Animaciones:** Dale vida y movimiento a tus aportes con animaciones][url-animaciones]
->1. 🍕 [**Emojis:** Exprésate con Emojis][url-emojis]
+>1. 📖 [**Textos:** Formatos para textos, citas, enlaces y código para mejorar tus aportes][url-textos]
+>1. 📷 [**Imágenes:** Como integrarlas en tus comentarios o tutoriales][url-imagenes]
+>1. 🎬 [**Animaciones:** Dale vida y movimiento a tus aportes][url-animaciones]
+>1. 🍕 [**Emojis:** Exprésate con libertad][url-emojis]
 >1. 🆎 [**Variables:** Agiliza tu escritura reutilizando referencias, imágenes y enlaces ][url-variables]
->1. 🔲 [**Botones:** Inserta botones para facilitar la navegación de tus lectores][url-botones]
->1. 🌈 [**Colores:** Color y alegría en tus aportes][url-colores]
->1. ☑️ [**Tablas y listas:** tan fácil como nunca lo veras en HTML][url-tablas] 
->1. 📺 [**Videos:** Incrusta videos en tus aportes en Platzi y un truco para incluirlos en GitHub][url-videos]
->1. 🔣 [**ASCII Art:** branding en tu código][url-ascii]
+>1. 🔲 [**Botones:** Fcilitar la navegación de tus lectores][url-botones]
+>1. 🌈 [**Colores:** Alegría y estilo en tus aportes][url-colores]
+>1. ☑️ [**Tablas y listas:** Tan fácil como nunca las veras en HTML][url-tablas] 
+>1. 📺 [**Videos:** Incrustalos en Platzi directo desde Youtube y Vimeo][url-videos]
+>1. 🔣 [**ASCII Art:** Branding en tu código][url-ascii]
 >1. ➗ [**Bonus:** Inserta fórmulas matemáticas creadas en laTex][url-matematicas]
 
 -->
