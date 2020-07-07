@@ -318,12 +318,10 @@ Cualquier error va por cuenta mia, si encuentras alguno puedes comunicarmelo a [
 
 
 
-**_Si no sabes por donde iniciar, empieza por aquí:_**
-
-* 📖 [_Formatos de texto, Citas, enlaces y código para mejorar tus aportes_][url-textos] ⏩
+**_Si no sabes por donde iniciar:_**
 
 
-[![url--8](https://via.placeholder.com/336x35/a21217/fff?text=Formatos+de+texto,+Citas,+enlaces+y+código+para+mejorar+tus+aportes)](https://platzi.com/8) 
+[![url--8](https://via.placeholder.com/300x35/a21217/fff?text=Empieza+por+aquí)][url-textos]
 
 
 ==»==
