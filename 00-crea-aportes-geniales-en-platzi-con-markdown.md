@@ -303,6 +303,7 @@ Aprenderemos como controlar la visualización del documento; escribir en _itáli
 
 ==«==
 ---
+
 >Por ejemplo aprenderemos como subir imagenes e incluirlas en tus publicaciones. Si usas el navegador Google Chrome o Mozilla Firefox en la versión web de Platzi, podrás adjuntar imágenes **_(exclusivamente de formato PNG y JPG)_** arrastrando la imagen de tu explorador de archivos a la casilla donde escribes el comentario. 
 >
 > [_"Cortesia de @vistoporjuan"_](https://platzi.com/comunidad/como-agrego-imagenes-en-los-comentarios/ "Juan muy amablemente ha autorizado el uso de su animación en esta publicación.")
@@ -344,7 +345,7 @@ Markdown es muy utilizado en la industria de la tecnología por su versatilidad 
 * **Mensajes directos** pueden ser enviados entre estudiantes que han decidido no poner en privado su perfil.
 * También puedes participar en el **Blog Oficial** enviando un correo a team@platzi.com donde ellos te indicaran los pasos a seguir.
 
-Esta guía ha sido creada con la ayuda del _team Platzi_ y los aportes de otros estudiantes, ojalá sea de tu agrado. Cualquier error va por cuenta mia, si encuentras alguno puedes comunicarmelo a [@mistersoftware][url-mistersoftware] [@luisca][url-luisca].
+## Esta guía ha sido creada con la ayuda del _team Platzi_ y los aportes de otros estudiantes, ojalá sea de tu agrado. Cualquier error va por cuenta mia, si encuentras alguno puedes comunicarmelo a [@mistersoftware][url-mistersoftware] [@luisca][url-luisca].
 
 ==«==
 ---
