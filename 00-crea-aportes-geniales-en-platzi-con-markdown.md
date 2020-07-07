@@ -1,5 +1,5 @@
 
-✍️💡 Crea aportes geniales en Platzi con Markdown 👨‍🎨👩‍🎨
+✍️💡 Escribe textos geniales con Markdown 👨‍🎨👩‍🎨
 
 <!--
 Escribele a un conocido para que comiences de una manera muy familiar y asi ir soltando las lineas del texto.
@@ -301,15 +301,18 @@ Platzi utiliza una versión de Markdown llamada [Pulse Editor][url-pulse-editor]
 
 Aprenderemos como controlar la visualización del documento; escribir en _itálico_, ==resaltando== palabras en **negrita**, insertando [enlaces][url-vacia], agregando 👨‍🚀Emojis🚀,  [![url-vacia][url-ejemplo-boton]](#), organizando tus datos en listas o tablas. Aprenderemos como utilizar variables para ahorrarnos mucho trabajo con las referencias, los enlaces y las imágenes. También se incluyen un par de trucos extra para traer [![url-vacia][url-ejemplo-color]]() a nuestras publicaciones. Veremos como crear publicaciones con expresiones matemáticas **y obviamente no podría faltar, veremos como insertar imágenes, animaciones y videos.** 
 
+
 ==«==
 ---
-
-Por ejemplo, aprenderemos como insertar animaciones, como la siguiente donde se explica como subir imagenes a Platzi.
-
-![Subir Imagen][url-img-subir-imagen]
+>Por ejemplo aprenderemos como subir imagenes e incluirlas en tus publicaciones. Si usas el navegador Google Chrome o Mozilla Firefox en la versión web de Platzi, podrás adjuntar imágenes **_(exclusivamente de formato PNG y JPG)_** arrastrando la imagen de tu explorador de archivos a la casilla donde escribes el comentario. 
+>
+> [_"Cortesia de @vistoporjuan"_](https://platzi.com/comunidad/como-agrego-imagenes-en-los-comentarios/ "Juan muy amablemente ha autorizado el uso de su animación en esta publicación.")
 
 ==»==
 ---
+  
+![subir-vistoporjuan][url-img-vistoporjuan]
+
 
 ## ⚙️ ¿Como funciona Markdown?
 
@@ -439,7 +442,7 @@ Hecho con el 💚 en el 2K20.
 [url-curso-escritura]: https://platzi.com/clases/escritura-online/ "Curso de Escritura Online"
 [url-pulse-editor]: https://platzi.com/blog/presentamos-pulse-editor/ "El sabor personalizado de Markdown en Platzi"
 
-[url-indice]: https://platzi.com/blog/crea-aportes-geniales-en-platzi-con-markdown "✍️💡 Crea aportes geniales en Platzi con Markdown 👨‍🎨👩‍🎨"
+[url-indice]: https://platzi.com/blog/escribe-textos-geniales-con-markdown "✍️💡 Escribe textos geniales con Markdown 👨‍🎨👩‍🎨"
 [url-textos]: https://platzi.com/comunidad/formatos-de-texto-citas-enlaces-y-codigo-para-mejorar-tus-aportes-con-markdown/ "✍️📖 Formatos de texto, citas, enlaces y código para mejorar tus aportes con Markdown 👨‍🎨👩‍🎨"
 [url-imagenes]: https://platzi.com/comunidad/integrar-imagenes-en-tus-comentarios-o-tutoriales-con-markdown/ "✍️📷 Integrar imágenes en tus comentarios o tutoriales con Markdown 👨‍🎨👩‍🎨"
 [url-animaciones]: https://platzi.com/comunidad/dale-vida-y-movimiento-a-tus-aportes-con-animaciones-con-markdown/ "✍️🎬 Dale vida y movimiento a tus aportes con animaciones con Markdown 👨‍🎨👩‍🎨"
