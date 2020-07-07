@@ -247,21 +247,14 @@ https://platzi.com/clases/1784-escritura-online/25420-usando-herramientas-quirur
 
 Cuando escribes en Markdown, el texto se almacena en un archivo de texto sin formato que tiene una extensión .mdo .markdown. ¿Pero entonces, qué? ¿Cómo se convierte su archivo con formato Markdown en HTML o en un documento listo para imprimir?
 
-La respuesta breve es que necesita una aplicación Markdown capaz de procesar el archivo md. Hay muchas aplicaciones disponibles, desde simples secuencias de comandos hasta aplicaciones de escritorio que se parecen a Microsoft Word. A pesar de sus diferencias visuales, todas las aplicaciones hacen lo mismo. Todos convierten el texto con formato Markdown a HTML para que se pueda mostrar en los navegadores web.
-
-Las aplicaciones de Markdown usan algo llamado procesador Markdown (también conocido comúnmente como "analizador" o "implementación") para tomar el texto con formato Markdown y enviarlo a formato HTML. De tal manera, tu documento puede verse en un navegador web o combinarse con una hoja de estilo CSS e imprimirse. 
-
-Puede ver una representación visual de este proceso a continuación.
+Se necesita una aplicación Markdown capaz de procesar el archivo md. Hay muchas aplicaciones disponibles, como [StackEdit][url-stackedit]_ y [Dillinger][url-dillinger] que funcionan de forma online,  simples secuencias de comandos hasta aplicaciones de escritorio que se parecen a Microsoft Word. A pesar de sus diferencias visuales, todas las aplicaciones hacen lo mismo. Todos convierten el texto con formato Markdown a HTML para que se pueda mostrar en los navegadores web. En Platzi se usa una versión propia llamada [Pulse Editor][url-pulse-editor].
 
 ![proceso-md][url-img-proceso-md]
 
 
->Nota: La aplicación Markdown (Markdown App) y el procesador son dos componentes separados. En aras de la brevedad, los he combinado en un elemento ("Aplicación Markdown") en la figura anterior.
-
-
 ## 📍 ¿Donde podré usar estos trucos?
 
-Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. Puedes usar Markdown en [StackEdit][url-stackedit]_, [Dillinger][url-dillinger] y en muchos otros editores en línea de Markdown. Tambien puedes utilizar Markdown dentro de [Git-hub][url-curso-git] o en [Slack][url-curso-slack] para comunicarte con tu equipo de trabajo, en Jupiter notebook para [crear documentos con python](https://blog.desdelinux.net/jupyter-notebook/) y **tambien puedes usarlo en casi todos los mecanismos de participación en Platzi con una versión propia llamada [Pulse Editor][url-pulse-editor]**
+Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. Puedes utilizar Markdown dentro de [Git-hub][url-curso-git] o en [Slack][url-curso-slack] para comunicarte con tu equipo de trabajo, en Jupiter notebook para [crear documentos con python](https://blog.desdelinux.net/jupyter-notebook/) y **tambien puedes usarlo en casi todos los mecanismos de participación en Platzi**
 
 * **Los comentarios se clasifican en aportes, preguntas y respuestas**: cuando estás viendo una clase y realizas un comentario, ese comentario queda enlazado a la clase.  
     * **Los aportes** son los comentarios de cada video o clase (no todas son en video), los cuales no son preguntas.
@@ -290,7 +283,7 @@ https://platzi.com/clases/1784-escritura-online/25400-escribe-un-gran-cierre/
 -->
 
 
-## 👉 Ahora si, a lo que vinimos: Índice de contenidos
+## 👉 Entonces, ¿estas listo para empezar?
 
 
 >1. 📖 [**Textos:** Formatos para textos, citas, enlaces y código para mejorar tus aportes][url-textos]
