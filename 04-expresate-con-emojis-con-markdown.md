@@ -15,7 +15,7 @@ _Anterior:_ ⏪ [_Dale vida y movimiento a tus aportes con animaciones_][url-ani
 
 ## 🍕 Emojis 👨‍🚀🚀
 
-Para incluir un emoji **siempre podrás copiar y pegar** el emoji mismo de la tabla. Si no encuentras el que buscas revisa el  [listado completo de emojis aquí][url-emojis-todos].
+Para incluir un emoji **siempre podrás copiar y pegar** el emoji mismo de la tabla. También puedes acceder a un menú de emojis en Windows 10 con la combinación `Ctrl + .` Si no encuentras el que buscas revisa el  [listado completo de emojis aquí][url-emojis-todos].
 
 
 😄 |  😅 |  👽 | 📣 |  💻 |  🎥 |
