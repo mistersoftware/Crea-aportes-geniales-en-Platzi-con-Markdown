@@ -313,12 +313,17 @@ Cualquier error va por cuenta mia, si encuentras alguno puedes comunicarmelo a [
 >1. ➗ [**Bonus:** Inserta fórmulas matemáticas creadas en laTex][url-matematicas]
 
 
+==«==
+---
 
 
 
-**_Continúa tu aprendizaje con:_**
+**_Si no sabes por donde iniciar, empieza por aquí:_**
 
 * 📖 [_Formatos de texto, Citas, enlaces y código para mejorar tus aportes_][url-textos] ⏩
+
+
+[![url--8](https://via.placeholder.com/336x35/a21217/fff?text=Formatos+de+texto,+Citas,+enlaces+y+código+para+mejorar+tus+aportes)](https://platzi.com/8) 
 
 
 ==»==
