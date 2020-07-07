@@ -299,7 +299,6 @@ Cualquier error va por cuenta mia, si encuentras alguno puedes comunicarmelo a [
 
 ## 👉 Índice de contenidos
 
-<!--
 
 >1. 📖 [**Textos:** Formatos para textos, citas, enlaces y código para mejorar tus aportes][url-textos]
 >1. 📷 [**Imágenes:** Como integrarlas en tus comentarios o tutoriales][url-imagenes]
@@ -313,7 +312,7 @@ Cualquier error va por cuenta mia, si encuentras alguno puedes comunicarmelo a [
 >1. 🔣 [**ASCII Art:** Branding en tu código][url-ascii]
 >1. ➗ [**Bonus:** Inserta fórmulas matemáticas creadas en laTex][url-matematicas]
 
--->
+
 
 
 
