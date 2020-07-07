@@ -7,12 +7,12 @@ _Anterior:_ ⏪ [_Incrusta videos en tus aportes en Platzi y un tip para incluir
 ---
  
  
-> _**" Esta publicación forma parte de una serie denominada: 🇪🇸 ✍️💡 [ Crea aportes geniales en Platzi con Markdown"][url-indice] 👨‍🎨👩‍🎨. Si has llegado aquí sin pasar por allí, te recomiendo visitarla, donde encontraras el índice principal. "**_
+> _**" Esta publicación forma parte de una serie denominada: 🇪🇸 ✍️💡 [ Escribe textos geniales con Markdown"][url-indice] 👨‍🎨👩‍🎨. Si has llegado aquí sin pasar por allí, te recomiendo visitarla, donde encontraras el índice principal. "**_
 
 
 ==»==
 ---
----
+
 
 ## 🔣 ASCII ART
 
