@@ -20,13 +20,15 @@ Aprenderemos como controlar la visualización del documento; escribir en _itáli
 
 ==«==
 ---
-
-Por ejemplo, aprenderemos como insertar animaciones, como la siguiente donde se explica como subir imagenes a Platzi.
-
-![Subir Imagen][url-img-subir-imagen]
+>Si usas el navegador Google Chrome o Mozilla Firefox en la versión web, podrás adjuntar imágenes **_(exclusivamente de formato PNG y JPG)_** arrastrando la imagen de tu explorador de archivos a la casilla donde escribes el comentario. 
+>
+> [_"Cortesia de @vistoporjuan"_](https://platzi.com/comunidad/como-agrego-imagenes-en-los-comentarios/ "Juan muy amablemente ha autorizado el uso de su animación en esta publicación.")
 
 ==»==
 ---
+  
+![subir-vistoporjuan][url-img-vistoporjuan]
+
 
 ## ⚙️ ¿Como funciona Markdown?
 
