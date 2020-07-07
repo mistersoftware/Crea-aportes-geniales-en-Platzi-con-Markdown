@@ -127,19 +127,3 @@ Hecho con el 💚 en el 2K20.
 [url-matematicas]: https://platzi.com/comunidad/bonus-inserta-formulas-matematicas-creadas-en-latex-con-markdown/ "✍️➗ Bonus: Inserta fórmulas matemáticas creadas en laTex con Markdown 👨‍🎨👩‍🎨"
 [url-emojis-todos]: https://platzi.com/comunidad/listado-completo-de-emojis-en-markdown/ "✍️😍 Listado completo de emojis en Markdown 👨‍🎨👩‍🎨"
 
-<!--
-
->1. 📖 [**Textos:** Formatos para textos, citas, enlaces y código para mejorar tus aportes][url-textos]
->1. 📷 [**Imágenes:** Como integrarlas en tus comentarios o tutoriales][url-imagenes]
->1. 🎬 [**Animaciones:** Dale vida y movimiento a tus aportes][url-animaciones]
->1. 🍕 [**Emojis:** Exprésate con libertad][url-emojis]
->1. 🆎 [**Variables:** Agiliza tu escritura reutilizando referencias, imágenes y enlaces ][url-variables]
->1. 🔲 [**Botones:** Fcilitar la navegación de tus lectores][url-botones]
->1. 🌈 [**Colores:** Alegría y estilo en tus aportes][url-colores]
->1. ☑️ [**Tablas y listas:** Tan fácil como nunca las veras en HTML][url-tablas] 
->1. 📺 [**Videos:** Incrustalos en Platzi directo desde Youtube y Vimeo][url-videos]
->1. 🔣 [**ASCII Art:** Branding en tu código][url-ascii]
->1. ➗ [**Bonus:** Inserta fórmulas matemáticas creadas en laTex][url-matematicas]
-
--->
-
