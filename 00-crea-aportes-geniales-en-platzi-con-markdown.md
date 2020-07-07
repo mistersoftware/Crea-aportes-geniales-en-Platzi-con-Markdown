@@ -153,8 +153,6 @@ Sin embargo falta hacerle algunas preguntas a este texto: pej- como le afecta di
 https://platzi.com/clases/1784-escritura-online/25409-conviertete-en-un-cazador/
 -->
 
-Platzi utiliza una versión de Markdown llamada [Pulse Editor][url-pulse-editor]. Una de las grandes ventajas de este editor es su extensibilidad y adaptabilidad, por ende, al momento en que estés leyendo estas líneas es posible que sus funcionalidades hayan sido extendidas o modificadas. 
-
 ## 👨‍🏫 ¿Qué Aprenderemos?
 
 Aprenderemos como controlar la visualización del documento; escribir en _itálico_, ==resaltando== palabras en **negrita**, insertando [enlaces][url-vacia], agregando 👨‍🚀Emojis🚀,  [![url-vacia][url-ejemplo-boton]](#), organizando tus datos en listas o tablas. Aprenderemos como utilizar variables para ahorrarnos mucho trabajo con las referencias, los enlaces y las imágenes. También se incluyen un par de trucos extra para traer [![url-vacia][url-ejemplo-color]]() a nuestras publicaciones. Veremos como crear publicaciones con expresiones matemáticas **y obviamente no podría faltar, veremos como insertar imágenes, animaciones y videos.** 
@@ -263,9 +261,7 @@ Puede ver una representación visual de este proceso a continuación.
 
 ## 📍 ¿Donde puedo usar Markdown?
 
-Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. Puedes usar Markdown en [StackEdit][url-stackedit]_, [Dillinger][url-dillinger] y en muchos otros editores en línea de Markdown. Tambien puedes utilizar Markdown dentro de [Git-hub][url-curso-git] o en [Slack][url-curso-slack] para comunicarte con tu equipo de trabajo, en Jupiter notebook para [crear documentos con python](https://blog.desdelinux.net/jupyter-notebook/) y tambien puedes usarlo en Platzi.  
-
-**Markdown es utilizado para casi todos los mecanismos de participación y comunicación en Platzi**, _excepto en los marcadores, el chat de las transmisiones en vivo y en la descripción de tus proyectos de tu perfil para [Platzi Connect][url-connect]_
+Markdown es muy utilizado en la industria de la tecnología por su versatilidad y sencillez. Puedes usar Markdown en [StackEdit][url-stackedit]_, [Dillinger][url-dillinger] y en muchos otros editores en línea de Markdown. Tambien puedes utilizar Markdown dentro de [Git-hub][url-curso-git] o en [Slack][url-curso-slack] para comunicarte con tu equipo de trabajo, en Jupiter notebook para [crear documentos con python](https://blog.desdelinux.net/jupyter-notebook/) y tambien puedes usarlo en casi todos los mecanismos de participación en Platzi con una versión propia llamada [Pulse Editor][url-pulse-editor]**
 
 * **Los comentarios se clasifican en aportes, preguntas y respuestas**: cuando estás viendo una clase y realizas un comentario, ese comentario queda enlazado a la clase.  
     * **Los aportes** son los comentarios de cada video o clase (no todas son en video), los cuales no son preguntas.
@@ -466,17 +462,17 @@ https://platzi.com/clases/1784-escritura-online/25415-elementos-multimedia/
 
 <!--
 
->1. 📖 [Formatos de texto, citas, enlaces y código para mejorar tus aportes][url-textos]
->1. 📷 [Integrar imágenes en tus comentarios o tutoriales][url-imagenes]
->1. 🎬 [Dale vida y movimiento a tus aportes con animaciones][url-animaciones]
->1. 🍕 [Exprésate con Emojis][url-emojis]
->1. 🆎 [Agiliza tu escritura con variables _"Don´t repeat yourself"_ ][url-variables]
->1. 🔲 [Inserta botones para facilitar la navegación de tus lectores][url-botones]
->1. 🌈 [Color y alegria en tus aportes][url-colores]
->1. ☑️ [Tablas y listas tan facil como nunca lo has visto][url-tablas] 
->1. 📺 [Incrusta videos en tus aportes en Platzi y un tip para incluirlos en GitHub][url-videos]
->1. 🔣 [ASCII Art: branding en tu código][url-ascii]
->1. ➗ [Bonus: Inserta fórmulas matemáticas creadas en laTex][url-matematicas]
+>1. 📖 [**Textos:** Formatos para citas, enlaces y código para mejorar tus aportes][url-textos]
+>1. 📷 [**Imágenes:** Integrar imágenes en tus comentarios o tutoriales][url-imagenes]
+>1. 🎬 [**Animaciones:** Dale vida y movimiento a tus aportes con animaciones][url-animaciones]
+>1. 🍕 [**Emojis:** Exprésate con Emojis][url-emojis]
+>1. 🆎 [**Variables:** Agiliza tu escritura reutilizando referencias, imágenes y enlaces ][url-variables]
+>1. 🔲 [**Botones:** Inserta botones para facilitar la navegación de tus lectores][url-botones]
+>1. 🌈 [**Colores:** Color y alegría en tus aportes][url-colores]
+>1. ☑️ [**Tablas y listas:** tan fácil como nunca lo veras en HTML][url-tablas] 
+>1. 📺 [**Videos:** Incrusta videos en tus aportes en Platzi y un truco para incluirlos en GitHub][url-videos]
+>1. 🔣 [**ASCII Art:** branding en tu código][url-ascii]
+>1. ➗ [**Bonus:** Inserta fórmulas matemáticas creadas en laTex][url-matematicas]
 
 -->
 
