@@ -5,9 +5,8 @@
 Escribele a un conocido para que comiences de una manera muy familiar y asi ir soltando las lineas del texto.
 -->
 
-# Querida mamá
-
 <!--
+# Querida mamá
 - Reescribe el primer y el segundo parrafo; asegurate de ir al grano. 
 - Recuerda que el primer parrafo es donde vas a llamar la atención del lector, el gancho para que decida seguir leyendo. 
 - No esperes que lo primero que se te ocurre, sea lo que vas a respetar como el primero, como el segundo párrafo. 
@@ -458,7 +457,7 @@ Hecho con el 💚 en el 2K20.
 
 <!--
 
->1. 📖 [Formatos de texto, citas, enlaces y código para mejorar tus aportes ][url-textos]
+>1. 📖 [Formatos de texto, citas, enlaces y código para mejorar tus aportes][url-textos]
 >1. 📷 [Integrar imágenes en tus comentarios o tutoriales][url-imagenes]
 >1. 🎬 [Dale vida y movimiento a tus aportes con animaciones][url-animaciones]
 >1. 🍕 [Exprésate con Emojis][url-emojis]
