@@ -289,9 +289,6 @@ Resalta el call to action
 https://platzi.com/clases/1784-escritura-online/25400-escribe-un-gran-cierre/
 -->
 
-## Esta guía ha sido creada con la ayuda del _team Platzi_ y los aportes de otros estudiantes, ojalá sea de tu agrado. 
-
-Cualquier error va por cuenta mia, si encuentras alguno puedes comunicarmelo a [@mistersoftware][url-mistersoftware] [@luisca][url-luisca]. A continuación el índice principal.
 
 ==«==
 ---
@@ -313,18 +310,10 @@ Cualquier error va por cuenta mia, si encuentras alguno puedes comunicarmelo a [
 >1. ➗ [**Bonus:** Inserta fórmulas matemáticas creadas en laTex][url-matematicas]
 
 
+
+**Si tienes alguna duda, déjala por favor en el sistema de comentarios.**
+
 ==«==
----
-
-
-
-**_Si no sabes por donde iniciar:_**
-
-
-[![url--8](https://via.placeholder.com/300x35/a21217/fff?text=Empieza+por+aquí)][url-textos]
-
-
-==»==
 ---
 
 
@@ -341,9 +330,6 @@ Cualquier error va por cuenta mia, si encuentras alguno puedes comunicarmelo a [
 
 ==«==
 ---
-
-**Si tienes alguna duda, déjala por favor en el sistema de comentarios.**
-
 
 Hecho con el 💚 en el 2K20. 
 
