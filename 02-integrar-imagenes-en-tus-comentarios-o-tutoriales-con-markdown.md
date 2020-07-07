@@ -23,13 +23,13 @@ Puedes subir tus imágenes y GIF a un servicio gratuito como [Imgur][url-imgur] 
 ==«==
 ---
 
-`![img-learning][url-img-learning]`
+`![Data](https://static.platzi.com/media/learningpath/banners/1c4f4add-87b9-44cc-ba30-4a8a134bf76e.jpg)`
 
 
 ==» El código anterior producirá: »==
 ---
 
- ![Data](https://static.platzi.com/media/learningpath/banners/1c4f4add-87b9-44cc-ba30-4a8a134bf76e.jpg)
+ ![img-learning][url-img-learning]
 ==«==
 ---
 >Si usas el navegador Google Chrome o Mozilla Firefox en la versión web, podrás adjuntar imágenes **_(exclusivamente de formato PNG y JPG)_** arrastrando la imagen de tu explorador de archivos a la casilla donde escribes el comentario. 
