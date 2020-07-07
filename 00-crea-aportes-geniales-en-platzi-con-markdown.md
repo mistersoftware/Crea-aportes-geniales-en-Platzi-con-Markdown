@@ -112,7 +112,9 @@ Muchas personas quieren publicar sus ideas en Platzi. Pero no saben como darle e
 ==«==
 ---
 
-Las ideas recién nacidas son frágiles y expuestas incorrectamente están destinadas a morir. **En esta publicación encontrarás tips y herramientas que te ayudaran a darle estilo y exponer tus ideas con Markdown**.
+
+**En esta publicación encontrarás trucos y herramientas que te ayudaran a darle estilo a tus ideas con Markdown, porque las ideas recién nacidas son frágiles y expuestas incorrectamente están destinadas a morir, y aqúi no queremos que eso suceda.**
+
 
 ==»==
 ---
