@@ -1,162 +1,3 @@
-
-✍️💡 Escribe textos geniales con Markdown 👨‍🎨👩‍🎨
-
-<!--
-Escribele a un conocido para que comiences de una manera muy familiar y asi ir soltando las lineas del texto.
--->
-
-<!--
-# Querida mamá
-- Reescribe el primer y el segundo parrafo; asegurate de ir al grano. 
-- Recuerda que el primer parrafo es donde vas a llamar la atención del lector, el gancho para que decida seguir leyendo. 
-- No esperes que lo primero que se te ocurre, sea lo que vas a respetar como el primero, como el segundo párrafo. 
-- Algo que es bellisimo de los textos es que siempre tienes la oportunidad de dictarlos, siempre tines la oportunidad de preguntarte si las palabras que elegiste han sido las adecuadas, si el orden y la jerarquía que decidiste para ellas podría cambiar para hacer que el mensaje sea aún mejor. - Así que toma en cuenta que esta posibilidad de edición siempre está abierta y que el primero y el segundo párrafo requieren un especial cuidado, un especial detalle, así que puedes escribir lo primero que se te ocurra con el ánimo de quitarnos el miedo a la página en blanco, y una vez que ya hayas avanzado durante tu texto, te invito a revisar nuevamente el primero y el segundo parrafo, para ver si están correctamente identificados o si podríamos mejorarlos.
-- El método Minto tiene que ver con comunicarse eficientemente y me gustaría compartirte, como es que de acuerdo con este método, se puede iniciar un texto. 
-- Toma en cuenta que todas las fórmulas que yo te voy a compartir de aquí en adelante, tienen que ver con que obtengas estas estructuras para que puedas crear tus textos con estos patrones y logres ir desarrollando tus habilidades como escritor. Sin embargo, nada de esto está en piedra. Nada de esto está escrito. Tú puedes utilizar tu creatividad y modificar todos estos métodos como a ti mejor te convenga.
-- Vamos a revisar método Minto. En este caso, nos dice que usemos tres consideraciones en el primer párrafo que expliquemos: 
-1- La situación como primera. 
-2- El problema como segundo 
-3- La pregunta como tercero, vamos a hacer un ejemplo.
-" Muchas personas quieren aprender a escribir mejor. Pero no saben utilizar los signos de puntuación. La pregunta es ¿dónde puedo aprender eso? "
-1- La situación como primera. "Muchas personas quieren aprender a escribir mejor". 
-2- El problema como segundo . "Pero no saben utilizar los signos de puntuación".
-3- La pregunta como tercero, "La pregunta es ¿dónde puedo aprender eso?"
-La estructura anterior puede usarse para el primer parrafo.
-De esta manera logramos enganchar a los lectores al final empatizar con ellos tambien durante este parrafo y mostrarles que tenemos algo de valor, la solución a un problema.
-OTRA TÉCNICA:
-Contestar una pregunta que es una de las cinco W: What, who, when, how, why.
-Concéntrate en resolver sólo una pregunta, para generar asi una sensación de intriga. Es mejor contestar una sola pregunta de forma profunda desde el inicio.
-https://platzi.com/clases/1784-escritura-online/25408-escribe-la-introduccion-de-tu-texto/
--->
-
-Las ideas recién nacidas son frágiles y expuestas de la forma incorrecta en el entorno incorrecto, irremediablemente están destinadas a morir. **En esta publicación encontrarás tips y herramientas que te ayudaran a darle estilo y exponer tus ideas con Markdown**. Si hay suerte, aquellas ideas regresaran a ti, diferentes, enriquecidas, renovadas.
-
-<!--
-Lo siguiente es no perder la atención del lector. Conviertete en un cazador.
-El lector es nuestra presa, hay que irle poniendo ciertas trampas para que se quede enganchado y no pierda la atención de lo que queremos contar.
-La primera de un parrafo es como la primera impresión.
-Evita iniciar con lugares comunes:
-- De acuerdo con
-- Es importante
-- En mi opinion
-- El proposito de este texto es
-- En 2020 (cualquier año=
-- Yo creo, yo pienso que
-No tienen un valor real para el texto y lo puede volver aburrido. Recuerda sacar tu instinto de cazador para atrapar a tu presa.
--->
-
-<!--
-Escribir informacion útil.
-Situacion                 | Problema                                       | Pregunta
---------------------------|------------------------------------------------|-------------------------------------
-Reconoce que esta pasando | Algo salio mal                                 | ¿Qué se puede hacer?
-                          | Algo podría salir peor                         | ¿Cómo se puede prevenir?
-                          | Algo cambio                                    | ¿Qué se debería hacer?
-                          | Algo podria cambiar                            | ¿Cómo se debería reaccionar?
-                          | Esto es lo que podrias esperar que pase        | ¿Podriamos encontrarlo?
-                          | Hay alguien conun diferente punto de vista     | ¿Quién esta en lo correcto?
-                          | El problema se puede solucionar de tres formas | ¿Cuál se debería elegir?
-* Las preguntas iran generando incognitas que al final son las que van a captar la atencion del lector. Cuando vayas a escribir ve realizandote estas preguntas y ve dejandole al lector algunos guiños de esa incertidumbre para que siga leyendo tu texto. 
-- Sera util en la medida que puedas responder estas preguntas de forma eficiente y directa
-- Revisa el orden de la información
-Mal:
-De acuerdo con el Instituto Nacional de Estadística y Geografía, durante julio de 2019 en México, se vendireron 105 mil 699 autos, la cifra más baja para el mismo mes en cinco años.
-Bien:
-Por primera vez en 5 años, cayó la venta de autos en julio. Se vendieron sólo 105 mil 69 vehículos, la cifra más baja paa este periodo de tiempo, de acuerdo con el Instituto Nacional de Estadística y Geografía.
-- La jerarquización es de vital importancia. Pasar la acción que es lo mas relevante al inicio.
-Sin embargo falta hacerle algunas preguntas a este texto: pej- como le afecta directamente a las personas que esta accion haya pasado. Esto tiene que ver con que muchas personas cuando no siente que un hecho los afecta directamente no prestan atencion.
-https://platzi.com/clases/1784-escritura-online/25409-conviertete-en-un-cazador/
--->
-
-<!--
-Método the economist
-1. El gancho: una descripción visual donde hay un protagonista o una situación que resume todo en un texto con descripciones visuales (imagine usted que...).
-2. Definición del problema: En pocas frases, tienes que resumir cuál es el problema del que se trata. El problema suele estar prrcedido de la locución "pero" o "sin embargo". Suele ser el 'punto de giro'.
-3. Datos que sostienen el problema: Se aportan datos de fuentes fiables para demostrar que es un problema verdadero y serio. Suele haber una cronología. Pueden ser cifras o una descripción científica del asunto. Aquí el problema se transforma en drama o desafío con datos.
-4. Desarrollo: Tesisa favor para resolver el problema. Y tesis en contra que detalla qué va a pasar si la situación no se afronta.
-5. Propuesta: ¿Qué se está haciendo para solucionarlo?
-6. Riesgos: ¿Se están consiguiendo resultados?
-7. Analisis: Si no se está consiguiendo resultados, ¿a qué se debe?
-8. Comparaciones: ¿Qué se está haciendo en otros sitios? ¿Funciona?
-9. Conclusión: ¿Cómo aplicar esas soluciones en nuestro caso y cuáles son los riesgos si no se aplican? Esta última parte suele incluir una oración que comienza en 'if' (el condicional español 'si'): es la advertencia final. "Si no se aplican estas medidas, pasará esto y esto". O bien, termina conun 'pero'. "Estamos en esta situación, pero existe este riesgo".
-El siguiente es un ejemplo de un texto que sigue los lineamientos anteriores:
-Cómo escribir textos que todos entiendan 
-Decidí estudiar periodismo porque en esa profesión te pagan por contar historias. Increíble, ¿no? Elproblema era que, para crecer mi ego, construía mensajes con palabras que nadie entendía.
-Durante mi primer año en la Facultad, titulaba mis textos con los términos más extraños: “Lainefable quimera de sufragar una vida escribiendo”. Durante la carrera, me di cuenta de que nosabía nada sobre escribir. No era consciente de que el propósito de compartir un mensaje es quealguien más lo entienda. Quizá esto te puede sonar muy tonto, pero al inicio no buscaba escribirpara otros, sino para mí.
-El 90% de los blogs que se publican en internet fracasan y he notado que podría estarse repitiendomi historia en otras cabezas. Todos queremos sonar como unos eruditos, ser el máximo referentede un tema, y con ese afán llenamos un texto de palabras rimbombantes (como ésta), sinpreguntarnos qué quiere saber el lector.
-De no arreglar este problema, nunca iba a lograr ganarme la vida contando historias. Así que decidítomar cartas en el asunto e investigué cómo podía escribir mejor y encontré un consejo que me haservido mucho:
-“Las palabras son imágenes”.
-Si tratas de imaginar algo con cada palabra que escribes, verás que hay algunas palabras másdifíciles de imaginar que otras. Hay dos tipos: pictogramas, que tienen un referente real, por tantoson fáciles de imaginar, como perro. Y los ideogramas, que son construcciones sociales que notienen un referente en la realidad; por ejemplo, las palabra justicia.
-Para hacer mis textos más fáciles de entender, busco que la mayoría de las palabras correspondana pictogramas, así mis lectores pueden recordarlas.
-Con el tiempo y la práctica, logré coordinar la sección de Opinión en uno de los periódicosmexicanos más importantes, El Universal, donde logré mi objetivo: vivir de contar historias.
-https://static.platzi.com/media/public/uploads/texto-1_2ff23a7c-9b2a-45d1-8e46-59e974108ddd.pdf
-
--->
-==«==
----
-> **_" ¿Alguna vez te ha pasado que tardas horas redactando algo, y al momento de publicarlo cambia totalmente su apariencia? En esta serie de publicaciones busco atacar este problema con las herramientas disponibles actualmente en Platzi. **Basicamente he probado de todo un poco y en esta guia te dire que funciona y que no**.  Todo lo que veras en este minitutorial es aplicable en sitios como Platzi, Reddit, Slack, GitHub y muchos otros. "_**
-
-==»==
----
-<!--
-Velocidad
-Tiempo de la historia vs tiempo del relato
-Ago ocurrido en dos horas, puedes contarlo en dos minutos.
-Figuras de velocidad (mayor a menor velocidad)
-Elipsis: Quitar aquello que paso en la historia que no causa impacto.
-Sumario: Resumen de lo que sucedio. (pospuse mi alarma varias veces)
-Escena: Tiempo del relato muy parecido a la historia (por ejemplo en los dialogos)
-Pausa: Extendemos un momento que en la historia no fue tan tardado, por ejemplo incluyendo pensamientos, deseos etc.
-https://platzi.com/clases/1784-escritura-online/26096-tu-texto-tiene-ritmo/
--->
-
-<!--
-Evita las abstracciones. Agrega metaforas y humor.
-- Usa ejemplos
-- Comparaciones
-- Símiles
-- Metaforas
-Ninguna metáfora se puede entender adecuadamente, independientemente de su fundamento en la experiencia. George Lakoff y Mark Johnson
-Metáforas orientacionales
-
-    Entendemos conceptos de acuerdo al espacio
-    Al terminar este curso mis ánimos estarán por los cielos
-    ·
-    Sustancia y entidad
-    Conceptos de acuerdo con las experticias que hemos tenido con objetos o sucesos
-    Completar este curso me enriquece
-    ·
-    Recipiente
-    Cada uno de nosotros es un recipiente con una superficie limitada y una orientación dentro-fuera.
-    Hay mucho en mi que quiero escribir.
-    ·
-    Personificación
-    Atribuimos cualidades de una persona a objetos.
-    Las ideas hechas letras enamorar a cualquiera.
-    ·
-    Metonimia
-    Designar una cosa o idea con el nombre de otra
-    El Quijote se ha vuelto mi amigo
-https://platzi.com/clases/1784-escritura-online/25399-agrega-metaforas-y-el-humor/
--->
-
-<!--
-GRAN CIERRE
-    Resume
-    Recapitula
-    Recomienda
-    Call to Action
-        Deja claro la acción a realizar
-        Describe el beneficio
-        Sé coherente
-        Resalta el Call To Action
-Deja clara la acción que el usuario debe realizar
-Describe el beneficio
-Se coherente
-Resalta el call to action
-https://platzi.com/clases/1784-escritura-online/25400-escribe-un-gran-cierre/
--->
-
 <!--
 Tips para construir un buen titular
 ¿Cuántas veces has compartido un texto con sólo leer el titular?
@@ -238,17 +79,125 @@ Activa: El organizador del evento envió una carta
 https://platzi.com/clases/1784-escritura-online/25414-revisa-el-seo/
 -->
 
+✍️💡 Escribe textos geniales con Markdown 👨‍🎨👩‍🎨
+
 <!--
-Evita tener todo conectado.
-Tip #1
-Utiliza links internos para mostrarle al usuario otros contenidos que le puedan interesar
-Tip #2
-Cita fuentes con links externos para darle validez a los hechos.
-Ayuda con la autoridad de tu sitio, esta autoridad la da la comunidad.
-Tip #3
-Evita frases como “Haz clic aquí” para tu texto de anclaje.
-https://platzi.com/clases/1784-escritura-online/25415-elementos-multimedia/
---->
+Escribele a un conocido para que comiences de una manera muy familiar y asi ir soltando las lineas del texto.
+-->
+# Hello friend
+<!--
+- Reescribe el primer y el segundo parrafo; asegurate de ir al grano. 
+- Recuerda que el primer parrafo es donde vas a llamar la atención del lector, el gancho para que decida seguir leyendo. 
+- No esperes que lo primero que se te ocurre, sea lo que vas a respetar como el primero, como el segundo párrafo. 
+- Algo que es bellisimo de los textos es que siempre tienes la oportunidad de dictarlos, siempre tines la oportunidad de preguntarte si las palabras que elegiste han sido las adecuadas, si el orden y la jerarquía que decidiste para ellas podría cambiar para hacer que el mensaje sea aún mejor. - Así que toma en cuenta que esta posibilidad de edición siempre está abierta y que el primero y el segundo párrafo requieren un especial cuidado, un especial detalle, así que puedes escribir lo primero que se te ocurra con el ánimo de quitarnos el miedo a la página en blanco, y una vez que ya hayas avanzado durante tu texto, te invito a revisar nuevamente el primero y el segundo parrafo, para ver si están correctamente identificados o si podríamos mejorarlos.
+- El método Minto tiene que ver con comunicarse eficientemente y me gustaría compartirte, como es que de acuerdo con este método, se puede iniciar un texto. 
+- Toma en cuenta que todas las fórmulas que yo te voy a compartir de aquí en adelante, tienen que ver con que obtengas estas estructuras para que puedas crear tus textos con estos patrones y logres ir desarrollando tus habilidades como escritor. Sin embargo, nada de esto está en piedra. Nada de esto está escrito. Tú puedes utilizar tu creatividad y modificar todos estos métodos como a ti mejor te convenga.
+- Vamos a revisar método Minto. En este caso, nos dice que usemos tres consideraciones en el primer párrafo que expliquemos: 
+1- La situación como primera. 
+2- El problema como segundo 
+3- La pregunta como tercero, vamos a hacer un ejemplo.
+" Muchas personas quieren aprender a escribir mejor. Pero no saben utilizar los signos de puntuación. La pregunta es ¿dónde puedo aprender eso? "
+1- La situación como primera. "Muchas personas quieren aprender a escribir mejor". 
+2- El problema como segundo . "Pero no saben utilizar los signos de puntuación".
+3- La pregunta como tercero, "La pregunta es ¿dónde puedo aprender eso?"
+La estructura anterior puede usarse para el primer parrafo.
+De esta manera logramos enganchar a los lectores al final empatizar con ellos tambien durante este parrafo y mostrarles que tenemos algo de valor, la solución a un problema.
+OTRA TÉCNICA:
+Contestar una pregunta que es una de las cinco W: What, who, when, how, why.
+Concéntrate en resolver sólo una pregunta, para generar asi una sensación de intriga. Es mejor contestar una sola pregunta de forma profunda desde el inicio.
+https://platzi.com/clases/1784-escritura-online/25408-escribe-la-introduccion-de-tu-texto/
+-->
+Muchas personas quieren publicar sus ideas en Platzi. Pero no saben como darle estilo a sus textos. La pregunta es ¿dónde puedo aprender eso?.
+
+==«==
+---
+
+Las ideas recién nacidas son frágiles y expuestas incorrectamente están destinadas a morir. **En esta publicación encontrarás tips y herramientas que te ayudaran a darle estilo y exponer tus ideas con Markdown**. Todo lo que veras en este minitutorial es aplicable en sitios y herramientas como Platzi, Jupiter Notebook, Reddit, Slack, GitHub y muchos más.
+
+==»==
+---
+<!--
+Lo siguiente es no perder la atención del lector. Conviertete en un cazador.
+El lector es nuestra presa, hay que irle poniendo ciertas trampas para que se quede enganchado y no pierda la atención de lo que queremos contar.
+La primera de un parrafo es como la primera impresión.
+Evita iniciar con lugares comunes:
+- De acuerdo con
+- Es importante
+- En mi opinion
+- El proposito de este texto es
+- En 2020 (cualquier año=
+- Yo creo, yo pienso que
+No tienen un valor real para el texto y lo puede volver aburrido. Recuerda sacar tu instinto de cazador para atrapar a tu presa.
+-->
+
+<!--
+Escribir informacion útil.
+Situacion                 | Problema                                       | Pregunta
+--------------------------|------------------------------------------------|-------------------------------------
+Reconoce que esta pasando | Algo salio mal                                 | ¿Qué se puede hacer?
+                          | Algo podría salir peor                         | ¿Cómo se puede prevenir?
+                          | Algo cambio                                    | ¿Qué se debería hacer?
+                          | Algo podria cambiar                            | ¿Cómo se debería reaccionar?
+                          | Esto es lo que podrias esperar que pase        | ¿Podriamos encontrarlo?
+                          | Hay alguien conun diferente punto de vista     | ¿Quién esta en lo correcto?
+                          | El problema se puede solucionar de tres formas | ¿Cuál se debería elegir?
+* Las preguntas iran generando incognitas que al final son las que van a captar la atencion del lector. Cuando vayas a escribir ve realizandote estas preguntas y ve dejandole al lector algunos guiños de esa incertidumbre para que siga leyendo tu texto. 
+- Sera util en la medida que puedas responder estas preguntas de forma eficiente y directa
+- Revisa el orden de la información
+Mal:
+De acuerdo con el Instituto Nacional de Estadística y Geografía, durante julio de 2019 en México, se vendireron 105 mil 699 autos, la cifra más baja para el mismo mes en cinco años.
+Bien:
+Por primera vez en 5 años, cayó la venta de autos en julio. Se vendieron sólo 105 mil 69 vehículos, la cifra más baja paa este periodo de tiempo, de acuerdo con el Instituto Nacional de Estadística y Geografía.
+- La jerarquización es de vital importancia. Pasar la acción que es lo mas relevante al inicio.
+Sin embargo falta hacerle algunas preguntas a este texto: pej- como le afecta directamente a las personas que esta accion haya pasado. Esto tiene que ver con que muchas personas cuando no siente que un hecho los afecta directamente no prestan atencion.
+https://platzi.com/clases/1784-escritura-online/25409-conviertete-en-un-cazador/
+-->
+
+Platzi utiliza una versión de Markdown llamada [Pulse Editor][url-pulse-editor]. Una de las grandes ventajas de este editor es su extensibilidad y adaptabilidad, por ende, al momento en que estés leyendo estas líneas es posible que sus funcionalidades hayan sido extendidas o modificadas. 
+
+## 👨‍🏫 ¿Qué Aprenderemos?
+
+Aprenderemos como controlar la visualización del documento; escribir en _itálico_, ==resaltando== palabras en **negrita**, insertando [enlaces][url-vacia], agregando 👨‍🚀Emojis🚀,  [![url-vacia][url-ejemplo-boton]](#), organizando tus datos en listas o tablas. Aprenderemos como utilizar variables para ahorrarnos mucho trabajo con las referencias, los enlaces y las imágenes. También se incluyen un par de trucos extra para traer [![url-vacia][url-ejemplo-color]]() a nuestras publicaciones. Veremos como crear publicaciones con expresiones matemáticas **y obviamente no podría faltar, veremos como insertar imágenes, animaciones y videos.** 
+
+
+==«==
+---
+
+>Por ejemplo aprenderemos como subir imagenes e incluirlas en tus publicaciones. Si usas el navegador Google Chrome o Mozilla Firefox en la versión web de Platzi, podrás adjuntar imágenes **_(exclusivamente de formato PNG y JPG)_** arrastrando la imagen de tu explorador de archivos a la casilla donde escribes el comentario. 
+>
+> [_"Cortesia de @vistoporjuan"_](https://platzi.com/comunidad/como-agrego-imagenes-en-los-comentarios/ "Juan muy amablemente ha autorizado el uso de su animación en esta publicación.")
+
+==»==
+---
+  
+![subir-vistoporjuan][url-img-vistoporjuan]
+
+
+<!--
+Método the economist
+1. El gancho: una descripción visual donde hay un protagonista o una situación que resume todo en un texto con descripciones visuales (imagine usted que...).
+2. Definición del problema: En pocas frases, tienes que resumir cuál es el problema del que se trata. El problema suele estar prrcedido de la locución "pero" o "sin embargo". Suele ser el 'punto de giro'.
+3. Datos que sostienen el problema: Se aportan datos de fuentes fiables para demostrar que es un problema verdadero y serio. Suele haber una cronología. Pueden ser cifras o una descripción científica del asunto. Aquí el problema se transforma en drama o desafío con datos.
+4. Desarrollo: Tesisa favor para resolver el problema. Y tesis en contra que detalla qué va a pasar si la situación no se afronta.
+5. Propuesta: ¿Qué se está haciendo para solucionarlo?
+6. Riesgos: ¿Se están consiguiendo resultados?
+7. Analisis: Si no se está consiguiendo resultados, ¿a qué se debe?
+8. Comparaciones: ¿Qué se está haciendo en otros sitios? ¿Funciona?
+9. Conclusión: ¿Cómo aplicar esas soluciones en nuestro caso y cuáles son los riesgos si no se aplican? Esta última parte suele incluir una oración que comienza en 'if' (el condicional español 'si'): es la advertencia final. "Si no se aplican estas medidas, pasará esto y esto". O bien, termina conun 'pero'. "Estamos en esta situación, pero existe este riesgo".
+El siguiente es un ejemplo de un texto que sigue los lineamientos anteriores:
+Cómo escribir textos que todos entiendan 
+Decidí estudiar periodismo porque en esa profesión te pagan por contar historias. Increíble, ¿no? Elproblema era que, para crecer mi ego, construía mensajes con palabras que nadie entendía.
+Durante mi primer año en la Facultad, titulaba mis textos con los términos más extraños: “Lainefable quimera de sufragar una vida escribiendo”. Durante la carrera, me di cuenta de que nosabía nada sobre escribir. No era consciente de que el propósito de compartir un mensaje es quealguien más lo entienda. Quizá esto te puede sonar muy tonto, pero al inicio no buscaba escribirpara otros, sino para mí.
+El 90% de los blogs que se publican en internet fracasan y he notado que podría estarse repitiendomi historia en otras cabezas. Todos queremos sonar como unos eruditos, ser el máximo referentede un tema, y con ese afán llenamos un texto de palabras rimbombantes (como ésta), sinpreguntarnos qué quiere saber el lector.
+De no arreglar este problema, nunca iba a lograr ganarme la vida contando historias. Así que decidítomar cartas en el asunto e investigué cómo podía escribir mejor y encontré un consejo que me haservido mucho:
+“Las palabras son imágenes”.
+Si tratas de imaginar algo con cada palabra que escribes, verás que hay algunas palabras másdifíciles de imaginar que otras. Hay dos tipos: pictogramas, que tienen un referente real, por tantoson fáciles de imaginar, como perro. Y los ideogramas, que son construcciones sociales que notienen un referente en la realidad; por ejemplo, las palabra justicia.
+Para hacer mis textos más fáciles de entender, busco que la mayoría de las palabras correspondana pictogramas, así mis lectores pueden recordarlas.
+Con el tiempo y la práctica, logré coordinar la sección de Opinión en uno de los periódicosmexicanos más importantes, El Universal, donde logré mi objetivo: vivir de contar historias.
+https://static.platzi.com/media/public/uploads/texto-1_2ff23a7c-9b2a-45d1-8e46-59e974108ddd.pdf
+
+-->
+
 
 <!--
 Utilizar el contenido multimedia para complementar el mensaje que estoy dando.
@@ -294,24 +243,6 @@ Hazlo útil, luego simple y por último bello https://platzi.com/comentario/1192
 https://platzi.com/clases/1784-escritura-online/25420-usando-herramientas-quirurgicas-en-la-practica/
 -->
 
-Platzi utiliza una versión de Markdown llamada [Pulse Editor][url-pulse-editor]. Una de las grandes ventajas de este editor es su extensibilidad y adaptabilidad, por ende, al momento en que estés leyendo estas líneas es posible que sus funcionalidades hayan sido extendidas o modificadas. 
-
-## 👨‍🏫 ¿Qué Aprenderemos?
-
-Aprenderemos como controlar la visualización del documento; escribir en _itálico_, ==resaltando== palabras en **negrita**, insertando [enlaces][url-vacia], agregando 👨‍🚀Emojis🚀,  [![url-vacia][url-ejemplo-boton]](#), organizando tus datos en listas o tablas. Aprenderemos como utilizar variables para ahorrarnos mucho trabajo con las referencias, los enlaces y las imágenes. También se incluyen un par de trucos extra para traer [![url-vacia][url-ejemplo-color]]() a nuestras publicaciones. Veremos como crear publicaciones con expresiones matemáticas **y obviamente no podría faltar, veremos como insertar imágenes, animaciones y videos.** 
-
-
-==«==
----
-
->Por ejemplo aprenderemos como subir imagenes e incluirlas en tus publicaciones. Si usas el navegador Google Chrome o Mozilla Firefox en la versión web de Platzi, podrás adjuntar imágenes **_(exclusivamente de formato PNG y JPG)_** arrastrando la imagen de tu explorador de archivos a la casilla donde escribes el comentario. 
->
-> [_"Cortesia de @vistoporjuan"_](https://platzi.com/comunidad/como-agrego-imagenes-en-los-comentarios/ "Juan muy amablemente ha autorizado el uso de su animación en esta publicación.")
-
-==»==
----
-  
-![subir-vistoporjuan][url-img-vistoporjuan]
 
 
 ## ⚙️ ¿Como funciona Markdown?
@@ -344,6 +275,23 @@ Markdown es muy utilizado en la industria de la tecnología por su versatilidad 
 * **Iniciar discusiones** en el foro: estas publicaciones se enlazan a cada categoría del foro.
 * **Mensajes directos** pueden ser enviados entre estudiantes que han decidido no poner en privado su perfil.
 * También puedes participar en el **Blog Oficial** enviando un correo a team@platzi.com donde ellos te indicaran los pasos a seguir.
+
+<!--
+GRAN CIERRE
+    Resume
+    Recapitula
+    Recomienda
+    Call to Action
+        Deja claro la acción a realizar
+        Describe el beneficio
+        Sé coherente
+        Resalta el Call To Action
+Deja clara la acción que el usuario debe realizar
+Describe el beneficio
+Se coherente
+Resalta el call to action
+https://platzi.com/clases/1784-escritura-online/25400-escribe-un-gran-cierre/
+-->
 
 ## Esta guía ha sido creada con la ayuda del _team Platzi_ y los aportes de otros estudiantes, ojalá sea de tu agrado. 
 
@@ -403,6 +351,64 @@ Cualquier error va por cuenta mia, si encuentras alguno puedes comunicarmelo a [
 Hecho con el 💚 en el 2K20. 
 
 [⚫][url-repositorio]
+
+
+<!--
+Velocidad
+Tiempo de la historia vs tiempo del relato
+Ago ocurrido en dos horas, puedes contarlo en dos minutos.
+Figuras de velocidad (mayor a menor velocidad)
+Elipsis: Quitar aquello que paso en la historia que no causa impacto.
+Sumario: Resumen de lo que sucedio. (pospuse mi alarma varias veces)
+Escena: Tiempo del relato muy parecido a la historia (por ejemplo en los dialogos)
+Pausa: Extendemos un momento que en la historia no fue tan tardado, por ejemplo incluyendo pensamientos, deseos etc.
+https://platzi.com/clases/1784-escritura-online/26096-tu-texto-tiene-ritmo/
+-->
+
+<!--
+Evita las abstracciones. Agrega metaforas y humor.
+- Usa ejemplos
+- Comparaciones
+- Símiles
+- Metaforas
+Ninguna metáfora se puede entender adecuadamente, independientemente de su fundamento en la experiencia. George Lakoff y Mark Johnson
+Metáforas orientacionales
+    Entendemos conceptos de acuerdo al espacio
+    Al terminar este curso mis ánimos estarán por los cielos
+    ·
+    Sustancia y entidad
+    Conceptos de acuerdo con las experticias que hemos tenido con objetos o sucesos
+    Completar este curso me enriquece
+    ·
+    Recipiente
+    Cada uno de nosotros es un recipiente con una superficie limitada y una orientación dentro-fuera.
+    Hay mucho en mi que quiero escribir.
+    ·
+    Personificación
+    Atribuimos cualidades de una persona a objetos.
+    Las ideas hechas letras enamorar a cualquiera.
+    ·
+    Metonimia
+    Designar una cosa o idea con el nombre de otra
+    El Quijote se ha vuelto mi amigo
+https://platzi.com/clases/1784-escritura-online/25399-agrega-metaforas-y-el-humor/
+-->
+
+
+
+
+
+<!--
+Evita tener todo conectado.
+Tip #1
+Utiliza links internos para mostrarle al usuario otros contenidos que le puedan interesar
+Tip #2
+Cita fuentes con links externos para darle validez a los hechos.
+Ayuda con la autoridad de tu sitio, esta autoridad la da la comunidad.
+Tip #3
+Evita frases como “Haz clic aquí” para tu texto de anclaje.
+https://platzi.com/clases/1784-escritura-online/25415-elementos-multimedia/
+--->
 
 
 [url-repositorio]: https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/crea-aportes-geniales-en-platzi-con-markdown.md "Repositorio de este artículo en GitHub"
