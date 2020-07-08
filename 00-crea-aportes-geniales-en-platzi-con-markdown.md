@@ -247,7 +247,7 @@ https://platzi.com/clases/1784-escritura-online/25420-usando-herramientas-quirur
 
 ## ⚙️ ¿Como funciona Markdown?
 
-Cuando escribes en Markdown, el texto se almacena en un archivo de texto sin formato que tiene una extensión .mdo .markdown. ¿Pero entonces, qué? ¿Cómo se convierte su archivo con formato Markdown en HTML o en un documento listo para imprimir?
+Cuando escribes en Markdown, el texto se almacena en un archivo de texto sin formato que tiene una extensión .md o .markdown. ¿Pero entonces, qué? ¿Cómo se convierte tu archivo con formato Markdown en HTML o en un documento listo para imprimir?
 
 Se necesita una aplicación Markdown capaz de procesar el archivo md. Hay muchas aplicaciones disponibles, como [StackEdit][url-stackedit] y [Dillinger][url-dillinger] que funcionan de forma online, o desde simples secuencias de comandos hasta aplicaciones de escritorio que se parecen a Microsoft Word. 
 
