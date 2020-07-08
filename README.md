@@ -3,13 +3,14 @@ Version final del tutorial de Markdown para la comunidad en Platzi
 
 Autores:
  - @mistersoftware
+ - @tuUsuarioPuedeAparecerAquí
 
 ## 1 Escribe con estilo usando Markdown
 
 <!--
 párrafo corto que explica qué estas proponiendo
 -->
-Esta es una serie de guías y plantillas que te permitiran sacar el maximo provecho de Markdown.
+Esta es una serie de guías y plantillas que te permitiran sacar el maximo provecho de Markdown, dentro de Platzi, Slack, GitHub, Jupiter Notebook y más.
 
 ## 2 Motivación
 
@@ -36,7 +37,7 @@ El proposito de esta sección se resume en:
 
  -->
  
- Se han subido 13 articulos a los foros de la comunidad de los cuales, uno ha sido elegido por Platzi (el indice) y este sera promocionado como un blog oficial de la plataforma. 
+ Se han subido 13 articulos a los foros de la comunidad de los cuales, uno ha sido elegido por Platzi (el indice) y este sera promocionado como un blog oficial de la plataforma. Ademas se han realizado diferentes pruebas A/B para elegir el mejor titulo, en las cuales se han puesto a prueba las mejores keywords analizadas mediante Google Trends.
 
 ## 4 Métricas
 
@@ -60,7 +61,7 @@ El principal inconveniente en la elaboración de la guía ha sido la inconsisten
 <!--
 ¿Hay otras formas de resolver éste problema?
 -->
-Siempre sera posible publicar en un blog externo e incluir el link, pero de esa forma se rompe la experiencia de usuario al sacarlo de la plataforma. Por eso me parecio tan importante encontrar mecanismos para incrustar los videos.
+Siempre sera posible publicar en un blog externo e incluir el link, pero de esa forma se rompe la experiencia de usuario al sacarlo de la plataforma. Por eso me parecio tan importante encontrar mecanismos para incrustar los videos, las imágenes e incluso las ecuaciónes, tan necesarias en los cursos de matemáticas.
 
 ## 7 Impacto potencial y dependencias
 
@@ -78,15 +79,16 @@ El mayor impacto solo podra verse en el tiempo, en la medida que las personas co
 <!--
 ¿ Qué preguntas no hemos resuelto?
 -->
-¿Que deberia ocurrir para que las publicaciones se vean exactamente igual antes y despues de publicadas? 
-¿Es posible habilitar las etiquetas de encabezados diferentes a H2?
-¿Navegacion interna con div id?
-¿Habilitaran el artibuto _self en los enlaces?
+* ¿Que deberia ocurrir para que las publicaciones se vean exactamente igual antes y despues de publicadas? 
+* ¿Es posible habilitar las etiquetas de encabezados diferentes a H2?
+* ¿Navegacion interna con div id?
+* ¿Habilitaran el artibuto _self en los enlaces?
 
 ## 9 Conclusión
 
 Han pasado aproximadamente 20 dias desde el primer intento de realizar la guía. En los diferentes intentos he podido notar que el impacto ha sido positivo en la comunidad.
 
+Actualización: Las reacciones en la comunidad han sido mixtas. Algunas personas han amado la publicación y en otras ha despertado hate. ¯\_(ツ)_/¯
 
 <!--
 
