@@ -90,6 +90,7 @@ Han pasado aproximadamente 20 dias desde el primer intento de realizar la guía.
 
 Actualización: Las reacciones en la comunidad han sido mixtas. Algunas personas han amado la publicación y en otras ha despertado hate. ¯\_(ツ)_/¯
 
+### Nueva actualización: Varias personas han reportado la publicación por haberla subido a los cursos donde creí que podria ser de utilidad. Mi cuenta sera suspendida. Bravo Luisca eres todo un campeón. 😆😂🤣
 <!--
 
 ## 10 El proceso (elimina esta sección)
