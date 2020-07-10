@@ -88,12 +88,11 @@ El mayor impacto solo podra verse en el tiempo, en la medida que las personas co
 
 Han pasado aproximadamente 20 dias desde el primer intento de realizar la guía. En los diferentes intentos he podido notar que el impacto ha sido positivo en la comunidad.
 
-Actualización: Las reacciones en la comunidad han sido mixtas. Algunas personas han amado la publicación y en otras ha despertado hate. ¯\_(ツ)_/¯
-
-### Nueva actualización: Varias personas han reportado la publicación por haberla subido a los cursos donde creí que podria ser de utilidad. Mi cuenta sera suspendida. Bravo Luisca eres todo un campeón. 😆😂🤣
 <!--
 
 ## 10 El proceso (elimina esta sección)
+
+Actualización: Las reacciones en la comunidad han sido mixtas. Algunas personas han amado la publicación y en otras ha despertado hate. ¯\_(ツ)_/¯
 
 Al escribir un RFC, estas incluyendo al equipo en la dirección que estas tomando. En muchos casos puede haber multiples soluciones, y tambien opiniones diferentes sobre como atacar un problema. Es posible que en el futuro esta propuesta no sea la mejor solución posible, pero aprenderemos de ella.
 
