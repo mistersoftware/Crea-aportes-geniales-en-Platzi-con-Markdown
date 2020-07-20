@@ -107,14 +107,13 @@ Contestar una pregunta que es una de las cinco W: What, who, when, how, why.
 Concéntrate en resolver sólo una pregunta, para generar asi una sensación de intriga. Es mejor contestar una sola pregunta de forma profunda desde el inicio.
 https://platzi.com/clases/1784-escritura-online/25408-escribe-la-introduccion-de-tu-texto/
 -->
-Muchas personas quieren publicar sus ideas en Platzi. Pero no saben como darle estilo a sus textos. La pregunta es ¿Es tan dificil como se ve, y en caso de no serlo, dónde puedo aprender?
+Tienes miedo de que tu publicación no se vea como esperas aunque sientes que ha llegado el momento de dar el paso.
 
 ==«==
 ---
 
 
-***" En esta publicación encontrarás trucos y herramientas que te ayudaran a darle estilo a tus ideas con Markdown, porque las ideas recién nacidas son frágiles y expuestas incorrectamente están destinadas a morir, y aqúi no queremos que eso suceda. "***
-
+***" Ayuda a tus ideas a que crezcan, publicandolas con estilo y formato enriquecido "***
 
 ==»==
 ---
