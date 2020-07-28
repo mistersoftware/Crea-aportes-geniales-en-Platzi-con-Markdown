@@ -1,7 +1,5 @@
-✍️📖 Formatos de texto, citas, enlaces y código para mejorar tus aportes con Markdown 👨‍🎨👩‍🎨
 
 _Anterior:_ ⏪ [_✍️💡 Escribe textos geniales con Markdown 👨‍🎨👩‍🎨_][url-indice]
-
 
 
 ## 📖 Formatos de texto, citas, enlaces y código para mejorar tus aportes
