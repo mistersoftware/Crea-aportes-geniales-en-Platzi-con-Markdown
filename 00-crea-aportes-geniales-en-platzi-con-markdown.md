@@ -81,6 +81,7 @@ https://platzi.com/clases/1784-escritura-online/25414-revisa-el-seo/
 
 # ✍️💡 Escribe textos geniales con Markdown 👨‍🎨👩‍🎨
 
+
 <!--
 Escribele a un conocido para que comiences de una manera muy familiar y asi ir soltando las lineas del texto.
 -->
